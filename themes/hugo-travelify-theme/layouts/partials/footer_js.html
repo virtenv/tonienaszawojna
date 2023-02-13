@@ -1,5 +1,5 @@
 {{ template "_internal/google_analytics.html" . }}
-<script src="{{ .Site.BaseURL }}js/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
 
 <script>hljs.initHighlightingOnLoad();</script>
 
@@ -10,7 +10,7 @@
 	 inlineMath: [['$','$'], ['\\(','\\)']]}
  });
 </script>
-<script src="{{ .Site.BaseURL }}js/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 {{ end }}
 <script type='text/javascript' src="{{ .Site.BaseURL }}js/jquery.min.js" id='jquery-core-js'></script>
