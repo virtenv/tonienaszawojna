@@ -9,7 +9,7 @@ description = "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL"
 draft = false
 +++
 
--- Publicyści, politycy mówią, że to jest szkodliwe dla Polski. Jakie jest Pana zdanie?
+-- Publicyści, politycy mówią, że to jest szkodliwe dla Polski. Jakie jest Pana zdanie?  
 
 
 Oczywiście, że nie jest szkodliwe.
@@ -40,7 +40,7 @@ się pod tą agresją __w żaden sposób__, natomist uważamy, że pomac huma
 natomiast pomoc militarna nie.
 
 
--- Jaki jest odzew społeczeństwa na tę akcję?
+-- Jaki jest odzew społeczeństwa na tę akcję?  
 
 
 Ogromny. W pierwszej dobie po inauguracji, po ogłoszeniu tego ruchu, wpłynęło do nas ponad
@@ -66,7 +66,7 @@ i możliwości logistycznych.
 
 
 -- Czy są jakieś odzewy, np. jakichś zagranicznych mediów, czy też ważnych osób, które się
-interesują tym?
+interesują tym?  
 
 
 Dzisiaj na Słowacji odbywa się marsz, na który zostaliśmy zaproszeni. Delegacja Polskiego
@@ -75,7 +75,7 @@ właśnie w marszu antywojennym.
 
 
 -- Czy na terenie Polski, w naszym kraju będą odbywać się takie akcjie, czy będą cykliczne?
-Jak widzicie dalszą działalność tej organizacji?
+Jak widzicie dalszą działalność tej organizacji?  
 
 
 W pierwszej fazie i najważniejszej fazie będziemy się koncentrowali na działalności edukacyjno -
@@ -111,7 +111,7 @@ katastrofalnie wygląda system szkolenia rezerw w państwie polskim.
 
 
 -- Jakie będą efekty podróży Prezydenta Żeleńskiego? Jakie może być pokłosie tych wszystkich podróży, które
-się odbywają w tym momencie?
+się odbywają w tym momencie?  
 
 
 Myślę, że tego typu wydarzenia międzynarodowe, jak spotkania, czy to zgromadzenia ogólnego ONZ, czy zgromadzenia OBWE,
