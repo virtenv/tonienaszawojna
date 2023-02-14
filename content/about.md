@@ -17,8 +17,7 @@ Inicjatywa narodziła się oddolnie ze współpracy ideowej Sebastiana Pitonia i
 
 Nie zgadzamy się na tak haniebne słowa jak te, wypowiedziane przez rzecznika MSZ, p. Łukasza Jasinę w marcu 2022 r., które obrazują całą politykę zagraniczną i bezpieczeństwa realizowaną przez rząd w Warszawie ostatnimi laty.
 
-
-
+{{< youtube id="gNYeiCfGbNE" autoplay="false" color="white" yt_start="0" yt_end="15">}}
 
 ##### 🇵🇱 Zero wrogów wśród sąsiadów. Polityka wielowektorowa.
 
