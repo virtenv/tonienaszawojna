@@ -2,8 +2,8 @@
 title: O nas
 date: 2023-02-10T11:30:46.596Z
 author: Polski Ruch Antywojenny
-tags: [ "about" ]
-categories: [ "O nas" ]
+tags: [ "O nas" ]
+categories: [ "My" ]
 noprevnext: true
 nodateline: true
 disable_comments: true

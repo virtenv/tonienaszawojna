@@ -58,37 +58,37 @@ enableRobotsTXT = true
 [menu]
 [[menu.main]]
     name  = "O nas"
-    url   = "/post/about/"
+    url   = "/post/onas/"
     weight = 10
 
 [[menu.main]]
     name  = "Deklaracja"
-    url   = "/post/declaration/"
+    url   = "/post/deklaracja/"
     weight = 20
 
 [[menu.main]]
     name  = "Nasze inicjatywy"
-    url   = "/activities/"
+    url   = "/inicjatywy/"
     weight = 30
 
 [[menu.main]]
     name  = "Logotypy do pobrania"
-    url   = "/logotypes/"
+    url   = "/logotypy/"
     weight = 40
 
 [[menu.main]]
     name  = "Grafiki"
-    url   = "/graphics/"
+    url   = "/grafiki/"
     weight = 50
 
 [[menu.main]]
     name  = "Wsparcie"
-    url   = "/support/"
+    url   = "/wsparcie/"
     weight = 60
     
 [[menu.main]]
     name  = "Kontakt"
-    url   = "/contact/"
+    url   = "/kontakt/"
     weight = 70
 #[[menu.main]]
 #    name  = "Contact21"
@@ -173,6 +173,7 @@ DisqusShortname = "example"
     num_features = -1 # The slider picks up the banner images from the N most recent posts, where num_features is N.
     
 [permalinks]
+    #categories = "/categories/:slug/" #can be changed to "/category/:slug/"
     categories = "/categories/:slug/" #can be changed to "/category/:slug/"
     tags = "/tags/:slug/"
 

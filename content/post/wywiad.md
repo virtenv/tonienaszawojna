@@ -2,7 +2,7 @@
 title = "Wywiad przed Sejmem RP z dr. Leszkiem Sykulskim"
 date = "2023-02-11T11:21:18.373Z"
 author = "Dr Leszek Sykulski"
-tags = [ "interview" ]
+tags = [ "Wywiad" ]
 #categories = [ "wywiady" ]
 banner = "banners/wywiad.jpg"
 description = "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL"

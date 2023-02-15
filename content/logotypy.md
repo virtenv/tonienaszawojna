@@ -2,7 +2,7 @@
 title: Logotypy
 date: 2023-02-11T11:31:56.580Z
 author: Polski Ruch Antywojenny
-tags: [ "logotypes" ]
+tags: [ "Logotypy" ]
 categories: [ "Logotypy" ]
 nodateline: true
 noprevnext: true

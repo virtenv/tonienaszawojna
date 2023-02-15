@@ -2,7 +2,7 @@
 title = "Deklaracja"
 date = "2023-02-11T11:15:45.537Z"
 author = "Polski Ruch Antywojenny"
-tags = [ "declaration" ]
+tags = [ "Deklaracja" ]
 categories = [ "Deklaracja" ]
 banner = "banners/deklaracja.jpg"
 description = "Deklaracj Polskiego Ruchu Antywojennego"
