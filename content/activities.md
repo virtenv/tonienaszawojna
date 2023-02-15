@@ -2,13 +2,16 @@
 title: Inicjatywy
 date: 2023-02-11T11:29:54.212Z
 author: Polski Ruch Antywojenny
+tags: [ "activities" ]
+categories: [ "Inicjatywy" ]
 nodateline: true
 noprevnext: true
 disable_comments: true
 description: Inicjatywy Polskiego Ruchu Antywojennego
 draft: false
 ---
-![your image](/post/images/SAP-1.jpeg)
+![Nasze inicjatywy](/SAP-1.jpeg)
+
 
 
 __Tworzymy film dokumentalny pt. ,,Stop amerykanizacji Polski''__.

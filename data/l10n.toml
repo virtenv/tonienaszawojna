@@ -1,9 +1,9 @@
 [articles]
     read_more = "Czytaj więcej"
-    words = "words"
-    readingtime = "minute read"
+    words = "słowa"
+    readingtime = "minut czytania"
     share = "Udostępnij:"
-    comments = "Comments"
+    comments = "Komentarze"
 
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
@@ -11,7 +11,7 @@
     newer = "→"
 
 [search]
-    placeholder = "Search"
+    placeholder = "Znajdź"
 
 [pagination]
     previous = "Wstecz"
@@ -19,8 +19,8 @@
 
 [profile]
     follow_button = "Polub nas"
-    tags = "Tags"
-    posts = "Posts"
+    tags = "Tagi"
+    posts = "Posty"
 
 [page_not_found]
     title = "Błąd 404 - brak strony"
@@ -50,7 +50,7 @@
 	emailmessage = "Hello there, I would to share this article with you"
 	
 [widgets.categories]
-    title = "Kategorie"
+    title = "Menu"
 
 [widgets.recent_articles]
     title = "Ostatnie wiadomości"
@@ -64,7 +64,7 @@
     subscribe_text = "Enter your email address to subscribe to this blog and receive notifications of new posts by email."
 
 [widgets.tags]
-    title = "Tags"
+    title = "Tagi"
 
 [authors]
-    Title = "Authors"
+    Title = "Autorzy"

@@ -2,6 +2,8 @@
 title: Kontakt
 date: 2023-02-11T11:30:13.839Z
 author: Polski Ruch Antywojenny
+tags: [ "contact" ]
+categories: [ "Kontakt" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

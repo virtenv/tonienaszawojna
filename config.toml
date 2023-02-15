@@ -58,7 +58,7 @@ enableRobotsTXT = true
 [menu]
 [[menu.main]]
     name  = "O nas"
-    url   = "/about/"
+    url   = "/post/about/"
     weight = 10
 
 [[menu.main]]
@@ -142,7 +142,7 @@ DisqusShortname = "example"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    rss             = "" # leave this to blank if you do not want RSS feed icon to appear on top
+#    rss             = "" # leave this to blank if you do not want RSS feed icon to appear on top
 #    github          = "example"
 #    flickr          = "example"
 #    instagram       = "example"

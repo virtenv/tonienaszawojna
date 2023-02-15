@@ -2,8 +2,8 @@
 title = "Nasza wojna, czy nie nasza?"
 date = "2023-02-14T12:53:38.603Z"
 author = "Katarzyna Treter-Sierpińska"
-tags = [ "Portale o akcji" ]
-categories = [ "Portale" ]
+tags = [ "portal" ]
+#categories = [ "Portale" ]
 banner = "banners/baner2.jpeg"
 description = "Portal wPrawoPL o Polskim Ruchu Antywojennym"
 draft = false
