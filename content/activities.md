@@ -13,7 +13,6 @@ draft: false
 ![Nasze inicjatywy](/SAP-1.jpeg)
 
 
-
 __Tworzymy film dokumentalny pt. ,,Stop amerykanizacji Polski''__.
 
 

@@ -4,7 +4,7 @@
     {{ range $name, $items := .Site.Taxonomies.categories }}
     {{ with site.GetPage (printf "/%s/%s" "categories" ($name | urlize)) }}
     <li class="cat-item">
-      <a href="{{ .Permalink }}">{{ $name | title }}</a> ({{ len $items }})
+      <a href="{{ .Permalink }}">{{ $name | title }}</a><!-- ({{ len $items }}) -->
     </li>
     {{ end }}
     {{ end }}
