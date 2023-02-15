@@ -1,0 +1,7 @@
+{{/*
+	Render <time/> tag with post date in Polish
+	usage: partial "post-date-tag.html" <date-obj>
+*/}}
+
+{{- $Months := slice "unused" "stycznia" "lutego" "marca" "kwietnia" "maja" "czerwca" "lipca" "sierpnia" "września" "października" "listopada" "grudnia" -}}
+{{ return index $Months .Month }}

@@ -310,7 +310,7 @@ Edit the file to add the theme, add a title for the site, and specify that all o
 $ vi config.toml
 theme = "zafta"
 baseurl = ""
-languageCode = "en-us"
+languageCode = "pl"
 title = "zafta - totally refreshing"
 MetaDataFormat = "toml"
 :wq
