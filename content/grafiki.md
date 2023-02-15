@@ -13,13 +13,13 @@ draft: false
 ![grafika](/To_nie_nasza_wojna_baner_poziomy-3-1024x576.png)
 
 
-![grafika 2](/To_nie_nasza_wojna_Baner_pionowy-1.png)
+![grafika 2](/Bilbord_wizualizacja-1-1024x768.png)
 
 
-![grafika 3](/To_nie_nasza_wojna_Baner_pionowy2-1.png)
+![grafika 3](/To_nie_nasza_wojna_Baner_pionowy-1.png)
 
 
-![grafika 4](/Bilbord_wizualizacja-1-1024x768.png)
+![grafika 4](/To_nie_nasza_wojna_Baner_pionowy2-1.png)
 
 
 ![grafika 5](/Dzisiaj_nasze_czolgi_jutro_nasze_dzieci-1.jpeg)
