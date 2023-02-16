@@ -17,7 +17,7 @@
                 <h3 class="rpwe-title">
 		    <a href="{{ .Permalink }}" title="Permalink to {{ .Title }}" >{{ .Title }}</a>
 		</h3>
-        <time class="rpwe-time published">{{- .Date.Day }} {{ partial "post-date-tag" .Date }} {{ .Date.Year -}}</time>
+            <time class="rpwe-time published">{{ .Date | time.Format ":date_long" }}</time>
             </li>
             {{ end }}
         </ul>

@@ -42,7 +42,7 @@ enableRobotsTXT = true
     sitename = "To nie nasza wojna"
 
     # Format dates with Go's time formatting
-    date_format = '_2 Jan 2006'
+    date_format = 'date = 2021-11-03T12:34:56+01:00'
 
     # Add custom assets with their paths relative to the static folder
     custom_css = []

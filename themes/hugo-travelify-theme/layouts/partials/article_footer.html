@@ -16,7 +16,7 @@
     {{ $date_format := .Site.Params.date_format }}
     {{ end }}
     <span class="posted-on">
-      <time class="entry-date published" itemprop="datePublished">{{- .Date.Day }} {{ partial "post-date-tag" .Date }} {{ .Date.Year -}}</time>
+      <time class="entry-date published" itemprop="datePublished">{{ .Date | time.Format ":date_long" }}</time>
     </span>
     {{ end }}
 
