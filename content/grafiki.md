@@ -10,19 +10,13 @@ disable_comments: true
 description: Grafiki Polskiego Ruchu Antywojennego
 draft: false
 ---
-![grafika](/To_nie_nasza_wojna_baner_poziomy-3-1024x576.png)
+Poniżej linki, z których można pobrać pełny pakiet grafik (plakaty A4, naklejki, banery, bilbordy) w formatach JPG, PNG i PDF. Udostępniamy do bezpłatnego wykorzystania (bez wprowadzania zmian graficznych) tylko w duchu naszego ruchu (kampania antywojenna), zgodzie z obowiązującym prawem. Polski Ruch Antywojenny nie ponosi odpowiedzialności za użycie grafik niezgodne z prawem (np. umieszczanie ich w miejscach niedozwolonych).
 
 
-![grafika 2](/Bilbord_wizualizacja-1-1024x768.png)
+[Grafiki na Mediafire.com](https://www.mediafire.com/folder/e3mxmi645l5xt/PRA_Grafiki "Grafiki na Mediafire.com")
 
 
-![grafika 3](/To_nie_nasza_wojna_Baner_pionowy-1.png)
+[Grafiki na Google Drive](https://drive.google.com/drive/folders/1BDYCx0L_UFOzLjZZzKfBwUrFdHCovI6R?usp=share_link "Grafiki na Google Drive")
 
 
-![grafika 4](/To_nie_nasza_wojna_Baner_pionowy2-1.png)
-
-
-![grafika 5](/Dzisiaj_nasze_czolgi_jutro_nasze_dzieci-1.jpeg)
-
-
-Pozostałe grafiki będą dostępne od połowy lutego 2023 r.
+[Grafiki na Chomikuj.pl](https://chomikuj.pl/Polski_Ruch_Antywojenny/Grafiki "Grafiki na Chomikuj.pl")
