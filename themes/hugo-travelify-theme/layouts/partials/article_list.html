@@ -1,12 +1,12 @@
 {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
 
 {{ range $paginator.Pages }}
-<section id="main" class="post type-post status-publish format-standard has-post-thumbnail hentry">
+<section class="post type-post status-publish format-standard has-post-thumbnail hentry">
   <article>
     {{ if and (isset .Params "banner") (not (eq .Params.banner "")) }}
     <figure class="post-featured-image">
       <a href="{{ .RelPermalink }}" itemprop="url">
-      <img src="{{ .Params.banner | absURL }}" class="attachment-featured size-featured wp-post-image"/>
+      <img src="{{ .Params.banner | absURL }}" class="attachment-featured size-featured wp-post-image" alt="Banner"/>
       </a>
     </figure>
     {{ end }}
