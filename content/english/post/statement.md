@@ -1,13 +1,13 @@
-+++
-title = "Deklaracja"
-date = "2023-02-11T11:15:45.537Z"
-author = "Polski Ruch Antywojenny"
-tags = [ "Deklaracja" ]
-categories = [ "Deklaracja" ]
-banner = "banners/deklaracja.jpg"
-description = "Deklaracj Polskiego Ruchu Antywojennego"
-draft = false
-+++
+---
+title: "Statement"
+date: "2023-02-11T11:15:45.537Z"
+author: Polish Anti-War Movement
+tags: [ "Statement" ]
+categories: [ "Statement" ]
+banner: "banners/deklaracja.jpg"
+description: "Declaration of the Polish Anti-War Movement."
+draft: false
+---
 
 ##### Deklaracja Polskiego Ruchu Antywojennego
 

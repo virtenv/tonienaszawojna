@@ -23,7 +23,7 @@
     {{ if .Truncated }}
     <span>
       <a class="readmore" href="{{ .RelPermalink }}">
-      {{ with .Site.Data.l10n.articles.read_more }}{{ . }}{{ end }}
+      {{ with T "read_more" }}{{ . }}{{ end }}
       </a>
     </span>
     {{ end }}{{/* if .Truncated */}}

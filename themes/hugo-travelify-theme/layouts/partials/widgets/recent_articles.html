@@ -1,7 +1,7 @@
 {{ if .Site.Params.widgets.recent_articles }}
 <aside id="rpwe_widget-3" class="widget rpwe_widget">
     <h3 class="widget-title">
-        {{with .Site.Data.l10n.widgets.recent_articles.title}}{{.}}{{end}}
+        {{with T "recent_articles"}}{{.}}{{end}}
     </h3>
     <div class="rpwe-block">
         <ul class=" rpwe-ul">

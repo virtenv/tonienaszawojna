@@ -22,6 +22,16 @@ enableRobotsTXT = true
 
 # rssURI = "feed/" #deprecated feature
 
+[languages]
+  [languages.pl]
+    contentDir = 'content/polish'
+    languageName = 'Polish'
+    weight = 1
+  [languages.en]
+    contentDir = 'content/english'
+    languageName = 'English'
+    weight = 2
+
 [[cascade]]
 
 [cascade._target]
@@ -31,9 +41,9 @@ enableRobotsTXT = true
 
 [params]
     # Tell me who you are
-    title = "#ToNieNaszaWojna"
-    author = "Polski Ruch Antywojenny"
-    site_description = "Polski Ruch Antywojenny"
+    #title = "#ToNieNaszaWojna"
+    #author = "Polski Ruch Antywojenny"
+    #site_description = "Polski Ruch Antywojenny"
     copyright  = "Copyright"
     #avatar = ""
     logo = "logo.png"
@@ -56,36 +66,43 @@ enableRobotsTXT = true
 
 [menu]
 [[menu.main]]
+    identifier = "about"
     name  = "O nas"
     url   = "/post/onas/"
     weight = 10
 
 [[menu.main]]
+    identifier = "statement"
     name  = "Deklaracja"
     url   = "/post/deklaracja/"
     weight = 20
 
 [[menu.main]]
+    identifier = "activities"
     name  = "Nasze inicjatywy"
     url   = "/inicjatywy/"
     weight = 30
 
 [[menu.main]]
+    identifier = "logotypes"
     name  = "Logotypy do pobrania"
     url   = "/logotypy/"
     weight = 40
 
 [[menu.main]]
+    identifier = "graphics"
     name  = "Grafiki do druku"
     url   = "/grafiki/"
     weight = 50
 
 [[menu.main]]
+    identifier = "support"
     name  = "Wsparcie"
     url   = "/wsparcie/"
     weight = 60
     
 [[menu.main]]
+    identifier = "contact"
     name  = "Kontakt"
     url   = "/kontakt/"
     weight = 70

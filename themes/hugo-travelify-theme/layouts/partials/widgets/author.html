@@ -3,7 +3,7 @@
 {{ if not (eq (len .Site.Taxonomies.author) 0) }}
 <div class="widget">
 
-  <h3 class="widget-title">{{ with .Site.Data.l10n.authors.Title }}{{.}} {{ end }}
+  <h3 class="widget-title">{{ with T "authors" }}{{.}} {{ end }}
   </h3>
 
     <div class="panel-body">

@@ -1,0 +1,104 @@
+[title]
+other = "#ToNieNaszaWojna"
+
+[site_description]
+other = "Polski Ruch Antywojenny"
+
+[about]
+other="O nas"
+
+[statement]
+other="Deklaracja"
+
+[activities]
+other = "Inicjatywy"
+
+[logotypes]
+other = "Logotypy"
+
+[graphics]
+other = "Grafiki"
+
+[support]
+other = "Wsparcie"
+
+[contact]
+other = "Kontakt"
+
+[read_more]
+other = "Czytaj więcej"
+
+[words]
+other = "słowa"
+
+
+
+
+[title_page_not_found]
+other = "Błąd 404 - Nie znaleziono strony."
+
+[subtitle_page_not_found]
+other = "Wygląda na to, że treść, której szukasz, nie istnieje."
+
+[social_facebook]
+other = "Zapraszamy na Facebooka"
+
+[social_twitter]
+other = "Zapraszamy na Twittera"
+
+[social_rss]
+other = "Subskrybuj nasz kanał RSS"
+
+[social_googleplus]
+other = "Zapraszamy na Google Plus"
+    
+[social_pinterest]
+other = "Zapraszamy na Pinterest"
+    
+[social_linkedin]
+other = "Zapraszamy na LinkedIn"
+
+[social_tumblr]
+other = "Zapraszamy na Tumblr"
+    
+[social_vimeo]
+other = "Zapraszamy na Vimeo"
+    
+[social_instagram]
+other = "Zapraszamy na Instagram"
+
+[social_flickr]
+other = "Zapraszamy na Flickr"
+    
+[social_youtube]
+other = "Zapraszamy na YouTube"
+
+[social_github]
+other = "Zapraszamy na GitHub"
+    
+[social_email]
+other = "Wyślij nam e-mail"
+
+[share_facebook]
+other = "Wyślij na Fecebooka"
+
+[share_twitter]
+other = "Wyślij na Twittera"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Wyślij na LinkedIn"
+
+[share_email]
+other = "Napisz e-mail"
+	
+[share_emailmessage]
+other = "Cześć, wysyłam Tobie artykuł."
+
+[recent_articles]
+other = "Ostatnie wiadomości"
+
+[authors]
+other = "Autorzy"

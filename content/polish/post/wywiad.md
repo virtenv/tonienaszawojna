@@ -1,15 +1,15 @@
-+++
-title = "Wywiad przed Sejmem RP z dr. Leszkiem Sykulskim"
-date = "2023-02-11T11:21:18.373Z"
-author = "Dr Leszek Sykulski"
-tags = [ "Wywiad" ]
-#categories = [ "wywiady" ]
-banner = "banners/wywiad.jpg"
-description = "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL"
-draft = false
-+++
+---
+title: "Wywiad przed Sejmem RP z dr. Leszkiem Sykulskim"
+date: "2023-02-11T11:21:18.373Z"
+author: Dr Leszek Sykulski
+tags: [ "Wywiad" ]
+#categories: [ "wywiady" ]
+banner: "banners/wywiad.jpg"
+description: "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL"
+draft: false
+---
 
--- Publicyści, politycy mówią, że to jest szkodliwe dla Polski. Jakie jest Pana zdanie?  
+-- Publicyści, politycy mówią, że to jest szkodliwe dla Polski. Jakie jest Pana zdanie?
 
 
 Oczywiście, że nie jest szkodliwe.
@@ -40,7 +40,7 @@ się pod tą agresją __w żaden sposób__, natomist uważamy, że pomac huma
 natomiast pomoc militarna nie.
 
 
--- Jaki jest odzew społeczeństwa na tę akcję?  
+-- Jaki jest odzew społeczeństwa na tę akcję?
 
 
 Ogromny. W pierwszej dobie po inauguracji, po ogłoszeniu tego ruchu, wpłynęło do nas ponad
@@ -66,7 +66,7 @@ i możliwości logistycznych.
 
 
 -- Czy są jakieś odzewy, np. jakichś zagranicznych mediów, czy też ważnych osób, które się
-interesują tym?  
+interesują tym?
 
 
 Dzisiaj na Słowacji odbywa się marsz, na który zostaliśmy zaproszeni. Delegacja Polskiego
@@ -75,7 +75,7 @@ właśnie w marszu antywojennym.
 
 
 -- Czy na terenie Polski, w naszym kraju będą odbywać się takie akcjie, czy będą cykliczne?
-Jak widzicie dalszą działalność tej organizacji?  
+Jak widzicie dalszą działalność tej organizacji?
 
 
 W pierwszej fazie i najważniejszej fazie będziemy się koncentrowali na działalności edukacyjno -
@@ -85,40 +85,21 @@ w internecie będziemy starali się przekonywać Polaków do tego, że wybór j
 i w dobrze pojętym interesie Polaków i pańśtwa polskiego jest po prostu pokój.
 
 
-W związku z tym uważamy, że Polska powinna prowadzić politykę wielowektorową, politykę zero wrogów wśród
-sąsiadów i nie szukać problemów tam, gdzie ich nie ma, bo my nie opowiadamy się za jakimś sojuszem
-z Rosją, to jest absurd, to co nam nasi przeciwnicy zarzucają. My chcemy prowadzić normalne relacje
-gospodarcze z Białorusią, z Rosją, z Niemcami, z Chinami, z Iranem, z USA.
+W związku z tym uważamy, że Polska powinna prowadzić politykę wielowektorową, politykę zero wrogów wśród sąsiadów i nie szukać problemów tam, gdzie ich nie ma, bo my nie opowiadamy się za jakimś sojuszem z Rosją, to jest absurd, to co nam nasi przeciwnicy zarzucają. My chcemy prowadzić normalne relacje gospodarcze z Białorusią, z Rosją, z Niemcami, z Chinami, z Iranem, z USA.
 
 
 Oczywiście integralną częścią naszej akcji jest: ,,Stop Amerykanizacji Polski'', ale ono bardzo często
 jest źle rozumiane. My się nie sprzeciwiamy wszystkiemu, co amerykańskie. Nie jesteśmy przeciwko narodowi
 amerykańskiemu. My krytykujemy obecną politykę zagraniczną, politykę bezpieczeństwa USA, natomiast
-nie krytykujemy wszystkiego, co amerykańskie. Jesteśmy za tym, aby normalnie handlować, normalnie prowadzić
-relacje gospodarcze z USA.
+nie krytykujemy wszystkiego, co amerykańskie. Jesteśmy za tym, aby normalnie handlować, normalnie prowadzić relacje gospodarcze z USA.
 
 
 Jeśli Polska przekaże samoloty F-16 na rzecz Ukrainy, będziemy w jeszcze większym stopniu rozbrojeni
-niż do tej pory. To jest coś niewyobrażalnego, jak dzisiaj Polska jest mocno rozbrojona. Dzisiaj Polska jest
-w najgorszej kondycji, jeśli chodzi o system obronny, po roku 1989, bo system obronny to przecież nie tylko
-siły zbrojne, ale także szeroko pojęty system odporności państwa polskiego, także jeśli chodzi o system
-obrony cywilnej. To jest bardzo istotna kwestia, a wiemy doskonale z dwóch raporttów Najwyższej Izby Kontroli,
-z 2012 r. i 2019 r., że Polska nie ma efektywnego systemu obrony cywilnej. Wiceminister Sprw Wewnętrznych
-i administracji, pan Marcin Warchoł, powiedział wyraźnie, że tylko 3% populacji w Polsce ma dostęp do
-schronów, więc dzisiaj Polska jest do żadnego konfliktu nieprzygotowana, jeśli chodzi o obronę cywilną
-i jeśli chodzi o siły zbrojne. I mówię to jako porucznik rezerwy Wojska Polskiego. Wiem doskonale jak
-katastrofalnie wygląda system szkolenia rezerw w państwie polskim.
+niż do tej pory. To jest coś niewyobrażalnego, jak dzisiaj Polska jest mocno rozbrojona. Dzisiaj Polska jest w najgorszej kondycji, jeśli chodzi o system obronny, po roku 1989, bo system obronny to przecież nie tylko siły zbrojne, ale także szeroko pojęty system odporności państwa polskiego, także jeśli chodzi o system obrony cywilnej. To jest bardzo istotna kwestia, a wiemy doskonale z dwóch raporttów Najwyższej Izby Kontroli, z 2012 r. i 2019 r., że Polska nie ma efektywnego systemu obrony cywilnej. Wiceminister Spraw Wewnętrznych i administracji, pan Marcin Warchoł, powiedział wyraźnie, że tylko 3% populacji w Polsce ma dostęp do schronów, więc dzisiaj Polska jest do żadnego konfliktu nieprzygotowana, jeśli chodzi o obronę cywilną i jeśli chodzi o siły zbrojne. I mówię to jako porucznik rezerwy Wojska Polskiego. Wiem doskonale jak katastrofalnie wygląda system szkolenia rezerw w państwie polskim.
 
 
--- Jakie będą efekty podróży Prezydenta Żeleńskiego? Jakie może być pokłosie tych wszystkich podróży, które
-się odbywają w tym momencie?  
+-- Jakie będą efekty podróży Prezydenta Żeleńskiego? Jakie może być pokłosie tych wszystkich podróży, które się odbywają w tym momencie?
 
 
-Myślę, że tego typu wydarzenia międzynarodowe, jak spotkania, czy to zgromadzenia ogólnego ONZ, czy zgromadzenia OBWE,
-czy jeśli chodzi o szczyt NATO doskonale pokazują, że jest to nieefektywne, jeśli chodzi o pomoc Ukrainie. Dzisiaj
-państwa, tzw. kolektywnego Zachodu, nie chcą efektywnie pomóc Ukrainie, bo gdyby chciały, to interweniowałyby zbrojnie.
-USA byłyby w stanie zamknąć przestrzeń powietrzną nad Ukrainą, a tego nie robią, dlatego że ta wojna na Ukrainie jest
-katalizatorem bardzo wielu procesów politycznych, które są na rękę USA i państwom Europy Zachodniej, np. federalizacji
-Unii Europejskiej, czy też przyspieszenia Agendy 2030, czy też, np. wprowadzenia transformacji energetycznej, jeśli
-chodzi o cały klimatyzm i wszystko, co z tym związane, więc tutaj mamy do czynienia z wieloma, powiedziałbym, zbieżnmi
-także korporacji ponadnarodowych i najważniejszych państwa świata.
+Myślę, że tego typu wydarzenia międzynarodowe, jak spotkania, czy to zgromadzenia ogólnego ONZ, czy zgromadzenia OBWE, czy jeśli chodzi o szczyt NATO doskonale pokazują, że jest to nieefektywne, jeśli chodzi o pomoc Ukrainie. Dzisiaj państwa, tzw. kolektywnego Zachodu, nie chcą efektywnie pomóc Ukrainie, bo gdyby chciały, to interweniowałyby zbrojnie. USA byłyby w stanie zamknąć przestrzeń powietrzną nad Ukrainą, a tego nie robią, dlatego że ta wojna na Ukrainie jest katalizatorem bardzo wielu procesów politycznych, które są na rękę USA i państwom Europy Zachodniej, np. federalizacji
+Unii Europejskiej, czy też przyspieszenia Agendy 2030, czy też, np. wprowadzenia transformacji energetycznej, jeśli chodzi o cały klimatyzm i wszystko, co z tym związane, więc tutaj mamy do czynienia z wieloma, powiedziałbym, zbieżnmi także korporacji ponadnarodowych i najważniejszych państwa świata.

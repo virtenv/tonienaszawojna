@@ -1,0 +1,103 @@
+[title]
+other = "#ThisIsNotOurWar"
+
+[site_description]
+other = "Polish Anti-War Movement."
+
+[about]
+other="About"
+
+[statement]
+other="Statement"
+
+[activities]
+other = "Activities"
+
+[logotypes]
+other = "Logotypes"
+
+[graphics]
+other = "Graphics"
+
+[support]
+other = "Support"
+
+[contact]
+other = "Contact"
+
+[read_more]
+other = "Read More"
+
+[words]
+other = "words"
+
+
+
+[title_page_not_found]
+other = "Error 404 - Page NOT Found"
+
+[subtitle_page_not_found]
+other = "The content you're looking for doesn't seem to exist."
+
+[social_facebook]
+other = "Follow us on Facebook"
+
+[social_twitter]
+other = "Follow us on Twitter"
+
+[social_rss]
+other = "Subscribe to our feed"
+
+[social_googleplus]
+other = "Follow us on Google Plus"
+    
+[social_pinterest]
+other = "Follow us on Pinterest"
+    
+[social_linkedin]
+other = "Follow us on LinkedIn"
+
+[social_tumblr]
+other = "Follow us on Tumblr"
+    
+[social_vimeo]
+other = "Follow us on Vimeo"
+    
+[social_instagram]
+other = "Follow us on Instagram"
+
+[social_flickr]
+other = "Follow us on Flickr"
+    
+[social_youtube]
+other = "Follow us on YouTube"
+
+[social_github]
+other = "Follow us on GitHub"
+    
+[social_email]
+other = "Email us"
+
+[share_facebook]
+other = "Share"
+
+[share_twitter]
+other = "Tweet"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Share"
+
+[share_email]
+other = "Email"
+	
+[share_emailmessage]
+other = "Hello there, I would to share this article with you"
+
+[recent_articles]
+other = "Recent Posts"
+
+[authors]
+other = "Authors"

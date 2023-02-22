@@ -13,11 +13,11 @@
 	    <div id="content">
 	      <header class="entry-header">
 		<h1 class="entry-title">
-                  {{with .Site.Data.l10n.page_not_found.title}}{{.}}{{end}}
+                  {{with T "title_page_not_found"}}{{.}}{{end}}
 		</h1>
 	      </header>
 	      <div class="entry-content clearfix">
-		<p>{{with .Site.Data.l10n.page_not_found.subtitle}}{{.}}{{end}}</p>
+		<p>{{with T "subtitle_page_not_found"}}{{.}}{{end}}</p>
 		<h3>This might be because:</h3>
 		<ul>
 		  <li>You have typed the web address incorrectly</li>
@@ -27,7 +27,7 @@
 		<ul>
 		  <li>Check for a mis-typed URL error</li>
 		  <li>Press the refresh button on your browser.</li>
-		  <li>Go back to <a href="/" title="{{ .Site.Title }}" rel="home">Homepage</a></li>
+		  <li>Go back to <a href="/" title="{{ T "title" }}" rel="home">Homepage</a></li>
 		</ul>
 	      </div>
 	    </div>
