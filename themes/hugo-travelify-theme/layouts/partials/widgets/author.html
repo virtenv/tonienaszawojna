@@ -9,7 +9,7 @@
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
           {{ range $name, $items := .Site.Taxonomies.author.ByCount }}
-          <li><a href="{{ $.Site.BaseURL }}author/{{ $items.Name | urlize | lower }}"><i class="fa fa-user"></i> {{ $items.Name }} ({{ $items.Count }})</a>
+          <li><a href="{{ $.Site.BaseURL }}author/{{ $items.Name | urlize }}"><i class="fa fa-user"></i> {{ $items.Name }} ({{ $items.Count }})</a>
           </li>
           {{ end }}
         </ul>

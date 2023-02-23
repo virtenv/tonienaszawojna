@@ -76,7 +76,7 @@
     
     <hgroup id="site-logo" class="clearfix">
       <h1 id="site-title">
-	<a href="/" rel="home">
+	<a href="/{{ .Site.Language }}" rel="home">
 	  {{ if .Site.Params.logo }}
           <img src="{{ .Site.Params.logo | absURL }}"></img>
 	  {{ end }}

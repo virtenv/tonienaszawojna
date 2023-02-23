@@ -4,6 +4,8 @@ date: "2023-02-11T11:15:45.537Z"
 author: Polish Anti-War Movement
 tags: [ "Statement" ]
 categories: [ "Statement" ]
+nodateline: true
+noprevnext: true
 banner: "banners/deklaracja.jpg"
 description: "Declaration of the Polish Anti-War Movement."
 draft: false

@@ -1,9 +1,9 @@
 baseURL = "https://tonienaszawojna.org"
 title = "#ToNieNaszaWojna"
-subtitle = "Prowodyrzy wojenni uspokójcie się."
 languageCode = "pl"
 
 defaultContentLanguage = 'pl'
+defaultContentLanguageInSubdir = true
 
 # preservetaxonomynames = true
 tags = ["website", "responsive", "Multilingual"]
@@ -26,11 +26,87 @@ enableRobotsTXT = true
   [languages.pl]
     contentDir = 'content/polish'
     languageName = 'Polish'
+    title = '#ToNieNaszaWojna'
     weight = 1
+    [languages.pl.params]
+      author = "Polski Ruch Antywojenny"
+      site_description = "Polski Ruch Antywojenny"
+[[languages.pl.menu.main]]
+    name  = "O nas"
+    url   = "/pl/post/onas/"
+    weight = 10
+[[languages.pl.menu.main]]
+    name  = "Deklaracja"
+    url   = "/pl/post/deklaracja/"
+    weight = 20
+
+[[languages.pl.menu.main]]
+    name  = "Nasze inicjatywy"
+    url   = "/pl/inicjatywy/"
+    weight = 30
+
+[[languages.pl.menu.main]]
+    name  = "Logotypy do pobrania"
+    url   = "/pl/logotypy/"
+    weight = 40
+
+[[languages.pl.menu.main]]
+    name  = "Grafiki do druku"
+    url   = "/pl/grafiki/"
+    weight = 50
+
+[[languages.pl.menu.main]]
+    name  = "Wsparcie"
+    url   = "/pl/wsparcie/"
+    weight = 60
+    
+[[languages.pl.menu.main]]
+    name  = "Kontakt"
+    url   = "/pl/kontakt/"
+    weight = 70 
+
   [languages.en]
     contentDir = 'content/english'
     languageName = 'English'
-    weight = 2
+    title = '#ThisIsNotOurWar'
+   weight = 2
+    [languages.en.params]
+      author = "Polish Anti-War Movement"
+      site_description = "Polish Anti-War Movement"
+    [languages.en.menu]
+[[languages.en.menu.main]]
+    name  = "About"
+    url   = "/en/post/about/"
+    weight = 10
+[[languages.en.menu.main]]
+    name  = "Statement"
+    url   = "/en/post/statement/"
+    weight = 20
+
+[[languages.en.menu.main]]
+    name  = "Activities"
+    url   = "/en/activities/"
+    weight = 30
+
+[[languages.en.menu.main]]
+    name  = "Logotypes to download"
+    url   = "/en/logotypes/"
+    weight = 40
+
+[[languages.en.menu.main]]
+    name  = "Graphics to print"
+    url   = "/en/graphics/"
+    weight = 50
+
+[[languages.en.menu.main]]
+    name  = "Support"
+    url   = "/en/support/"
+    weight = 60
+    
+[[languages.en.menu.main]]
+    name  = "Contact"
+    url   = "/en/contact/"
+    weight = 70
 
 [[cascade]]
 
@@ -40,10 +116,6 @@ enableRobotsTXT = true
   environment = 'production'
 
 [params]
-    # Tell me who you are
-    #title = "#ToNieNaszaWojna"
-    #author = "Polski Ruch Antywojenny"
-    #site_description = "Polski Ruch Antywojenny"
     copyright  = "Copyright"
     #avatar = ""
     logo = "logo.png"
@@ -51,7 +123,7 @@ enableRobotsTXT = true
     disable_mathjax = true # set to true to disable MathJax
 
     # Format dates with Go's time formatting
-    date_format = 'date = 2021-11-03T12:34:56+01:00'
+    date_format = '2021-11-03T12:34:56+01:00'
 
     # Add custom assets with their paths relative to the static folder
     custom_css = []
@@ -64,48 +136,6 @@ enableRobotsTXT = true
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
 
-[menu]
-[[menu.main]]
-    identifier = "about"
-    name  = "O nas"
-    url   = "/post/onas/"
-    weight = 10
-
-[[menu.main]]
-    identifier = "statement"
-    name  = "Deklaracja"
-    url   = "/post/deklaracja/"
-    weight = 20
-
-[[menu.main]]
-    identifier = "activities"
-    name  = "Nasze inicjatywy"
-    url   = "/inicjatywy/"
-    weight = 30
-
-[[menu.main]]
-    identifier = "logotypes"
-    name  = "Logotypy do pobrania"
-    url   = "/logotypy/"
-    weight = 40
-
-[[menu.main]]
-    identifier = "graphics"
-    name  = "Grafiki do druku"
-    url   = "/grafiki/"
-    weight = 50
-
-[[menu.main]]
-    identifier = "support"
-    name  = "Wsparcie"
-    url   = "/wsparcie/"
-    weight = 60
-    
-[[menu.main]]
-    identifier = "contact"
-    name  = "Kontakt"
-    url   = "/kontakt/"
-    weight = 70
 #[[menu.main]]
 #    name  = "Contact21"
 #    url   = "/contact/"

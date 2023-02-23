@@ -4,6 +4,8 @@ date: "2023-02-11T11:21:18.373Z"
 author: Dr. Leszek Sykulski
 tags: [ "Interviews" ]
 categories: [ "Interviews" ]
+nodateline: true
+noprevnext: true
 banner: "banners/wywiad.jpg"
 description: "Interview by Dr. Leszek Sykulski for TVPolska.PL television station"
 draft: false

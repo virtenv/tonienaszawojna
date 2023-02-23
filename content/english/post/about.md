@@ -4,9 +4,8 @@ date: 2023-02-10T11:30:46.596Z
 author: Polish Anti-War Movement
 tags: [ "About" ]
 categories: [ "About" ]
-noprevnext: true
 nodateline: true
-disable_comments: true
+noprevnext: true
 image: banners/baner6.jpg
 description: Presentation of the Polish Anti-War Movement.
 draft: false
