@@ -291,6 +291,21 @@ blockquote cite {
 	content: "/";
 	margin-left: 12px;
 }
+
+/* Translations Links */
+ul li a {
+	text-decoration: none;
+	margin-right: 2px;
+	margin-left: 0px;
+	color: #999;
+}
+
+ul li a:hover,
+ul li a:focus {
+	display: inline-block;
+	color: #D4213D;
+}
+
 /* Forms */
 input,textarea {
 	border-radius: 0px;
