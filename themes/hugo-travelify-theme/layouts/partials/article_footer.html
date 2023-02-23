@@ -5,7 +5,7 @@
     {{ if isset .Params "author" }}
     <span class="byline">
       <span class="author vcard">
-        {{ $url := (printf "%s/author/%s/" $.Site.Language (.Params.author | urlize | lower)) }}
+        {{ $url := (printf "%s/author/%s" $.Site.Language (.Params.author | urlize | lower)) }}
         <a class="url fn n" href="{{ $url | absURL }}">{{ .Params.author }}</a>
       </span>
     </span>
