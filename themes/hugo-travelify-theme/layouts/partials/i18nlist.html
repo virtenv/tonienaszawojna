@@ -2,7 +2,7 @@
 <ul>
   {{ range .Translations }}
   <li>
-    <a href="{{ .Permalink }}">{{ .Lang }}{{ if .IsPage }} }){{ end }}</a>
+    <a href="{{ .Permalink }}">{{ .Lang }}{{ if .IsPage }}{{ end }}</a>
   </li>
   {{ end }}
 </ul>
