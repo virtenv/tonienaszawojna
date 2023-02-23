@@ -1,5 +1,6 @@
 ---
 title: "Interview with Dr. Leszek Sykulski"
+aliases: [/dr-leszek-sykulski/]
 date: "2023-02-11T11:21:18.373Z"
 author: Dr. Leszek Sykulski
 tags: [ "Interviews" ]
@@ -9,7 +10,6 @@ noprevnext: true
 banner: "banners/wywiad.jpg"
 description: "Interview by Dr. Leszek Sykulski for TVPolska.PL television station"
 draft: false
-url: dr-leszek-sykulski
 ---
 
 -- Publicists, politicians say that this is harmful to Poland. What is your opinion?
