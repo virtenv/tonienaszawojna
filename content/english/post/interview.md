@@ -1,6 +1,5 @@
 ---
 title: "Interview with Dr. Leszek Sykulski"
-aliases: [/dr-leszek-sykulski/]
 date: "2023-02-11T11:21:18.373Z"
 author: Dr. Leszek Sykulski
 tags: [ "Interviews" ]
