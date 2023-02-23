@@ -1,7 +1,7 @@
 ---
 title: "Interview with Dr. Leszek Sykulski"
 date: "2023-02-11T11:21:18.373Z"
-author: "Dr. Leszek Sykulski"
+author: Dr. Leszek Sykulski
 tags: [ "Interviews" ]
 categories: [ "Interviews" ]
 nodateline: true
