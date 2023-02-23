@@ -9,7 +9,7 @@ noprevnext: true
 banner: "banners/wywiad.jpg"
 description: "Interview by Dr. Leszek Sykulski for TVPolska.PL television station"
 draft: false
-slug: dr-leszek-sykulski
+url: dr-leszek-sykulski
 ---
 
 -- Publicists, politicians say that this is harmful to Poland. What is your opinion?
