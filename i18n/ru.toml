@@ -1,0 +1,103 @@
+[title]
+other = "#ЭтоНеНашаВойна"
+
+[site_description]
+other = "Антивоенное движение Польши"
+
+[about]
+other="О нас"
+
+[statement]
+other="Заявление"
+
+[activities]
+other = "Инициативы"
+
+[logotypes]
+other = "Логотипы"
+
+[graphics]
+other = "Графика"
+
+[support]
+other = "Поддержка"
+
+[contact]
+other = "Контакт"
+
+[read_more]
+other = "Читать далее"
+
+[words]
+other = "слова"
+
+
+
+[title_page_not_found]
+other = "Ошибка 404 - Страница НЕ найдена"
+
+[subtitle_page_not_found]
+other = "Содержимое, которое вы ищете, похоже, не существует."
+
+[social_facebook]
+other = "Следите за нами на Facebook"
+
+[social_twitter]
+other = "Следите за нами на Twitter"
+
+[social_rss]
+other = "Подпишитесь на наш канал"
+
+[social_googleplus]
+other = "Следите за нами на Google Plus"
+    
+[social_pinterest]
+other = "Следите за нами на Pinterest"
+    
+[social_linkedin]
+other = "Следите за нами на LinkedIn"
+
+[social_tumblr]
+other = "Следите за нами на Tumblr"
+    
+[social_vimeo]
+other = "Следите за нами на Vimeo"
+    
+[social_instagram]
+other = "Следите за нами на Instagram"
+
+[social_flickr]
+other = "Следите за нами на Flickr"
+    
+[social_youtube]
+other = "Следите за нами на YouTube"
+
+[social_github]
+other = "Следите за нами на GitHub"
+    
+[social_email]
+other = "Напишите нам"
+
+[share_facebook]
+other = "Поделиться"
+
+[share_twitter]
+other = "Твитнуть"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Поделиться"
+
+[share_email]
+other = "Электронная почта"
+	
+[share_emailmessage]
+other = "Здравствуйте, я хотел бы поделиться с вами этой статьей."
+
+[recent_articles]
+other = "Последние сообщения"
+
+[authors]
+other = "Авторы"

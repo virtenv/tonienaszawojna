@@ -194,6 +194,48 @@ enableRobotsTXT = true
     url   = "/zh-cn/联系我们/"
     weight = 70
 
+  [languages.ru]
+    contentDir = 'content/russian'
+    languageName = 'Русский'
+    title = '#ЭтоНеНашаВойна'
+    weight = 5
+    [languages.ru.params]
+      author = "Антивоенное Движение Польши"
+      site_description = "Антивоенное Движение Польши"
+[[languages.ru.menu.main]]
+    name  = "О нас"
+    url   = "/ru/post/oнас/"
+    weight = 10
+[[languages.ru.menu.main]]
+    name  = "Заявление"
+    url   = "/ru/post/заявление/"
+    weight = 20
+
+[[languages.ru.menu.main]]
+    name  = "Наши инициативы"
+    url   = "/ru/инициативы/"
+    weight = 30
+
+[[languages.ru.menu.main]]
+    name  = "Логотипы для скачивания"
+    url   = "/ru/логотипы/"
+    weight = 40
+
+[[languages.ru.menu.main]]
+    name  = "Графика для печати"
+    url   = "/ru/графика/"
+    weight = 50
+
+[[languages.ru.menu.main]]
+    name  = "Поддержка"
+    url   = "/ru/поддержка/"
+    weight = 60
+    
+[[languages.ru.menu.main]]
+    name  = "Контакт"
+    url   = "/ru/контакт/"
+    weight = 70
+
 
 
 [[cascade]]

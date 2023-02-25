@@ -52,7 +52,7 @@ Wir wissen, dass heute in Polen Zensur herrscht, wir wissen, dass die Opposition
 und appellieren an die Finanzierung dieser Art von Bewegung durch die Bevölkerung.
 
 
-Wir werden wahrscheinlich kein Qualitätsgeld zentral einsammeln. Wir werden die Leute fragen, wir werden fertige Grafiken zur Verfügung stellen, denn wir haben Freiwillige, sehr professionelle Grafiker, die kostenlos, einfach pro publico bono, für das öffentliche Wohl, solche Grafiken für uns erstellen und jeder wird in der Lage sein jeder wird seine eigenen Aufkleber, Poster, Banner, Plakate drucken können, je nach Geldbeutel und logistischen Möglichkeiten.
+Wir werden wahrscheinlich kein Geld zentral einsammeln. Wir werden die Leute fragen, wir werden fertige Grafiken zur Verfügung stellen, denn wir haben Freiwillige, sehr professionelle Grafiker, die kostenlos, einfach pro publico bono, für das öffentliche Wohl, solche Grafiken für uns erstellen und jeder wird in der Lage sein jeder wird seine eigenen Aufkleber, Poster, Banner, Plakate drucken können, je nach Geldbeutel und logistischen Möglichkeiten.
 
 
 -- Gibt es Reaktionen, z. B. von ausländischen Medien oder wichtigen Personen, die sich für diese
