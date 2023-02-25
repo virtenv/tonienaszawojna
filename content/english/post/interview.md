@@ -58,7 +58,7 @@ censorship prevails, we know that today the opposition, including the anti-war o
 that the Ministry of Internal Affairs and Administration will give us permission for a public collection, and therefore, here we will ask and appeal for grassroots funding for this type of movement.
 
 
-We will probably not collect quality money centrally. We will ask people, we will provide ready
+We will probably not collect money centrally. We will ask people, we will provide ready
 graphics, because we have volunteers, very professional graphic designers. who for free, simply
 pro publico bono, for the public good prepare such graphics for us, and everyone will be able to
 print yourself stickers, posters, banners, billboards, depending on the size of your wallet

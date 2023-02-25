@@ -58,7 +58,7 @@ zwalczana przez Prawo i Sprawiedliwość, przez Solidarną Polskę, więc nie l
 i apelowali o oddolne finansowanie tego typu ruchu.
 
 
-Pewnie nie będziemy zbierać pieniędzy jakość centralnie. Poprosimy ludzi, dostarczymy gotowe
+Pewnie nie będziemy zbierać pieniędzy centralnie. Poprosimy ludzi, dostarczymy gotowe
 grafiki, bo mamy wolontariuszy, bardzo profesjonalnych grafików. którzy za darmo, po prostu
 pro publico bono, dla dobra publicznego przygotowują nam takie grafiki i każdy będzie mógł
 sobie wdrukować wlepki, plakaty, banery, bilbordy, w zależności od zasobności portfela
