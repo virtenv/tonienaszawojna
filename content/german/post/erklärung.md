@@ -5,7 +5,7 @@ author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Erklärung" ]
 categories: [ "Erklaerung" ]
 banner: "banners/deklaracja.jpg"
-description: "Erklärung der polnischen Anti-Kriegs-Bewegung"
+description: "Erklärung der polnischen Anti-Kriegs-Bewegung."
 draft: false
 ---
 

@@ -89,9 +89,7 @@ Therefore, we believe that Poland should pursue a multi-vector policy, a policy 
 
 
 Of course, an integral part of our action is: , "Stop the Americanization of Poland", but it is very often is misunderstood. We are not against everything American. We are not against the American people
-American people. We criticize the current foreign policy, the security policy of the US, while we
-we do not criticize everything American. We are in favor of normal trade, normal economic
-economic relations with the US.
+American people. We criticize the current foreign policy, the security policy of the US, while we do not criticize everything American. We are in favor of normal trade, normal economic relations with the US.
 
 
 If Poland transfers F-16 aircraft to Ukraine, we will be even more disarmed than we have been so far. It is something unimaginable how today Poland is heavily disarmed. Today Poland is in the worst shape, as far as the defense system is concerned, after 1989, because the defense system is, after all, not only the armed forces, but also the broadly defined system of resilience of the Polish state, also when it comes to the system of civil defense. This is a very important issue, and we know very well from two reports by the Supreme Audit Office, from 2012 and 2019, that Poland does not have an effective civil defense system. Deputy Minister of Internal Affairs and Administration, Mr. Marcin Warchoł, said clearly that only 3% of the population in Poland has access to shelters, so today Poland is unprepared for any conflict when it comes to civil defense and when it comes to the armed forces. And I say this as a lieutenant of the Polish Army reserve. I know very well how disastrous system of reserve training in the Polish state looks like.

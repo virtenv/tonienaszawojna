@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: "Über uns"
 date: 2023-02-10T11:30:46.596Z
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Über uns" ]
@@ -8,7 +8,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 image: banners/baner6.jpg
-description: Präsentation der polnischen Anti-Kriegs-Bewegung
+description: "Präsentation der polnischen Anti-Kriegs-Bewegung."
 draft: false
 ---
 

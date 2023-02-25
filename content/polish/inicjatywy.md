@@ -1,5 +1,5 @@
 ---
-title: Inicjatywy
+title: "Inicjatywy"
 date: 2023-02-11T11:29:54.212Z
 author: Polski Ruch Antywojenny
 tags: [ "Inicjatywy" ]
@@ -7,7 +7,7 @@ categories: [ "Inicjatywy" ]
 nodateline: true
 noprevnext: true
 disable_comments: true
-description: Inicjatywy Polskiego Ruchu Antywojennego
+description: "Inicjatywy Polskiego Ruchu Antywojennego."
 draft: false
 ---
 ![Nasze inicjatywy](/SAP-1.jpeg)

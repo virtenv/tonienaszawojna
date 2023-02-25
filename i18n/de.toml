@@ -94,7 +94,7 @@ other = "Teilen"
 other = "E-Mail"
 	
 [share_emailmessage]
-other = "Hallo, ich möchte diesen Artikel mit Ihnen teilen"
+other = "Hallo, ich möchte diesen Artikel mit Ihnen teilen."
 
 [recent_articles]
 other = "Neueste Beiträge"

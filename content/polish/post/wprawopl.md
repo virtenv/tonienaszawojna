@@ -5,7 +5,7 @@ author: Katarzyna Treter-Sierpińska
 tags: [ "wPrawoPL" ]
 #categories: [ "Portale" ]
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"
-description: "Portal wPrawoPL o Polskim Ruchu Antywojennym"
+description: "Portal wPrawoPL o Polskim Ruchu Antywojennym."
 draft: false
 ---
 

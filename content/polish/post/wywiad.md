@@ -5,7 +5,7 @@ author: Dr Leszek Sykulski
 tags: [ "Wywiad" ]
 categories: [ "wywiady" ]
 banner: "banners/wywiad.jpg"
-description: "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL"
+description: "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL."
 draft: false
 ---
 

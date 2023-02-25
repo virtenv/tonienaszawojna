@@ -1,0 +1,103 @@
+[title]
+other = "#这不是我们的战争"
+
+[site_description]
+other = "波兰反战运动"
+
+[about]
+other="关于"
+
+[statement]
+other="声明"
+
+[activities]
+other = "活动"
+
+[logotypes]
+other = "徽标"
+
+[graphics]
+other = "图形"
+
+[support]
+other = "支持"
+
+[contact]
+other = "联系我们"
+
+[read_more]
+other = "阅读更多"
+
+[words]
+other = "话语"
+
+
+
+[title_page_not_found]
+other = "错误404 - 页面未找到"
+
+[subtitle_page_not_found]
+other = "你要找的内容似乎并不存在。"
+
+[social_facebook]
+other = "在Facebook上关注我们"
+
+[social_twitter]
+other = "在Twitter上关注我们"
+
+[social_rss]
+other = "订阅我们的信息"
+
+[social_googleplus]
+other = "在Google Plus上关注我们"
+    
+[social_pinterest]
+other = "在Pinterest上关注我们"
+    
+[social_linkedin]
+other = "在LinkedIn上关注我们"
+
+[social_tumblr]
+other = "在Tumblr上关注我们"
+    
+[social_vimeo]
+other = "Follow us on Vimeo"
+    
+[social_instagram]
+other = "在Instagram上关注我们"
+
+[social_flickr]
+other = "在Flickr上关注我们"
+    
+[social_youtube]
+other = "在YouTube上关注我们"
+
+[social_github]
+other = "在GitHub上关注我们"
+    
+[social_email]
+other = "给我们发邮件"
+
+[share_facebook]
+other = "分享"
+
+[share_twitter]
+other = "鸣叫"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "分享"
+
+[share_email]
+other = "电子邮件"
+	
+[share_emailmessage]
+other = "你好，我想与你分享这篇文章。"
+
+[recent_articles]
+other = "最近的帖子"
+
+[authors]
+other = "作者"

@@ -5,7 +5,7 @@ author: Dr. Leszek Sykulski
 tags: [ "Interview" ]
 categories: [ "Interviews" ]
 banner: "banners/wywiad.jpg"
-description: "Interview von Dr. Leszek Sykulski für TVPolska.PL"
+description: "Interview von Dr. Leszek Sykulski für TVPolska.PL."
 draft: false
 ---
 

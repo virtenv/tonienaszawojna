@@ -7,51 +7,29 @@ categories: [ "Statement" ]
 nodateline: true
 noprevnext: true
 banner: "banners/deklaracja.jpg"
-description: "Declaration of the Polish Anti-War Movement."
+description: "Statement of the Polish Anti-War Movement."
 draft: false
 ---
 
-##### Deklaracja Polskiego Ruchu Antywojennego
+##### Statement of the Polish Anti-War Movement.
 
 
-My, niżej podpisani, zebrani na inauguracji Polskiego Ruchu Antywojennego,
-wyrażamy głęboką niezgodę na politykę zagraniczną i bezpieczeństwa prowadzoną
-przez rządy w Warszawie po roku 1999, politykę awanturniczą nastawioną
-na konfrontację z naszymi sąsiadami i realizację interesów strategicznych
-Waszyngtonu.
+We, the undersigned, gathered at the inauguration of the Polish Anti-War Movement, express our deep disagreement with the foreign and security policy pursued by the governments in Warsaw after 1999, an adventurous policy aimed at aimed at confronting our neighbors and pursuing the strategic interests of Washington.
 
 
-Jesteśmy ruchem społecznym tworzonym oddolnie, niezależnie od jakiejkolwiek
-partii politycznej. Istotą naszych działań jest praca organiczna, edukacyjna
-i informacyjna na rzecz suwerenności kulturowej narodu polskiego i niepodległości
-Polski.
+We are a grassroots social movement created independently of any political party. The essence of our activities is organic, educational and informational work for the cultural sovereignty of the Polish people and the independence of Poland.
 
 
-Bezwarunkowa pomoc udzielana Ukraińcom nie jest w interesie narodowym Polski.
-Tolerowanie kultu na Ukrainie zbrodniarzy takich jak Bandera, czy Suchewycz
-oraz ludobójczych organizacji takich jak OUN / UPA jest hańbą i policzkiem
-dla każdego Polaka. Dopóty dopóki na Ukrainie rozwija się szowinizm i kult
-zbroniarzy nie może być mowy o żadnej pomocy finansowej, ani tym bardziej
-militarnej dla tego państwa.
+Unconditional aid given to Ukrainians is not in Poland's national interest. Tolerating the cult in Ukraine of criminals such as Bandera or Suchevych and genocidal organizations such as OUN / UPA is a disgrace and a slap in the face of every Pole. As long as chauvinism and the cult of of defenders there can be no question of any financial, let alone military, assistance to this country.
 
 
-Pragniemy zauważyć, że władze w Kijowie od 1991 r. nie przeprosiły narodu polskiego
-za ludobójstwo na narodzie polskim w okresie II wojny światowej. Nie ma naszej zgody
-na rozdawnictwo publicznych pieniędzy na pomoc socjalną dla imigrantów z Ukrainy,
-ani na zorganizowaną akcję przesiedleńczą na terytorium RP. Nie popieramy agresji
-rosyjskiej wobec Ukrainy, ale jednocześnie stanowczo podkreślamy __to nie nasza wojna__.
+We would like to note that the authorities in Kiev have not apologized to the Polish people for the genocide against the Polish people during World War II since 1991. There is no our consent to the distribution of public money for social assistance to Ukrainian immigrants, nor to an organized resettlement operation on Polish territory. We do not support Russian aggression against Ukraine, but at the same time we firmly emphasize __this is not our war__.
 
 
-Opowiadamy się za pokojem i polityką pokojową nastawioną na dobre relacje ze wszystkimi
-sąsiadami, w myśl zasady, __zero wrogów wśród sąsiadów__. Normalizacja tych relacji musi
-odbywać się z zachowaniem polskiej racji stanu i polskiego interesu narodowego. Kluczem
-do rozwoju Polski jest rozwój gospodarczy wykorzystujący w pełni potencjał naszego
-położenia geograficznego.
+We advocate peace and a peace policy aimed at good relations with all neighbors, according to the principle, __zero enemies among neighbors__. The normalization of these relations must take place while preserving the Polish raison d'état and the Polish national interest. The key to Poland's development is economic development that takes full advantage of the potential of our geographic location.
 
 
-Nie ma naszej zgody na popieranie polityki hegemonicznej USA i udział Wojska Polskiego
-w wojnach napastniczych Waszyngtonu, których efektem była śmierć blisko miliona ludzi
-po 2001 r.
+There is no agreement on our part to support US hegemonic policies and the participation of the Polish Army in Washington's wars of aggression, which resulted in the deaths of nearly a million people after 2001.
 
 
-Częstochowa, 3 lutego 2023 r.
+Częstochowa, 2023年2月3日。

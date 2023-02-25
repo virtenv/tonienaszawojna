@@ -1,5 +1,5 @@
 ---
-title: O nas
+title: "O nas"
 date: 2023-02-10T11:30:46.596Z
 author: Polski Ruch Antywojenny
 tags: [ "O nas" ]
@@ -8,7 +8,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 image: banners/baner6.jpg
-description: Prezentacja Polskiego Ruchu Antywojennego
+description: "Prezentacja Polskiego Ruchu Antywojennego."
 draft: false
 ---
 

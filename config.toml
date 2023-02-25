@@ -69,7 +69,7 @@ enableRobotsTXT = true
     contentDir = 'content/english'
     languageName = 'English'
     title = '#ThisIsNotOurWar'
-   weight = 2
+   weight = 3
     [languages.en.params]
       author = "Polish Anti-War Movement"
       site_description = "Polish Anti-War Movement"
@@ -112,7 +112,7 @@ enableRobotsTXT = true
     contentDir = 'content/german'
     languageName = 'Deutsch'
     title = '#DasIstNichtUnserKrieg'
-   weight = 3
+   weight = 4
     [languages.de.params]
       author = "Polnische Anti-Kriegs-Bewegung"
       site_description = "Polnische Anti-Kriegs-Bewegung"
@@ -150,6 +150,50 @@ enableRobotsTXT = true
     name  = "Kontakt"
     url   = "/de/kontakt/"
     weight = 70
+
+  [languages.zh-cn]
+    contentDir = 'content/chinese'
+    languageName = '中国'
+    title = '#这不是我们的战争'
+   weight = 2
+    [languages.zh-cn.params]
+      author = "波兰反战运动"
+      site_description = "波兰反战运动"
+    [languages.zh-cn.menu]
+[[languages.zh-cn.menu.main]]
+    name  = "关于"
+    url   = "/zh-cn/post/关于/"
+    weight = 10
+[[languages.zh-cn.menu.main]]
+    name  = "声明"
+    url   = "/zh-cn/post/声明/"
+    weight = 20
+
+[[languages.zh-cn.menu.main]]
+    name  = "活动"
+    url   = "/zh-cn/活动/"
+    weight = 30
+
+[[languages.zh-cn.menu.main]]
+    name  = "可供下载的标识图案"
+    url   = "/zh-cn/徽标/"
+    weight = 40
+
+[[languages.zh-cn.menu.main]]
+    name  = "打印的图形"
+    url   = "/zh-cn/图形/"
+    weight = 50
+
+[[languages.zh-cn.menu.main]]
+    name  = "支持"
+    url   = "/zh-cn/支持/"
+    weight = 60
+    
+[[languages.zh-cn.menu.main]]
+    name  = "联系我们"
+    url   = "/zh-cn/联系我们/"
+    weight = 70
+
 
 
 [[cascade]]
