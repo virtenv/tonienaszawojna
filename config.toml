@@ -112,7 +112,7 @@ enableRobotsTXT = true
     contentDir = 'content/german'
     languageName = 'Deutsch'
     title = '#DasIstNichtUnserKrieg'
-   weight = 2
+   weight = 3
     [languages.de.params]
       author = "Polnische Anti-Kriegs-Bewegung"
       site_description = "Polnische Anti-Kriegs-Bewegung"
