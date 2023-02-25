@@ -1,0 +1,103 @@
+[title]
+other = "#DasIstNichtUnserKrieg"
+
+[site_description]
+other = "Polnische Anti-Kriegs-Bewegung"
+
+[about]
+other="Über uns"
+
+[statement]
+other="Erklärung"
+
+[activities]
+other = "Initiativen"
+
+[logotypes]
+other = "Logos"
+
+[graphics]
+other = "Grafiken"
+
+[support]
+other = "Unterstützung"
+
+[contact]
+other = "Kontakt"
+
+[read_more]
+other = "Mehr lesen"
+
+[words]
+other = "Wörter"
+
+
+
+[title_page_not_found]
+other = "Fehler 404 - Seite nicht gefunden"
+
+[subtitle_page_not_found]
+other = "Der von Ihnen gesuchte Inhalt scheint nicht zu existieren."
+
+[social_facebook]
+other = "Folgen Sie uns auf Facebook"
+
+[social_twitter]
+other = "Folgen Sie uns auf Twitter"
+
+[social_rss]
+other = "Abonnieren Sie unseren Feed"
+
+[social_googleplus]
+other = "Folgen Sie uns auf Google Plus"
+    
+[social_pinterest]
+other = "Folgen Sie uns auf Pinterest"
+    
+[social_linkedin]
+other = "Folgen Sie uns auf LinkedIn"
+
+[social_tumblr]
+other = "Folgen Sie uns auf Tumblr"
+    
+[social_vimeo]
+other = "Folgen Sie uns auf Vimeo"
+    
+[social_instagram]
+other = "Folgen Sie uns auf Instagram"
+
+[social_flickr]
+other = "Folgen Sie uns auf Flickr"
+    
+[social_youtube]
+other = "Folgen Sie uns auf YouTube"
+
+[social_github]
+other = "Folgen Sie uns auf GitHub"
+    
+[social_email]
+other = "E-Mail an uns"
+
+[share_facebook]
+other = "Teilen"
+
+[share_twitter]
+other = "Tweet"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Teilen"
+
+[share_email]
+other = "E-Mail"
+	
+[share_emailmessage]
+other = "Hallo, ich möchte diesen Artikel mit Ihnen teilen"
+
+[recent_articles]
+other = "Neueste Beiträge"
+
+[authors]
+other = "Autoren"

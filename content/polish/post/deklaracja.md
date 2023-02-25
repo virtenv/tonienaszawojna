@@ -5,7 +5,7 @@ author: Polski Ruch Antywojenny
 tags: [ "Deklaracja" ]
 categories: [ "Deklaracja" ]
 banner: "banners/deklaracja.jpg"
-description: "Deklaracj Polskiego Ruchu Antywojennego"
+description: "Deklaracja Polskiego Ruchu Antywojennego"
 draft: false
 ---
 

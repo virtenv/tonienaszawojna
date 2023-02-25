@@ -1,5 +1,5 @@
 {{ if .IsTranslated }}
-<ul>
+<ul class="horizontal-list">
   {{ range .Translations }}
   <li>
     <a href="{{ .Permalink }}">{{ .Lang }}{{ if .IsPage }}{{ end }}</a>

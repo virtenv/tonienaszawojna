@@ -292,18 +292,14 @@ blockquote cite {
 	margin-left: 12px;
 }
 
-/* Translations Links */
-ul li a {
-	text-decoration: none;
-	margin-right: 2px;
-	margin-left: 0px;
-	color: #999;
-}
-
-ul li a:hover,
-ul li a:focus {
+/* Horizontal Language List */
+ul.horizontal-list li,
+ul.horizontal-list li a {
+	list-style: none;
+	margin: 0px 0px 0px 0px;
 	display: inline-block;
-	color: #555;
+	padding-right: 3px;
+	color: #999;
 }
 
 /* Forms */

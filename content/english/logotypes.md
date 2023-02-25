@@ -11,10 +11,10 @@ description: Logotypy Polskiego Ruchu Antywojennego
 draft: false
 ---
 
-![Logo Polskiego Ruchu Antywojennego](/PRA.jpeg)
+![Logo of the Polish Anti-War Movement](/PRA.jpeg)
 
-![#StopAmerykanizacjiPolski](/SAP-1.jpeg)
+![#StopAmericanizationofPoland](/SAP-1.jpeg)
 
-![#StopAmerykanizacjiPolski](/SAP2.jpeg)
+![#StopAmericanizationofPoland](/SAP2.jpeg)
 
-![#StopAmerykanizacjiPolski](/SAP3.jpeg)
+![#StopAmericanizationofPoland](/SAP3.jpeg)

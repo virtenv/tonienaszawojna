@@ -1,5 +1,5 @@
 ---
-title: "Interview with Dr. Leszek Sykulski"
+title: "Interview in front of the Polish Parliament with Dr. Leszek Sykulski"
 date: "2023-02-11T11:21:18.373Z"
 author: Dr. Leszek Sykulski
 tags: [ "Interviews" ]

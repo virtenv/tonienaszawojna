@@ -25,7 +25,7 @@ enableRobotsTXT = true
 [languages]
   [languages.pl]
     contentDir = 'content/polish'
-    languageName = 'Polish'
+    languageName = 'Polski'
     title = '#ToNieNaszaWojna'
     weight = 1
     [languages.pl.params]
@@ -107,6 +107,50 @@ enableRobotsTXT = true
     name  = "Contact"
     url   = "/en/contact/"
     weight = 70
+
+  [languages.de]
+    contentDir = 'content/german'
+    languageName = 'Deutsch'
+    title = '#DasIstNichtUnserKrieg'
+   weight = 2
+    [languages.de.params]
+      author = "Polnische Anti-Kriegs-Bewegung"
+      site_description = "Polnische Anti-Kriegs-Bewegung"
+    [languages.de.menu]
+[[languages.de.menu.main]]
+    name  = "Über uns"
+    url   = "/de/post/über-uns/"
+    weight = 10
+[[languages.de.menu.main]]
+    name  = "Erklärung"
+    url   = "/de/post/erklärung/"
+    weight = 20
+
+[[languages.de.menu.main]]
+    name  = "Initiativen"
+    url   = "/de/initiativen/"
+    weight = 30
+
+[[languages.de.menu.main]]
+    name  = "Logotypen zum Herunterladen"
+    url   = "/de/logos/"
+    weight = 40
+
+[[languages.de.menu.main]]
+    name  = "Grafiken zum Drucken"
+    url   = "/de/grafiken/"
+    weight = 50
+
+[[languages.de.menu.main]]
+    name  = "Unterstützung"
+    url   = "/de/unterstützung/"
+    weight = 60
+    
+[[languages.de.menu.main]]
+    name  = "Kontakt"
+    url   = "/de/kontakt/"
+    weight = 70
+
 
 [[cascade]]
 
