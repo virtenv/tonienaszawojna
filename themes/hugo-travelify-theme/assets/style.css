@@ -303,7 +303,7 @@ ul li a {
 ul li a:hover,
 ul li a:focus {
 	display: inline-block;
-	color: #D4213D;
+	color: #555;
 }
 
 /* Forms */
@@ -620,7 +620,6 @@ a.more-link:focus {
 	line-height: 1;
 	text-decoration: inherit;
 	text-transform: none;
-	speak: none;
 }
 .social-icons ul li a:hover,
 .social-icons ul li a:focus {
