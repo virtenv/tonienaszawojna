@@ -2,7 +2,7 @@
 <ul class="horizontal-list">
   {{ range .Translations }}
   <li>
-    <a href="{{ .Permalink }}">{{ .Lang }}{{ if .IsPage }}{{ end }}</a>
+    <a href="{{ .Permalink }}">{{ .Language.Params.LanguageName }}{{ if .IsPage }}{{ end }}</a>
   </li>
   {{ end }}
 </ul>
