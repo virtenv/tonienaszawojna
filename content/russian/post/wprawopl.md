@@ -9,4 +9,4 @@ description: "Портал wPrawoPL о польском антивоенном �
 draft: false
 ---
 
-Na portalu [wPrawo.PL](https://wprawo.pl/ "Portal wPrawo.PL") ukazał się tekst pt. [,,Nasza wojna, czy nie nasza?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portal wPrawo.PL"). Warto przeczytać.
+Портал [wPrawo.PL](https://wprawo.pl/ "Портал wPrawo.PL") опубликовал текст под названием [,,Наша война или не наша война?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Портал wPrawo.PL"). Стоит прочитать.

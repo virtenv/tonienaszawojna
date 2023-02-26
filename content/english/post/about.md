@@ -1,5 +1,5 @@
 ---
-title: About
+title: "About"
 date: 2023-02-10T11:30:46.596Z
 author: Polish Anti-War Movement
 tags: [ "About" ]
@@ -7,7 +7,7 @@ categories: [ "About" ]
 nodateline: true
 noprevnext: true
 image: banners/baner6.jpg
-description: Presentation of the Polish Anti-War Movement.
+description: "Presentation of the Polish Anti-War Movement."
 draft: false
 ---
 
