@@ -153,7 +153,7 @@ enableRobotsTXT = true
 
   [languages.zh-cn]
     contentDir = 'content/chinese'
-    languageName = '中国'
+    languageName = '中文'
     title = '#这不是我们的战争'
    weight = 2
     [languages.zh-cn.params]
