@@ -79,11 +79,11 @@
           <img src="{{ .Site.Params.logo | absURL }}"></img>
 	  {{ end }}
 	  {{ if .Site.Params.title_in_logo }}
-	  <span class="site-title">{{ T "title" }}</span>
+	  <span class="site-title">{{ .Site.Params.Title }}</span>
 	  {{ end }}
 	</a>
       </h1>
-      <h2 id="site-description">{{ T "site_description" }}</h2>
+      <h2 id="site-description">{{ .Site.Params.site_description }}</h2>
 	  {{ partial "i18nlist.html" . }}
     </hgroup><!-- #site-logo -->
     

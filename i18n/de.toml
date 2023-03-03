@@ -1,9 +1,3 @@
-[title]
-other = "#DasIstNichtUnserKrieg"
-
-[site_description]
-other = "Polnische Anti-Kriegs-Bewegung"
-
 [about]
 other="Über uns"
 
@@ -95,9 +89,6 @@ other = "E-Mail"
 	
 [share_emailmessage]
 other = "Hallo, ich möchte diesen Artikel mit Ihnen teilen."
-
-[recent_articles]
-other = "Neueste Beiträge"
 
 [authors]
 other = "Autoren"

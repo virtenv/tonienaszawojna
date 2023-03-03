@@ -1,9 +1,3 @@
-[title]
-other = "#ЭтоНеНашаВойна"
-
-[site_description]
-other = "Антивоенное движение Польши"
-
 [about]
 other="О нас"
 
@@ -95,9 +89,6 @@ other = "Электронная почта"
 	
 [share_emailmessage]
 other = "Здравствуйте, я хотел бы поделиться с вами этой статьей."
-
-[recent_articles]
-other = "Последние сообщения"
 
 [authors]
 other = "Авторы"

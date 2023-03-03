@@ -131,7 +131,7 @@ hr {
 h1,h2,h3,h4,h5,h6 {
 	font-weight: normal;
 	font-family: 'Ubuntu', sans-serif;
-	color: #555;
+	color: #777;
 }
 h1 {
 	font-size: 30px;
@@ -1824,7 +1824,7 @@ ul.default-wp-page li a:active {
   font-size: 12px;
 }
 #site-generator .copyright a {
-	color: #777;
+	color: #999;
 }
 #site-generator .copyright a:hover,
 #site-generator .copyright a:focus {
@@ -1881,7 +1881,7 @@ article {
 
 #breadcrumb a:hover,
 #breadcrumb a:focus {
-	color: #444444;
+	color: #777777;
 	text-decoration: none;
 }
 
@@ -2016,7 +2016,7 @@ article {
 		width: 100%;
 		border: none;
 		font: 14px 'Ubuntu', sans-serif;
-		color: #555;
+		color: #777;
 		height: 24px;
 	}
 	.page-title-wrap {

@@ -1,9 +1,3 @@
-[title]
-other = "#这不是我们的战争"
-
-[site_description]
-other = "波兰反战运动"
-
 [about]
 other="关于"
 
@@ -95,9 +89,6 @@ other = "电子邮件"
 	
 [share_emailmessage]
 other = "你好，我想与你分享这篇文章。"
-
-[recent_articles]
-other = "最近的帖子"
 
 [authors]
 other = "作者"

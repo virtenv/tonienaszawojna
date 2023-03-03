@@ -1,9 +1,3 @@
-[title]
-other = "#ToNieNaszaWojna"
-
-[site_description]
-other = "Polski Ruch Antywojenny"
-
 [about]
 other="O nas"
 
@@ -96,9 +90,6 @@ other = "Napisz e-mail"
 	
 [share_emailmessage]
 other = "Cześć, wysyłam Tobie artykuł."
-
-[recent_articles]
-other = "Ostatnie wiadomości"
 
 [authors]
 other = "Autorzy"

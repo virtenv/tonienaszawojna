@@ -3,7 +3,7 @@ title: "Erklärung"
 date: "2023-02-11T11:15:45.537Z"
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Erklärung" ]
-categories: [ "Erklaerung" ]
+categories: [ "Erklärung" ]
 banner: "banners/deklaracja.jpg"
 description: "Erklärung der polnischen Anti-Kriegs-Bewegung."
 draft: false

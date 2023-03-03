@@ -3,7 +3,7 @@ title: "Unterstützung"
 date: 2023-02-11T11:32:36.904Z
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Unterstützung" ]
-categories: [ "Unterstuetzung" ]
+categories: [ "Unterstützung" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

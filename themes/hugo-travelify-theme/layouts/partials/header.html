@@ -3,7 +3,7 @@
 {{ $embed_css := resources.Get "embed.css" }}
 {{ $embed_style := $embed_css | resources.Minify }}
 <head>
-    <title>{{ if .IsHome }}{{ T "title" | default .Title }}  - {{ T "site_description" | default .Description }} {{ else }}{{ T "title" | default .Title }} - {{ T "title" | default .Title }}{{ end }} </title>
+    <title>{{ if .IsHome }}{{ T "title" | default .Title }}  - {{ .Site.Params.site_description | default .Description }} {{ else }}{{ T "title" | default .Title }} - {{ T "title" | default .Title }}{{ end }} </title>
     <!--    <link rel='dns-prefetch' href='//fonts.googleapis.com' />  -->
     <link rel='dns-prefetch' href='//s.w.org' />
     <meta charset="UTF-8" />

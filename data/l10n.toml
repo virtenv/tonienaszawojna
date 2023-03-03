@@ -49,12 +49,6 @@
 	email = "Email"
 	emailmessage = "Hello there, I would to share this article with you"
 	
-[widgets.categories]
-    title = "Menu"
-
-[widgets.recent_articles]
-    title = "Ostatnie wiadomości"
-
 [widgets.tag_cloud]
     title = "Tag cloud"
     min_count = 2  # If you have many posts, then tag with just one topic makes the tag cloud cluttered. This variable can help reduce the clutter.
