@@ -33,6 +33,7 @@ enableRobotsTXT = true
       site_description = "Polski Ruch Antywojenny"
       recent_articles = "Ostatnie wiadomości"
       menu_aside = "Menu"
+      read_more = "Czytaj więcej"
 [[languages.pl.menu.main]]
     name  = "O nas"
     url   = "/pl/post/onas/"
@@ -77,6 +78,7 @@ enableRobotsTXT = true
       site_description = "Polish Anti-War Movement"
       recent_articles = "Recent Posts"
       menu_aside = "Menu"
+      read_more = "Read More"
     [languages.en.menu]
 [[languages.en.menu.main]]
     name  = "About"
@@ -122,6 +124,7 @@ enableRobotsTXT = true
       site_description = "Polnische Anti-Kriegs-Bewegung"
       recent_articles = "Neueste Beiträge"
       menu_aside = "Menü"
+      read_more = "Mehr lesen"
     [languages.de.menu]
 [[languages.de.menu.main]]
     name  = "Über uns"
@@ -167,6 +170,7 @@ enableRobotsTXT = true
       site_description = "波兰反战运动"
       recent_articles = "最近的帖子"
       menu_aside = "菜单"
+      read_more = "阅读更多"
     [languages.zh.menu]
 [[languages.zh.menu.main]]
     name  = "关于"
@@ -212,6 +216,7 @@ enableRobotsTXT = true
       site_description = "Антивоенное Движение Польши"
       recent_articles = "Последние сообщения"
       menu_aside = "Меню"
+      read_more = "Читать далее"
 [[languages.ru.menu.main]]
     name  = "О нас"
     url   = "/ru/post/oнас/"
