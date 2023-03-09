@@ -252,7 +252,6 @@ enableRobotsTXT = true
     weight = 70
 
 
-
 [[cascade]]
 
 [cascade._target]
@@ -337,7 +336,7 @@ DisqusShortname = "example"
 #    github          = "example"
 #    flickr          = "example"
 #    instagram       = "example"
-    youtube         = "@PolskiRuchAntywojenny"
+    youtube         = "@SykulskiLeszek"
 #    vimeo           = "example"
 #    tumblr          = "example"
 #    linkedin        = "example"
