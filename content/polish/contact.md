@@ -13,5 +13,5 @@ draft: false
 E-mail: antywojna@protonmail.com
 
 
-[Strona domowa Polskiego Ruchu Antywojennego](https://polskiruchantywojenny.com "Srona domow Polskiego Ruchu Antywojennego")
+[Strona domowa Polskiego Ruchu Antywojennego](https://polskiruchantywojenny.com "Srona domowa Polskiego Ruchu Antywojennego")
 

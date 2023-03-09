@@ -36,36 +36,36 @@ enableRobotsTXT = true
       read_more = "Czytaj więcej"
 [[languages.pl.menu.main]]
     name  = "O nas"
-    url   = "/pl/post/onas/"
+    url   = "/pl/post/about/"
     weight = 10
 [[languages.pl.menu.main]]
     name  = "Deklaracja"
-    url   = "/pl/post/deklaracja/"
+    url   = "/pl/post/statement/"
     weight = 20
 
 [[languages.pl.menu.main]]
     name  = "Nasze inicjatywy"
-    url   = "/pl/inicjatywy/"
+    url   = "/pl/activities/"
     weight = 30
 
 [[languages.pl.menu.main]]
     name  = "Logotypy do pobrania"
-    url   = "/pl/logotypy/"
+    url   = "/pl/logotypes/"
     weight = 40
 
 [[languages.pl.menu.main]]
     name  = "Grafiki do druku"
-    url   = "/pl/grafiki/"
+    url   = "/pl/grpahics/"
     weight = 50
 
 [[languages.pl.menu.main]]
     name  = "Wsparcie"
-    url   = "/pl/wsparcie/"
+    url   = "/pl/support/"
     weight = 60
     
 [[languages.pl.menu.main]]
     name  = "Kontakt"
-    url   = "/pl/kontakt/"
+    url   = "/pl/contact/"
     weight = 70 
 
   [languages.en]
@@ -128,36 +128,36 @@ enableRobotsTXT = true
     [languages.de.menu]
 [[languages.de.menu.main]]
     name  = "Über uns"
-    url   = "/de/post/über-uns/"
+    url   = "/de/post/about/"
     weight = 10
 [[languages.de.menu.main]]
     name  = "Erklärung"
-    url   = "/de/post/erklärung/"
+    url   = "/de/post/statement/"
     weight = 20
 
 [[languages.de.menu.main]]
     name  = "Initiativen"
-    url   = "/de/initiativen/"
+    url   = "/de/activities/"
     weight = 30
 
 [[languages.de.menu.main]]
     name  = "Logotypen zum Herunterladen"
-    url   = "/de/logos/"
+    url   = "/de/logotypes/"
     weight = 40
 
 [[languages.de.menu.main]]
     name  = "Grafiken zum Drucken"
-    url   = "/de/grafiken/"
+    url   = "/de/graphics/"
     weight = 50
 
 [[languages.de.menu.main]]
     name  = "Unterstützung"
-    url   = "/de/unterstützung/"
+    url   = "/de/support/"
     weight = 60
     
 [[languages.de.menu.main]]
     name  = "Kontakt"
-    url   = "/de/kontakt/"
+    url   = "/de/contact/"
     weight = 70
 
   [languages.zh]
@@ -174,36 +174,36 @@ enableRobotsTXT = true
     [languages.zh.menu]
 [[languages.zh.menu.main]]
     name  = "关于"
-    url   = "/zh/post/关于/"
+    url   = "/zh/post/about/"
     weight = 10
 [[languages.zh.menu.main]]
     name  = "声明"
-    url   = "/zh/post/声明/"
+    url   = "/zh/post/statement/"
     weight = 20
 
 [[languages.zh.menu.main]]
     name  = "活动"
-    url   = "/zh/活动/"
+    url   = "/zh/activities/"
     weight = 30
 
 [[languages.zh.menu.main]]
     name  = "可供下载的标识图案"
-    url   = "/zh/徽标/"
+    url   = "/zh/logotypes/"
     weight = 40
 
 [[languages.zh.menu.main]]
     name  = "打印的图形"
-    url   = "/zh/图形/"
+    url   = "/zh/graphics/"
     weight = 50
 
 [[languages.zh.menu.main]]
     name  = "支持"
-    url   = "/zh/支持/"
+    url   = "/zh/support/"
     weight = 60
     
 [[languages.zh.menu.main]]
     name  = "联系我们"
-    url   = "/zh/联系我们/"
+    url   = "/zh/contact/"
     weight = 70
 
   [languages.ru]
@@ -219,36 +219,36 @@ enableRobotsTXT = true
       read_more = "Читать далее"
 [[languages.ru.menu.main]]
     name  = "О нас"
-    url   = "/ru/post/oнас/"
+    url   = "/ru/post/about/"
     weight = 10
 [[languages.ru.menu.main]]
     name  = "Заявление"
-    url   = "/ru/post/заявление/"
+    url   = "/ru/post/statement/"
     weight = 20
 
 [[languages.ru.menu.main]]
     name  = "Наши инициативы"
-    url   = "/ru/инициативы/"
+    url   = "/ru/activities/"
     weight = 30
 
 [[languages.ru.menu.main]]
     name  = "Логотипы для скачивания"
-    url   = "/ru/логотипы/"
+    url   = "/ru/logotypes/"
     weight = 40
 
 [[languages.ru.menu.main]]
     name  = "Графика для печати"
-    url   = "/ru/графика/"
+    url   = "/ru/graphics/"
     weight = 50
 
 [[languages.ru.menu.main]]
     name  = "Поддержка"
-    url   = "/ru/поддержка/"
+    url   = "/ru/support/"
     weight = 60
     
 [[languages.ru.menu.main]]
     name  = "Контакт"
-    url   = "/ru/контакт/"
+    url   = "/ru/contact/"
     weight = 70
 
 
@@ -348,7 +348,6 @@ DisqusShortname = "example"
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = true
     tags = false
     tag_cloud = false
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
