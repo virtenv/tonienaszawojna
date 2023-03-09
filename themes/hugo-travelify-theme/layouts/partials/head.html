@@ -1,7 +1,29 @@
+<script>
+	/* When the user clicks on the button, 
+	toggle between hiding and showing the dropdown content */
+	function myFunction() {
+	  document.getElementById("myDropdown").classList.toggle("show");
+	}
+	
+	// Close the dropdown if the user clicks outside of it
+	window.onclick = function(event) {
+	  if (!event.target.matches('.dropbtn')) {
+		var dropdowns = document.getElementsByClassName("dropdown-content");
+		var i;
+		for (i = 0; i < dropdowns.length; i++) {
+		  var openDropdown = dropdowns[i];
+		  if (openDropdown.classList.contains('show')) {
+			openDropdown.classList.remove('show');
+		  }
+		}
+	  }
+	}
+	</script>
+
 <div class="container clearfix">
   <div class="hgroup-wrap clearfix">
     <section class="hgroup-right">
-      <div class="social-icons clearfix">
+    <div class="social-icons">
 	<ul>
 	  {{ if .Site.Social.facebook }}
 	  <li class="facebook">
@@ -69,6 +91,18 @@
 	  </li>
 	  {{ end }}
 	</ul>
+	<div class="dropdown">
+		<button onclick="myFunction()" class="dropbtn"><i class="dropbtn fas fa-globe fa-lg"></i> 
+		</button>
+		<div id="myDropdown" class="dropdown-content">
+		{{/* language chooser */}}
+		{{ if .IsTranslated }}
+			{{ range .Translations }}
+				<a href="{{ .Permalink }}" lang={{.Language}} hreflang={{.Language}}>{{ .Language.LanguageName }}{{ if .IsPage }}{{ end }}</a>
+			{{ end }}
+	  {{ end }}
+	  </div>
+	</div>
       </div><!-- .social-icons -->
     </section><!-- .hgroup-right -->
     
@@ -84,7 +118,6 @@
 	</a>
       </h1>
       <h2 id="site-description">{{ .Site.Params.site_description }}</h2>
-	  {{ partial "i18nlist.html" . }}
     </hgroup><!-- #site-logo -->
     
   </div><!-- .hgroup-wrap -->

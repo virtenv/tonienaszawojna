@@ -344,7 +344,7 @@ DisqusShortname = "example"
 #    pinterest       = "example"
     facebook        = "PolskiRuchAntywojenny"
     twitter         = "ruchantywojenny"
-#    email           = "joe@example.com"	
+#    email           = "joe@example.com"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

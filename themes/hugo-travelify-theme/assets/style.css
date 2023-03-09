@@ -302,6 +302,21 @@ ul.horizontal-list li a {
 	color: #999;
 }
 
+/*  */
+.menu-item {
+	display: block;
+	height: 100%;
+	min-height: 2em;
+	margin: 0 1em;
+	position: relative;
+}
+
+.menu-item-link {
+	display: flex;
+	align-items: center;
+	height: 100%;
+}
+
 /* Forms */
 input,textarea {
 	border-radius: 0px;
@@ -705,6 +720,50 @@ a.more-link:focus {
 .social-icons ul li.github a:focus {
 	background: #151013;
 }
+
+/* Dropdown Button */
+.dropbtn {
+	background-color: inherit;
+	color: #cbcbcb;
+	border: none;
+	cursor: pointer;
+  }
+  
+  /* Dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+	background-color: inherit;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+	position: relative;
+	display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 90px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+
 
 /* Header Image */
 .header-image {
