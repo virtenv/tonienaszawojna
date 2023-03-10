@@ -3,7 +3,7 @@ title: "Наша война или не наша война?"
 date: "2023-02-14T12:53:38.603Z"
 author: Katarzyna Treter-Sierpińska
 tags: [ "wPrawoPL" ]
-categories: [ "Portale" ]
+categories: [ "Порталы" ]
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"
 description: "Портал wPrawoPL о польском антивоенном движении."
 draft: false
