@@ -3,7 +3,7 @@ title: "Контакт"
 date: 2023-02-11T11:30:13.839Z
 author: Антивоенное Движение Польши
 tags: [ "Контакт" ]
-categories: [ "Контакт" ]
+#categories: [ "Контакт" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

@@ -3,7 +3,7 @@ title: "Initiativen"
 date: 2023-02-11T11:29:54.212Z
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Initiativen" ]
-categories: [ "Initiativen" ]
+#categories: [ "Initiativen" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

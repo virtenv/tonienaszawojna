@@ -3,7 +3,7 @@ title: "Über uns"
 date: 2023-02-10T11:30:46.596Z
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Über uns" ]
-categories: [ "Wir" ]
+#categories: [ "Wir" ]
 noprevnext: true
 nodateline: true
 disable_comments: true

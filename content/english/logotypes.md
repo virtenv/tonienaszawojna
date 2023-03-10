@@ -3,7 +3,7 @@ title: "Logotypes"
 date: 2023-02-11T11:31:56.580Z
 author: Polish Anti-War Movement
 tags: [ "Logotypes" ]
-categories: [ "Logotypes" ]
+#categories: [ "Logotypes" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

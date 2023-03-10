@@ -3,7 +3,7 @@ title: "Contact"
 date: 2023-02-11T11:30:13.839Z
 author: Polish Anti-War Movement
 tags: [ "Contact" ]
-categories: [ "Contact" ]
+#categories: [ "Contact" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

@@ -3,7 +3,7 @@ title: "Support"
 date: 2023-02-11T11:32:36.904Z
 author: Polish Anti-War Movement
 tags: [ "Support" ]
-categories: [ "Support" ]
+#categories: [ "Support" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

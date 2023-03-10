@@ -3,7 +3,7 @@ title: "我们的战争或不是我们的战争？"
 date: "2023-02-14T12:53:38.603Z"
 author: Katarzyna Treter-Sierpińska
 tags: [ "wPrawoPL" ]
-#categories: [ "Portale" ]
+categories: [ "Portale" ]
 nodateline: true
 noprevnext: true
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"

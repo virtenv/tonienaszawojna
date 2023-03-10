@@ -3,7 +3,7 @@ title: "Логотипы"
 date: 2023-02-11T11:31:56.580Z
 author: Антивоенное Движение Польши
 tags: [ "Логотипы" ]
-categories: [ "Логотипы" ]
+#categories: [ "Логотипы" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

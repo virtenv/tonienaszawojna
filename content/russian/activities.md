@@ -3,7 +3,7 @@ title: "Инициативы"
 date: 2023-02-11T11:29:54.212Z
 author: Антивоенное Движение Польши
 tags: [ "Инициативы" ]
-categories: [ "Инициативы" ]
+#categories: [ "Инициативы" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

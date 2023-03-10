@@ -3,7 +3,7 @@ title: "Поддержка"
 date: 2023-02-11T11:32:36.904Z
 author: Антивоенное Движение Польши
 tags: [ "Поддержка" ]
-categories: [ "Поддержка" ]
+#categories: [ "Поддержка" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

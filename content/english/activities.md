@@ -3,7 +3,7 @@ title: "Activities"
 date: 2023-02-11T11:29:54.212Z
 author: Polish Anti-War Movement
 tags: [ "Activities" ]
-categories: [ "Activities" ]
+#categories: [ "Activities" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

@@ -1,11 +1,11 @@
 ---
-title: "Deklaracja"
+title: "Oświadczenie"
 date: "2023-02-11T11:15:45.537Z"
 author: Polski Ruch Antywojenny
-tags: [ "Deklaracja" ]
-categories: [ "Deklaracja" ]
+tags: [ "Oświadczenie" ]
+categories: [ "Oświadczenia" ]
 banner: "banners/deklaracja.jpg"
-description: "Deklaracja Polskiego Ruchu Antywojennego."
+description: "Oświadczenie Polskiego Ruchu Antywojennego."
 draft: false
 ---
 

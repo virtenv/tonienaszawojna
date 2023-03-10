@@ -3,7 +3,7 @@ title: "Grafiken"
 date: 2023-02-11T11:31:11.239Z
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Grafiken" ]
-categories: [ "Grafiken" ]
+#categories: [ "Grafiken" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

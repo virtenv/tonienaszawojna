@@ -3,7 +3,7 @@ title: "About"
 date: 2023-02-10T11:30:46.596Z
 author: Polish Anti-War Movement
 tags: [ "About" ]
-categories: [ "About" ]
+#categories: [ "About" ]
 nodateline: true
 noprevnext: true
 image: banners/baner6.jpg

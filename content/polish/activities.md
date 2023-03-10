@@ -3,7 +3,7 @@ title: "Inicjatywy"
 date: 2023-02-11T11:29:54.212Z
 author: Polski Ruch Antywojenny
 tags: [ "Inicjatywy" ]
-categories: [ "Inicjatywy" ]
+#categories: [ "Inicjatywy" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

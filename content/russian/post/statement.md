@@ -3,7 +3,7 @@ title: "Заявление"
 date: "2023-02-11T11:15:45.537Z"
 author: Антивоенное Движение Польши
 tags: [ "Заявление" ]
-categories: [ "Заявление" ]
+categories: [ "Заявления" ]
 banner: "banners/deklaracja.jpg"
 description: "Заявление Польского Антивоенного Движения."
 draft: false

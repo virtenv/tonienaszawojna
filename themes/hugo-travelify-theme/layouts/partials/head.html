@@ -19,8 +19,16 @@
 	  }
 	}
 	</script>
-
-<div class="container clearfix">
+<div class="container clearfix">	<script>
+	function showTopnav() {
+	  var x = document.getElementById("myTopnav");
+	  if (x.className === "topnav") {
+		x.className += " responsive";
+	  } else {
+		x.className = "topnav";
+	  }
+	}
+	</script>
   <div class="hgroup-wrap clearfix">
     <section class="hgroup-right">
     <div class="social-icons">

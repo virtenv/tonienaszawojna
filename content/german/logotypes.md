@@ -3,7 +3,7 @@ title: "Logos"
 date: 2023-02-11T11:31:56.580Z
 author: Polnische Anti-Kriegs-Bewegung
 tags: [ "Logos" ]
-categories: [ "Logos" ]
+#categories: [ "Logos" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

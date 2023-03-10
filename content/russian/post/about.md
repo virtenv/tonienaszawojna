@@ -3,7 +3,7 @@ title: "О нас"
 date: 2023-02-10T11:30:46.596Z
 author: Антивоенное Движение Польши
 tags: [ "О нас" ]
-categories: [ "Мы" ]
+#categories: [ "Мы" ]
 noprevnext: true
 nodateline: true
 disable_comments: true

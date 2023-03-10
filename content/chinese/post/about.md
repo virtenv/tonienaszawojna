@@ -3,7 +3,7 @@ title: "关于"
 date: 2023-02-10T11:30:46.596Z
 author: 波兰反战运动
 tags: [ "关于" ]
-categories: [ "关于" ]
+#categories: [ "关于" ]
 nodateline: true
 noprevnext: true
 image: banners/baner6.jpg

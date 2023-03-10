@@ -3,7 +3,7 @@ title: "Graphics"
 date: 2023-02-11T11:31:11.239Z
 author: Polish Anti-War Movement
 tags: [ "Graphics" ]
-categories: [ "Graphics" ]
+#categories: [ "Graphics" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

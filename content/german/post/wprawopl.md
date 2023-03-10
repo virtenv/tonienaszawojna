@@ -3,7 +3,7 @@ title: "Unser Krieg, oder nicht unser Krieg?"
 date: "2023-02-14T12:53:38.603Z"
 author: Katarzyna Treter-Sierpińska
 tags: [ "wPrawoPL" ]
-#categories: [ "Portale" ]
+categories: [ "Portale" ]
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"
 description: "Portal wPrawoPL zur polnischen Anti-Kriegs-Bewegung."
 draft: false

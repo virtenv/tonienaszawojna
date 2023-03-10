@@ -3,7 +3,7 @@ title: "Графика"
 date: 2023-02-11T11:31:11.239Z
 author: Антивоенное Движение Польши
 tags: [ "Графика" ]
-categories: [ "Графика" ]
+#categories: [ "Графика" ]
 nodateline: true
 noprevnext: true
 disable_comments: true

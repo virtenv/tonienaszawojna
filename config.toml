@@ -32,7 +32,7 @@ enableRobotsTXT = true
       author = "Polski Ruch Antywojenny"
       site_description = "Polski Ruch Antywojenny"
       recent_articles = "Ostatnie wiadomości"
-      menu_aside = "Menu"
+      menu_aside = "Kategorie"
       read_more = "Czytaj więcej"
 [[languages.pl.menu.main]]
     name  = "O nas"
@@ -77,7 +77,7 @@ enableRobotsTXT = true
       author = "Polish Anti-War Movement"
       site_description = "Polish Anti-War Movement"
       recent_articles = "Recent Posts"
-      menu_aside = "Menu"
+      menu_aside = "Categories"
       read_more = "Read More"
     [languages.en.menu]
 [[languages.en.menu.main]]
@@ -123,7 +123,7 @@ enableRobotsTXT = true
       author = "Polnische Anti-Kriegs-Bewegung"
       site_description = "Polnische Anti-Kriegs-Bewegung"
       recent_articles = "Neueste Beiträge"
-      menu_aside = "Menü"
+      menu_aside = "Kategorien"
       read_more = "Mehr lesen"
     [languages.de.menu]
 [[languages.de.menu.main]]
@@ -169,7 +169,7 @@ enableRobotsTXT = true
       author = "波兰反战运动"
       site_description = "波兰反战运动"
       recent_articles = "最近的帖子"
-      menu_aside = "菜单"
+      menu_aside = "类别"
       read_more = "阅读更多"
     [languages.zh.menu]
 [[languages.zh.menu.main]]
@@ -215,7 +215,7 @@ enableRobotsTXT = true
       author = "Антивоенное Движение Польши"
       site_description = "Антивоенное Движение Польши"
       recent_articles = "Последние сообщения"
-      menu_aside = "Меню"
+      menu_aside = "Категории"
       read_more = "Читать далее"
 [[languages.ru.menu.main]]
     name  = "О нас"
