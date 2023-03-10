@@ -55,7 +55,7 @@ enableRobotsTXT = true
 
 [[languages.pl.menu.main]]
     name  = "Grafiki do druku"
-    url   = "/pl/grpahics/"
+    url   = "/pl/graphics/"
     weight = 50
 
 [[languages.pl.menu.main]]
