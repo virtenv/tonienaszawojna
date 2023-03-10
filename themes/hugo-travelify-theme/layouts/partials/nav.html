@@ -3,7 +3,7 @@
     <ul class="root">
         {{ $rel := $.Page.RelPermalink }}
         {{ range .Site.Menus.main.ByWeight }}
-        <li class="menu-item menu-item-type-post_type menu-item-object-page {{ if eq $rel .URL }}active{{end}}">
+        <li class="menu-item-type-post_type menu-item-object-page {{ if eq $rel .URL }}active{{end}}">
 	          <a href="{{ .URL }}">{{ T .Identifier | default .Name }}{{ if .HasChildren }} &raquo;{{ end }}</a>
 	          {{ if .HasChildren }}
 	          <ul class="sub-menu">
