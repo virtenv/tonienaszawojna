@@ -7,7 +7,6 @@ tags: [ "O nas" ]
 noprevnext: true
 nodateline: true
 disable_comments: true
-banner: banners/baner6.jpg
 description: "Prezentacja Polskiego Ruchu Antywojennego."
 draft: false
 toc: true

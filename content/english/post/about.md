@@ -6,7 +6,6 @@ tags: [ "About" ]
 #categories: [ "About" ]
 nodateline: true
 noprevnext: true
-banner: banners/baner6.jpg
 description: "Presentation of the Polish Anti-War Movement."
 draft: false
 toc: true

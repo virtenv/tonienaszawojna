@@ -6,7 +6,6 @@ tags: [ "关于" ]
 #categories: [ "关于" ]
 nodateline: true
 noprevnext: true
-banner: banners/baner6.jpg
 description: "波兰反战运动的介绍。"
 draft: false
 toc: true

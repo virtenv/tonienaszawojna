@@ -7,7 +7,6 @@ tags: [ "О нас" ]
 noprevnext: true
 nodateline: true
 disable_comments: true
-banner: banners/baner6.jpg
 description: "Презентация Польского Антивоенного Движения."
 draft: false
 toc: true

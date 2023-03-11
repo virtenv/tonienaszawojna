@@ -7,7 +7,6 @@ tags: [ "Über uns" ]
 noprevnext: true
 nodateline: true
 disable_comments: true
-banner: banners/baner6.jpg
 description: "Präsentation der polnischen Anti-Kriegs-Bewegung."
 draft: false
 toc: true
