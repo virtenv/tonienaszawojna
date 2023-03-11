@@ -4,6 +4,7 @@
 {{ $embed_style := $embed_css | resources.Minify }}
 <head>
     <title>{{ if .IsHome }}{{ T "title" | default .Title }}  - {{ .Site.Params.site_description | default .Description }} {{ else }}{{ T "title" | default .Title }} - {{ T "title" | default .Title }}{{ end }} </title>
+    <meta name="msvalidate.01" content="226E121C16293B1EA0D656A6492D2AF6" />
     <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:type" content="article" />
