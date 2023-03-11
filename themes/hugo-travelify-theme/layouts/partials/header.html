@@ -4,6 +4,93 @@
 {{ $embed_style := $embed_css | resources.Minify }}
 <head>
     <title>{{ if .IsHome }}{{ T "title" | default .Title }}  - {{ .Site.Params.site_description | default .Description }} {{ else }}{{ T "title" | default .Title }} - {{ T "title" | default .Title }}{{ end }} </title>
+    <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:type" content="article" />
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:alt" content=".Site.Params.site_description">
+    <meta property="fb:app_id" content="2231777543">
+    <meta name="facebook-domain-verification" content="x6sdcc8b5ju3bh8nbm59eswogvg6t1">
+    <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content=".Site.Params.site_description">
+    <meta name="apple-mobile-web-app-status-bar-style" content="white">
+    <meta content="333903271" property="al:ios:app_store_id" data-rh="true">
+    <meta content="Polski Ruch Antywojenny" property="al:ios:app_name" data-rh="true">
+    <meta content="twitter://user?screen_name=RuchAntywojenny" property="al:android:url" data-rh="true">
+    <meta content="com.twitter.android" property="al:android:package" data-rh="true">
+
+    <meta name="twitter:description" content="{{ .Params.description }}" />
+    <meta name="description" content="{{ .Params.description }}" />
+    <meta itemprop="description" content="{{ .Params.description }}" />
+    <meta property="og:description" content="{{ .Params.description }}" />
+    
+    <base href="{{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
+    <meta name="url" content="{{ .Permalink }}" />
+    <meta name="twitter:url" content="https://twitter.com/RuchAntywojenny" /> 
+    <meta property="og:url" content="{{ .Permalink }}" />
+
+    <meta property="og:locale" content="{{ .Language.Lang }}">
+    <meta name="language" content="{{ .Language.LanguageName }}">
+    {{ range .AllTranslations }}
+      <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+    {{ end }}
+
+    {{ with .Params.image }} 
+    <meta itemprop="image" content="{{ . | absURL }}" />
+    <meta property="og:image" content="{{ . | absURL }}" /> 
+    <meta name="twitter:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+  {{ else }}
+    <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
+  {{ end }}
+
+    <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
+    {{ range .AllTranslations }}
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}{{ .Language.Lang }}/sitemap.xml" /> 
+    {{ end }}
+
+  {{ with .OutputFormats.Get "RSS" }}
+    <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    <link href="{{ .Permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  {{ end }}
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/x-icon" sizes="16x16 32x32" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="{{ .Site.BaseURL }}site.webmanifest" />
+
+    <meta name="robots" content="index,follow" /> 
+    <meta name="googlebot" content="index,follow" />
+
+    <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+    <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
+    <meta property="fb:app_id" content="" />
+    <meta property="fb:admins" content="" />
+
+    <meta name="theme-color" content="#FFFFFF" /> 
+    <meta name="msapplication-TileColor" content="#D4213D" />
+
+    <meta name="keywords" content="#ToNieNaszaWojna #这不是我们的战争 #ThisIsNotOurWar #ЭтоНеНашаВойна #DasIstNichtUnserKrieg" />
+    <meta name="imagemode" content="force" />
+    <meta name="coverage" content="Worldwide" /> 
+    <meta name="distribution" content="Global" />
+    <meta name="HandheldFriendly" content="True" /> 
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="apple-mobile-web-app-title" content="{{ .Site.Params.sitename }}" /> 
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+
     <!--    <link rel='dns-prefetch' href='//fonts.googleapis.com' />  -->
     <link rel='dns-prefetch' href='//s.w.org' />
     <meta charset="UTF-8" />
