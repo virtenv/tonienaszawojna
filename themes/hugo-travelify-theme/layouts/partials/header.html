@@ -105,6 +105,10 @@
     {{ if and (and (not (eq .Site.DisqusShortname "")) (not .Params.disable_comments)) }}
     <script id="dsq-count-scr" src="https://{{ .Site.Params.privacy.DisqusShortname }}.disqus.com/count.js" async></script>
     {{ end }}
+
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
     <script type="text/javascript">
      window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"\/js\/wp-emoji-release.min.js"}};
