@@ -7,9 +7,12 @@ tags: [ "Über uns" ]
 noprevnext: true
 nodateline: true
 disable_comments: true
-image: banners/baner6.jpg
+banner: banners/baner6.jpg
 description: "Präsentation der polnischen Anti-Kriegs-Bewegung."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 Die Initiative entstand aus einer ideologischen Zusammenarbeit zwischen Sebastian Piton und Leszek Sykulski und einer tiefen Ablehnung der Innen- und Außenpolitik, die die Regierungen in Warschau nach 1999 betrieben. Eine abenteuerliche Politik, die auf die Konfrontation mit unseren Nachbarn und die Verfolgung der strategischen Interessen Washingtons ausgerichtet ist. Wir sind eine Graswurzelbewegung, die von unten nach oben entsteht, ohne formale Strukturen. Die organische Arbeit für die kulturelle Souveränität der polnischen Nation und die polnische Unabhängigkeit ist der Kern unserer Aktivitäten.

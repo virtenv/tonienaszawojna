@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "与波兰反战运动的联系。"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 电子邮件: antywojna@protonmail.com
 

@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Inicjatywy Polskiego Ruchu Antywojennego."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 ![Nasze inicjatywy](/SAP-1.jpeg)
 

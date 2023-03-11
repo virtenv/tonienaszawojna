@@ -9,5 +9,8 @@ noprevnext: true
 disable_comments: true
 description: "Поддержка Польского Антивоенного Движения."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 [Информация о возможности поддержки Польского Антивоенного Движения](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "Страница поддержки Польского Антивоенного Движения")

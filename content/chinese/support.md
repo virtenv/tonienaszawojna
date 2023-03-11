@@ -9,5 +9,8 @@ noprevnext: true
 disable_comments: true
 description: "对波兰反战运动的支持。"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 [关于支持波兰反战运动的可能性的信息](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "波兰反战运动支持网站。")

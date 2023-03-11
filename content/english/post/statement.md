@@ -9,6 +9,9 @@ noprevnext: true
 banner: "banners/deklaracja.jpg"
 description: "Statement of the Polish Anti-War Movement."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ##### Statement of the Polish Anti-War Movement.

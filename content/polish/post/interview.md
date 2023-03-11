@@ -5,8 +5,14 @@ author: Dr Leszek Sykulski
 tags: [ "Wywiad" ]
 categories: [ "Wywiady" ]
 banner: "banners/wywiad.jpg"
+nodateline: true
+noprevnext: true
+disable_comments: true
 description: "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 -- Publicyści, politycy mówią, że to jest szkodliwe dla Polski. Jakie jest Pana zdanie?

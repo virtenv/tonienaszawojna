@@ -6,9 +6,12 @@ tags: [ "关于" ]
 #categories: [ "关于" ]
 nodateline: true
 noprevnext: true
-image: banners/baner6.jpg
+banner: banners/baner6.jpg
 description: "波兰反战运动的介绍。"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 该倡议诞生于塞巴斯蒂安-皮顿和莱塞克-西库尔斯基之间自下而上的意识形态合作，以及对华沙政府在1999年后推行的国内和外交政策的深刻分歧。旨在对抗邻国和推进华盛顿的战略利益的冒险政策。我们是一个社会运动，自下而上创建，没有正式的结构。我们活动的本质是为波兰人民的文化主权和波兰的独立而有机地工作。

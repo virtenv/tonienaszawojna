@@ -7,6 +7,9 @@ categories: [ "Erklärungen" ]
 banner: "banners/deklaracja.jpg"
 description: "Erklärung der polnischen Anti-Kriegs-Bewegung."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ##### Erklärung der polnischen Anti-Kriegs-Bewegung

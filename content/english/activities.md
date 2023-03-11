@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Activities of the Polish Anti-War Movement."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 ![Our Activities](/SAP-1.jpeg)
 

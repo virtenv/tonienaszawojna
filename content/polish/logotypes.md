@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Logotypy Polskiego Ruchu Antywojennego."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ![Logo Polskiego Ruchu Antywojennego](/PRA.jpeg)

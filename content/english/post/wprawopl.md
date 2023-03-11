@@ -9,6 +9,9 @@ noprevnext: true
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"
 description: "Portal wPrawoPL about Polish Anti-War Movement."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 The portal [wPrawo.PL](https://wprawo.pl/ "Portal wPrawo.PL") published a text entitled ["Our war or not our war?"](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portal wPrawo.PL"). It is worth reading.

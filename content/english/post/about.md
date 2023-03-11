@@ -6,9 +6,12 @@ tags: [ "About" ]
 #categories: [ "About" ]
 nodateline: true
 noprevnext: true
-image: banners/baner6.jpg
+banner: banners/baner6.jpg
 description: "Presentation of the Polish Anti-War Movement."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 The initiative was born from the bottom up out of Sebastian Piton and Leszek Sykulski's ideological cooperation and deep disagreement with the domestic and foreign policies pursued by the post-1999 governments in Warsaw. Adventurous policies aimed at confronting our neighbors and advancing Washington's strategic interests. We are a social movement, created from the bottom up, without formal structures. The essence of our activities is organic work for the cultural sovereignty of the Polish people and the independence of Poland.

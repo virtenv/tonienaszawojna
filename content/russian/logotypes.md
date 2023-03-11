@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Логотипы Польского Антивоенного Движения."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ![Лого Польского Антивоенного Движения](/PRA.jpeg)

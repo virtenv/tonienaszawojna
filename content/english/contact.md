@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Contact to the Polish Anti-War Movement."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 Email: antywojna@protonmail.com
 

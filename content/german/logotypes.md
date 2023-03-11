@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Logos der polnischen Anti-Kriegs-Bewegung."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ![Logo der polnischen Anti-Kriegs-Bewegung](/PRA.jpeg)

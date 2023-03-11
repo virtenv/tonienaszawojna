@@ -9,6 +9,9 @@ noprevnext: true
 banner: "banners/wywiad.jpg"
 description: "Interview by Dr. Leszek Sykulski for TVPolska.PL television station"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 -- Publicists, politicians say that this is harmful to Poland. What is your opinion?

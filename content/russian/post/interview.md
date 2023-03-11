@@ -5,8 +5,14 @@ author: Др. Лешек Сикульски
 tags: [ "Интервью" ]
 categories: [ "Интервью" ]
 banner: "banners/wywiad.jpg"
+noprevnext: true
+nodateline: true
+disable_comments: true
 description: "Интервью с др. Лешеком Сикульским для TVPolska.PL."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 -- Публицисты, политики говорят, что это вредит Польше. Каково Ваше мнение?

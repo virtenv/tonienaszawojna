@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Grafiken der polnischen Anti-Kriegs-Bewegung."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 Nachstehend finden Sie Links, über die Sie das gesamte Grafikpaket (A4-Plakate, Aufkleber, Banner, Plakate) in den Formaten JPG, PNG und PDF herunterladen können. Wir stellen sie zur freien Verwendung (ohne grafische Änderungen) nur im Sinne unserer Bewegung (Antikriegskampagne) und in Übereinstimmung mit dem geltenden Recht zur Verfügung. Die Polnische Antikriegsbewegung haftet nicht für die illegale Nutzung der Grafiken (z.B. das Anbringen an nicht genehmigten Orten).
 

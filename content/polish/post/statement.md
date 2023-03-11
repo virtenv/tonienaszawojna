@@ -5,8 +5,14 @@ author: Polski Ruch Antywojenny
 tags: [ "Oświadczenie" ]
 categories: [ "Oświadczenia" ]
 banner: "banners/deklaracja.jpg"
+nodateline: true
+noprevnext: true
+disable_comments: true
 description: "Oświadczenie Polskiego Ruchu Antywojennego."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ##### Deklaracja Polskiego Ruchu Antywojennego

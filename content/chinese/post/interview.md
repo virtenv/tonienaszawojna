@@ -9,6 +9,9 @@ noprevnext: true
 banner: "banners/wywiad.jpg"
 description: "Leszek Sykulski博士为TVPolska.PL电视台所做的采访"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 -- 公众人士、政治家们说，这对波兰是有害的。你有什么看法？

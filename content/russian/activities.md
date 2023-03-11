@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Инициативы Польского Антивоенного Движения."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 ![Наши инициативы](/SAP-1.jpeg)
 

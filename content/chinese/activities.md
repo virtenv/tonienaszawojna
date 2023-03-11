@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "波兰反战运动的活动。"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 ![我们的活动](/SAP-1.jpeg)
 

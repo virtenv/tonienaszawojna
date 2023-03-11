@@ -4,9 +4,15 @@ date: "2023-02-11T11:15:45.537Z"
 author: Антивоенное Движение Польши
 tags: [ "Заявление" ]
 categories: [ "Заявления" ]
+noprevnext: true
+nodateline: true
+disable_comments: true
 banner: "banners/deklaracja.jpg"
 description: "Заявление Польского Антивоенного Движения."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 
 ##### Заявление Польского Антивоенного Движения.

@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "波兰反战运动的图形。"
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 以下是链接，你可以从中下载JPG、PNG和PDF格式的全套图形（A4海报、贴纸、标语、广告牌）。我们只在我们运动（反战运动）的精神下，根据适用的法律，提供免费使用（不做图形修改）。波兰反战运动对违反法律使用图形不负责任（例如，把它们放在未经授权的地方）。
 

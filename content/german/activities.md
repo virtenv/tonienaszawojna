@@ -9,6 +9,9 @@ noprevnext: true
 disable_comments: true
 description: "Initiativen der polnischen Anti-Kriegs-Bewegung."
 draft: false
+toc: true
+thumbnail: "logo.png"
+images: ["Logo_Ruch.png"]
 ---
 ![Unsere Initiativen](/SAP-1.jpeg)
 
