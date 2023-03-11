@@ -266,10 +266,12 @@ enableRobotsTXT = true
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
     sitename = "Polski Ruch Antywojenny"
-    ogimage = "https://pbs.twimg.com/profile_banners/1623471765287477249/1675901110/1080x360"
+    ogimage = "https://tonienaszawojna.org/Logo_Ruch.png"
     # Format dates with Go's time formatting
     date_format = '2021-11-03T12:34:56+01:00'
     description = "Polski Ruch Antywojenny - ruch społeczny, założony przez Sebastiana Pitonia i Leszka Sykulskiego, którego inauguracja miała miejsce 3 II 2023 w Częstochowie."
+    twitter_cards = true
+    images = ["Logo_Ruch.png"]
     # Add custom assets with their paths relative to the static folder
     custom_css = []
     custom_js  = []
