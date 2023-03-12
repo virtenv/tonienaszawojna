@@ -10,7 +10,7 @@ nodateline: true
 disable_comments: true
 description: "Портал wPrawoPL о польском антивоенном движении."
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

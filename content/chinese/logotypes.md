@@ -9,7 +9,7 @@ noprevnext: true
 disable_comments: true
 description: "波兰反战运动的标志"
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

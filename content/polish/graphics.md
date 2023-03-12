@@ -9,7 +9,7 @@ noprevnext: true
 disable_comments: true
 description: "Grafiki Polskiego Ruchu Antywojennego."
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

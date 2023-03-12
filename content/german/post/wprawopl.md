@@ -7,7 +7,7 @@ categories: [ "Portale" ]
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"
 description: "Portal wPrawoPL zur polnischen Anti-Kriegs-Bewegung."
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

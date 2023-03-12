@@ -9,7 +9,7 @@ noprevnext: true
 banner: "banners/deklaracja.jpg"
 description: "波兰反战运动的宣言。"
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

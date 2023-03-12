@@ -10,7 +10,7 @@ disable_comments: true
 banner: "banners/deklaracja.jpg"
 description: "Заявление Польского Антивоенного Движения."
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

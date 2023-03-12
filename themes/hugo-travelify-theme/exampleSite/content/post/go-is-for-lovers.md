@@ -268,7 +268,7 @@ aliases:
   - "/doc/permalinks/"
 groups: ["extras"]
 groups_weight: 30
-notoc: true
+notoc: false
 ---
 ```
 

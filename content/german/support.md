@@ -9,7 +9,7 @@ noprevnext: true
 disable_comments: true
 description: "Unterstützung für die polnische Anti-Kriegs-Bewegung."
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

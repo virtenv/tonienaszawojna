@@ -9,7 +9,7 @@ noprevnext: true
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"
 description: "关于波兰反战运动的门户网站wPrawoPL。"
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

@@ -9,7 +9,7 @@ noprevnext: true
 banner: "banners/wywiad.jpg"
 description: "Leszek Sykulski博士为TVPolska.PL电视台所做的采访"
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---

@@ -8,7 +8,7 @@ nodateline: true
 noprevnext: true
 description: "Presentation of the Polish Anti-War Movement."
 draft: false
-toc: true
+toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
