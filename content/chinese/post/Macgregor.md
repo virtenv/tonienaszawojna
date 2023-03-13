@@ -4,7 +4,7 @@ date: 2023-03-12T11:30:46.596Z
 author: Clayton Morris
 tags: [ "访谈" ]
 banner: "banners/Macgregor.png"
-categories: [ "访谈" ]
+#categories: [ "访谈" ]
 noprevnext: true
 nodateline: true
 disable_comments: true

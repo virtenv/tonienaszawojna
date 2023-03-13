@@ -1,0 +1,91 @@
+[about]
+other = "Rólunk"
+
+[statement]
+other = "Magyarázat"
+
+[activities]
+other = "Kezdeményezések"
+
+[logotypes]
+other = "Logók"
+
+[graphics]
+other = "Grafika"
+
+[support]
+other = "Támogatás"
+
+[contact]
+other = "Kapcsolat"
+
+[words]
+other = "szavak"
+
+
+
+[title_page_not_found]
+other = "404-es hiba - Az oldal nem található"
+
+[subtitle_page_not_found]
+other = "Úgy tűnik, hogy a keresett tartalom nem létezik."
+
+[social_facebook]
+other = "Kövessen minket a Facebookon"
+
+[social_twitter]
+other = "Kövessen minket Twitteren"
+
+[social_rss]
+other = "Feliratkozás a feedünkre"
+
+[social_googleplus]
+other = "Kövessen minket a Google Pluson"
+    
+[social_pinterest]
+other = "Kövessen minket a Pinteresten"
+    
+[social_linkedin]
+other = "Kövessen minket a LinkedIn-en"
+
+[social_tumblr]
+other = "Kövessen minket a Tumblr-en"
+    
+[social_vimeo]
+other = "Kövessen minket a Vimeón"
+    
+[social_instagram]
+other = "Kövessen minket Instagramon"
+
+[social_flickr]
+other = "Kövessen minket a Flickr-en"
+    
+[social_youtube]
+other = "Kövessen minket a YouTube-on"
+
+[social_github]
+other = "Kövessen minket a GitHubon"
+    
+[social_email]
+other = "Írjon nekünk e-mailt"
+
+[share_facebook]
+other = "Megosztás"
+
+[share_twitter]
+other = "Tweet"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Megosztás"
+
+[share_email]
+other = "E-mail"
+	
+[share_emailmessage]
+other = "Helló, ezt a cikket szeretném megosztani önökkel."
+
+[authors]
+other = "Szerzők"

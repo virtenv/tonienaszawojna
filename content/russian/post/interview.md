@@ -3,7 +3,7 @@ title: "Интервью перед зданием польского парла
 date: "2023-02-11T11:21:18.373Z"
 author: Др. Лешек Сикульски
 tags: [ "Интервью" ]
-categories: [ "Интервью" ]
+#categories: [ "Интервью" ]
 banner: "banners/wywiad.jpg"
 noprevnext: true
 nodateline: true

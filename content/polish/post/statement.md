@@ -3,7 +3,7 @@ title: "Oświadczenie"
 date: "2023-02-11T11:15:45.537Z"
 author: Polski Ruch Antywojenny
 tags: [ "Oświadczenie" ]
-categories: [ "Oświadczenia" ]
+#categories: [ "Oświadczenia" ]
 banner: "banners/deklaracja.jpg"
 nodateline: true
 noprevnext: true

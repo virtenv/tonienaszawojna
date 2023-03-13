@@ -251,6 +251,144 @@ enableRobotsTXT = true
     url   = "/ru/contact/"
     weight = 70
 
+  [languages.tr]
+    contentDir = 'content/turkish'
+    languageName = 'Türkçe'
+    title = '#BuBizimSavaşımızDeğil'
+   weight = 6
+    [languages.tr.params]
+      author = "Polonya Savaş Karşıtı Hareketi"
+      site_description = "Polonya Savaş Karşıtı Hareketi"
+      recent_articles = "Son gönderiler"
+      menu_aside = "Kategoriler"
+      read_more = "Devamını oku"
+    [languages.tr.menu]
+[[languages.tr.menu.main]]
+    name  = "Hakkımızda"
+    url   = "/tr/post/about/"
+    weight = 10
+[[languages.tr.menu.main]]
+    name  = "Açıklama"
+    url   = "/tr/post/statement/"
+    weight = 20
+
+[[languages.tr.menu.main]]
+    name  = "Girişimler"
+    url   = "/tr/activities/"
+    weight = 30
+
+[[languages.tr.menu.main]]
+    name  = "İndirilecek logotipler"
+    url   = "/tr/logotypes/"
+    weight = 40
+
+[[languages.tr.menu.main]]
+    name  = "Yazdırılacak grafikler"
+    url   = "/tr/graphics/"
+    weight = 50
+
+[[languages.tr.menu.main]]
+    name  = "Destek"
+    url   = "/tr/support/"
+    weight = 60
+    
+[[languages.tr.menu.main]]
+    name  = "İletişim"
+    url   = "/tr/contact/"
+    weight = 70
+
+  [languages.sk]
+    contentDir = 'content/slovak'
+    languageName = 'Slovenská'
+    title = '#TotoNieJeNašaWojna'
+   weight = 7
+    [languages.sk.params]
+      author = "Poľské protivojnové hnutie"
+      site_description = "Poľské protivojnové hnutie"
+      recent_articles = "Najnovšie príspevky"
+      menu_aside = "Kategórie"
+      read_more = "Čítajte viac"
+    [languages.sk.menu]
+[[languages.sk.menu.main]]
+    name  = "O nás"
+    url   = "/sk/post/about/"
+    weight = 10
+[[languages.sk.menu.main]]
+    name  = "Prehlásenie"
+    url   = "/sk/post/statement/"
+    weight = 20
+
+[[languages.sk.menu.main]]
+    name  = "Iniciatívy"
+    url   = "/sk/activities/"
+    weight = 30
+
+[[languages.sk.menu.main]]
+    name  = "Logotypy na stiahnutie"
+    url   = "/sk/logotypes/"
+    weight = 40
+
+[[languages.sk.menu.main]]
+    name  = "Grafika na tlač"
+    url   = "/sk/graphics/"
+    weight = 50
+
+[[languages.sk.menu.main]]
+    name  = "Podpora"
+    url   = "/sk/support/"
+    weight = 60
+    
+[[languages.sk.menu.main]]
+    name  = "Kontakt"
+    url   = "/sk/contact/"
+    weight = 70
+
+  [languages.hu]
+    contentDir = 'content/hungarian'
+    languageName = 'Magyar'
+    title = '#EzNemAMiHáborúnk'
+   weight = 8
+    [languages.hu.params]
+      author = "Lengyel háborúellenes mozgalom"
+      site_description = "Lengyel háborúellenes mozgalom"
+      recent_articles = "Legutóbbi bejegyzések"
+      menu_aside = "Kategóriák"
+      read_more = "Olvass tovább"
+    [languages.hu.menu]
+[[languages.hu.menu.main]]
+    name  = "Rólunk"
+    url   = "/hu/post/about/"
+    weight = 10
+[[languages.hu.menu.main]]
+    name  = "Magyarázat"
+    url   = "/hu/post/statement/"
+    weight = 20
+
+[[languages.hu.menu.main]]
+    name  = "Kezdeményezések"
+    url   = "/hu/activities/"
+    weight = 30
+
+[[languages.hu.menu.main]]
+    name  = "Letölthető logotípusok"
+    url   = "/hu/logotypes/"
+    weight = 40
+
+[[languages.hu.menu.main]]
+    name  = "Grafika nyomtatáshoz"
+    url   = "/hu/graphics/"
+    weight = 50
+
+[[languages.hu.menu.main]]
+    name  = "Támogatás"
+    url   = "/hu/support/"
+    weight = 60
+    
+[[languages.hu.menu.main]]
+    name  = "Kapcsolat"
+    url   = "/hu/contact/"
+    weight = 70
+
 
 [[cascade]]
 

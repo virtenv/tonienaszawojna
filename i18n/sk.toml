@@ -1,0 +1,92 @@
+[about]
+other = "O nás"
+
+[statement]
+other = "Prehlásenie"
+
+[activities]
+other = "Iniciatívy"
+
+[logotypes]
+other = "Logá"
+
+[graphics]
+other = "Grafika"
+
+[support]
+other = "Podpora"
+
+[contact]
+other = "Kontakt"
+
+[words]
+other = "slová"
+
+
+
+
+[title_page_not_found]
+other = "Chyba 404 - stránka nebola nájdená."
+
+[subtitle_page_not_found]
+other = "Zdá sa, že obsah, ktorý hľadáte, neexistuje."
+
+[social_facebook]
+other = "Sledujte nás na Facebooku"
+
+[social_twitter]
+other = "Sledujte nás na Twitteri"
+
+[social_rss]
+other = "Prihláste sa na odber nášho kanála RSS"
+
+[social_googleplus]
+other = "Sledujte nás na Google Plus"
+    
+[social_pinterest]
+other = "Sledujte nás na Pinterest"
+    
+[social_linkedin]
+other = "Sledujte nás na LinkedIn"
+
+[social_tumblr]
+other = "Sledujte nás na Tumblr"
+    
+[social_vimeo]
+other = "Sledujte nás na Vimeo"
+    
+[social_instagram]
+other = "Sledujte nás na Instagrame"
+
+[social_flickr]
+other = "Sledujte nás na Flickr"
+    
+[social_youtube]
+other = "Sledujte nás na YouTube"
+
+[social_github]
+other = "Sledujte nás na GitHub"
+    
+[social_email]
+other = "Pošlite nám e-mail"
+
+[share_facebook]
+other = "Odoslať na Fecebook"
+
+[share_twitter]
+other = "Odoslať na Twitter"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Odoslať na LinkedIn"
+
+[share_email]
+other = "Napíšte e-mail"
+	
+[share_emailmessage]
+other = "Dobrý deň, posielam vám článok."
+
+[authors]
+other = "Autori"

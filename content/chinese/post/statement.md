@@ -3,7 +3,7 @@ title: "声明"
 date: "2023-02-11T11:15:45.537Z"
 author: 波兰反战运动
 tags: [ "声明" ]
-categories: [ "声明" ]
+#categories: [ "声明" ]
 nodateline: true
 noprevnext: true
 banner: "banners/deklaracja.jpg"

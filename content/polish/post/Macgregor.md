@@ -4,7 +4,7 @@ date: 2023-03-12T11:30:46.596Z
 author: Clayton Morris
 tags: [ "Wywiad" ]
 banner: "banners/Macgregor.png"
-categories: [ "Wywiady" ]
+#categories: [ "Wywiady" ]
 noprevnext: true
 nodateline: true
 disable_comments: true

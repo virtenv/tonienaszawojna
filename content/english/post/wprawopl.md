@@ -3,7 +3,7 @@ title: "Our War or Not Our War?"
 date: "2023-02-14T12:53:38.603Z"
 author: Katarzyna Treter-Sierpińska
 tags: [ "wPrawoPL" ]
-categories: [ "Portals" ]
+#categories: [ "Portals" ]
 nodateline: true
 noprevnext: true
 banner: "To_nie_nasza_wojna_baner_poziomy-3-1024x576.png"

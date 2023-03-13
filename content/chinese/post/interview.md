@@ -3,7 +3,7 @@ title: "在波兰议会前采访Leszek Sykulski博士"
 date: "2023-02-11T11:21:18.373Z"
 author: Leszek Sykulski博士
 tags: [ "访谈" ]
-categories: [ "访谈" ]
+#categories: [ "访谈" ]
 nodateline: true
 noprevnext: true
 banner: "banners/wywiad.jpg"

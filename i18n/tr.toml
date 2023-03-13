@@ -1,0 +1,91 @@
+[about]
+other = "Hakkımızda"
+
+[statement]
+other = "Açıklama"
+
+[activities]
+other = "Girişimler"
+
+[logotypes]
+other = "Logolar"
+
+[graphics]
+other = "Grafikler"
+
+[support]
+other = "Destek"
+
+[contact]
+other = "İletişim"
+
+[words]
+other = "kelimeler"
+
+
+
+[title_page_not_found]
+other = "Hata 404 - Sayfa bulunamadı"
+
+[subtitle_page_not_found]
+other = "Aradığınız içerik mevcut görünmüyor."
+
+[social_facebook]
+other = "Bizi Facebook'ta takip edin"
+
+[social_twitter]
+other = "Bizi Twitter'da takip edin"
+
+[social_rss]
+other = "Feed'imize abone olun"
+
+[social_googleplus]
+other = "Bizi Google Plus'ta takip edin"
+    
+[social_pinterest]
+other = "Bizi Pinterest'te takip edin"
+    
+[social_linkedin]
+other = "Bizi LinkedIn'de takip edin"
+
+[social_tumblr]
+other = "Bizi Tumblr'da takip edin"
+    
+[social_vimeo]
+other = "Bizi Vimeo'da takip edin"
+    
+[social_instagram]
+other = "Bizi Instagram'da takip edin"
+
+[social_flickr]
+other = "Bizi Flickr'da takip edin"
+    
+[social_youtube]
+other = "Bizi YouTube'da takip edin"
+
+[social_github]
+other = "Bizi GitHub'da takip edin"
+    
+[social_email]
+other = "Bize e-posta gönderin"
+
+[share_facebook]
+other = "Paylaş"
+
+[share_twitter]
+other = "Tweet"
+
+[share_googleplus]
+other = "+1"
+
+[share_linkedin]
+other = "Paylaş"
+
+[share_email]
+other = "E-posta"
+	
+[share_emailmessage]
+other = "Merhaba, bu yazıyı sizlerle paylaşmak istiyorum."
+
+[authors]
+other = "Yazarlar"

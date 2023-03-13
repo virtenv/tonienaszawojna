@@ -3,7 +3,7 @@ title: "Wywiad przed Sejmem RP z dr. Leszkiem Sykulskim"
 date: "2023-02-11T11:21:18.373Z"
 author: Dr Leszek Sykulski
 tags: [ "Wywiad" ]
-categories: [ "Wywiady" ]
+#categories: [ "Wywiady" ]
 banner: "banners/wywiad.jpg"
 nodateline: true
 noprevnext: true

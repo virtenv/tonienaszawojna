@@ -3,7 +3,7 @@ title: "Interview vor dem polnischen Parlament mit Dr. Leszek Sykulski"
 date: "2023-02-11T11:21:18.373Z"
 author: Dr. Leszek Sykulski
 tags: [ "Interview" ]
-categories: [ "Interviews" ]
+#categories: [ "Interviews" ]
 banner: "banners/wywiad.jpg"
 description: "Interview von Dr. Leszek Sykulski für TVPolska.PL."
 draft: false
