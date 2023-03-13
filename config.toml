@@ -504,11 +504,10 @@ DisqusShortname = "example"
     
 [permalinks]
     #categories = "/categories/:slug/" #can be changed to "/category/:slug/"
-    categories = "/categories/:slug/" #can be changed to "/category/:slug/"
     tags = "/tags/:slug/"
 
 [taxonomies]
-    category = "categories"
+    #category = "categories"
     tag = "tags"
     series = "series"
     author = "author"
