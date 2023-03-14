@@ -9,7 +9,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: "Douglas Macgregor a lengyel kormány politikájáról."
-draft: true
+draft: false
 toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]

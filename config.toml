@@ -349,8 +349,8 @@ enableRobotsTXT = true
     title = '#EzNemAMiHáborúnk'
    weight = 8
     [languages.hu.params]
-      author = "Lengyel háborúellenes mozgalom"
-      site_description = "Lengyel háborúellenes mozgalom"
+      author = "Lengyel Háborúellenes Mozgalom"
+      site_description = "Lengyel Háborúellenes Mozgalom"
       recent_articles = "Legutóbbi bejegyzések"
       menu_aside = "Kategóriák"
       read_more = "Olvass tovább"
