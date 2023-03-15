@@ -31,8 +31,20 @@
 	</script>
   <div class="hgroup-wrap clearfix">
     <section class="hgroup-right">
+		<div id="myDropdown" class="dropdown-content">
+		{{/* language chooser */}}
+		{{ if .IsTranslated }}
+			{{ range .Translations }}
+				<a href="{{ .Permalink }}" lang={{.Language}} hreflang={{.Language}}>{{ .Language.LanguageName }}{{ if .IsPage }}{{ end }}</a>
+			{{ end }}
+	    {{ end }}
+	    </div>
     <div class="social-icons">
 	<ul>
+	<li>
+		<button onclick="myFunction()" class="dropbtn"><i class="dropbtn fas fa-globe fa-lg"></i> 
+		</button>
+	</li>
 	  {{ if .Site.Social.facebook }}
 	  <li class="facebook">
 	    <a href="https://www.facebook.com/{{ .Site.Social.facebook }}" title="{{ T "social_facebook" }}" target="_blank"></a>
@@ -99,18 +111,6 @@
 	  </li>
 	  {{ end }}
 	</ul>
-	<div class="dropdown">
-		<button onclick="myFunction()" class="dropbtn"><i class="dropbtn fas fa-globe fa-lg"></i> 
-		</button>
-		<div id="myDropdown" class="dropdown-content">
-		{{/* language chooser */}}
-		{{ if .IsTranslated }}
-			{{ range .Translations }}
-				<a href="{{ .Permalink }}" lang={{.Language}} hreflang={{.Language}}>{{ .Language.LanguageName }}{{ if .IsPage }}{{ end }}</a>
-			{{ end }}
-	  {{ end }}
-	  </div>
-	</div>
       </div><!-- .social-icons -->
     </section><!-- .hgroup-right -->
     

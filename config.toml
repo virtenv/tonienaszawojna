@@ -118,7 +118,7 @@ enableRobotsTXT = true
     contentDir = 'content/german'
     languageName = 'Deutsch'
     title = '#DasIstNichtUnserKrieg'
-   weight = 4
+   weight = 8
     [languages.de.params]
       author = "Polnische Anti-Kriegs-Bewegung"
       site_description = "Polnische Anti-Kriegs-Bewegung"
@@ -210,7 +210,7 @@ enableRobotsTXT = true
     contentDir = 'content/russian'
     languageName = 'Русский'
     title = '#ЭтоНеНашаВойна'
-    weight = 5
+    weight = 4
     [languages.ru.params]
       author = "Антивоенное Движение Польши"
       site_description = "Антивоенное Движение Польши"
@@ -255,7 +255,7 @@ enableRobotsTXT = true
     contentDir = 'content/turkish'
     languageName = 'Türkçe'
     title = '#BuBizimSavaşımızDeğil'
-   weight = 6
+   weight = 7
     [languages.tr.params]
       author = "Polonya Savaş Karşıtı Hareketi"
       site_description = "Polonya Savaş Karşıtı Hareketi"
@@ -301,7 +301,7 @@ enableRobotsTXT = true
     contentDir = 'content/slovak'
     languageName = 'Slovenská'
     title = '#TotoNieJeNašaWojna'
-   weight = 7
+   weight = 6
     [languages.sk.params]
       author = "Poľské protivojnové hnutie"
       site_description = "Poľské protivojnové hnutie"
@@ -347,7 +347,7 @@ enableRobotsTXT = true
     contentDir = 'content/hungarian'
     languageName = 'Magyar'
     title = '#EzNemAMiHáborúnk'
-   weight = 8
+   weight = 5
     [languages.hu.params]
       author = "Lengyel Háborúellenes Mozgalom"
       site_description = "Lengyel Háborúellenes Mozgalom"
