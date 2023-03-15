@@ -324,7 +324,7 @@ enableRobotsTXT = true
     weight = 30
 
 [[languages.sk.menu.main]]
-    name  = "Logotypy na stiahnutie"
+    name  = "Logá na stiahnutie"
     url   = "/sk/logotypes/"
     weight = 40
 
