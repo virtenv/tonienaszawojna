@@ -54,7 +54,7 @@ Dzisiaj na Słowacji odbywa się marsz, na który zostaliśmy zaproszeni. Deleg
 
 W pierwszej fazie i najważniejszej fazie będziemy się koncentrowali na działalności edukacyjno -
 informacyjnej, takiej powiedzielibyśmy kampanii wizualnej, gdzie za pomocą ulotek, wlepek, plakatów,
-banerów, bilbordów, ale także działalności w mediach społecznościowych i właśnie w reklamach w internecie będziemy starali się przekonywać Polaków do tego, że wybór jest między pokojem, a wojną i w dobrze pojętym interesie Polaków i pańśtwa polskiego jest po prostu pokój.
+banerów, bilbordów, ale także działalności w mediach społecznościowych i właśnie w reklamach w internecie będziemy starali się przekonywać Polaków do tego, że wybór jest między pokojem, a wojną i w dobrze pojętym interesie Polaków i państwa polskiego jest po prostu pokój.
 
 
 W związku z tym uważamy, że Polska powinna prowadzić politykę wielowektorową, politykę zero wrogów wśród sąsiadów i nie szukać problemów tam, gdzie ich nie ma, bo my nie opowiadamy się za jakimś sojuszem z Rosją, to jest absurd, to co nam nasi przeciwnicy zarzucają. My chcemy prowadzić normalne relacje gospodarcze z Białorusią, z Rosją, z Niemcami, z Chinami, z Iranem, z USA.

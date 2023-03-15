@@ -314,7 +314,7 @@ enableRobotsTXT = true
     url   = "/sk/post/about/"
     weight = 10
 [[languages.sk.menu.main]]
-    name  = "Prehlásenie"
+    name  = "Vyhlásenie"
     url   = "/sk/post/statement/"
     weight = 20
 
