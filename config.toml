@@ -68,98 +68,6 @@ enableRobotsTXT = true
     url   = "/pl/contact/"
     weight = 70 
 
-  [languages.en]
-    contentDir = 'content/english'
-    languageName = 'English'
-    title = '#ThisIsNotOurWar'
-   weight = 3
-    [languages.en.params]
-      author = "Polish Anti-War Movement"
-      site_description = "Polish Anti-War Movement"
-      recent_articles = "Recent Posts"
-      menu_aside = "Categories"
-      read_more = "Read More"
-    [languages.en.menu]
-[[languages.en.menu.main]]
-    name  = "About"
-    url   = "/en/post/about/"
-    weight = 10
-[[languages.en.menu.main]]
-    name  = "Statement"
-    url   = "/en/post/statement/"
-    weight = 20
-
-[[languages.en.menu.main]]
-    name  = "Activities"
-    url   = "/en/activities/"
-    weight = 30
-
-[[languages.en.menu.main]]
-    name  = "Logotypes to download"
-    url   = "/en/logotypes/"
-    weight = 40
-
-[[languages.en.menu.main]]
-    name  = "Graphics to print"
-    url   = "/en/graphics/"
-    weight = 50
-
-[[languages.en.menu.main]]
-    name  = "Support"
-    url   = "/en/support/"
-    weight = 60
-    
-[[languages.en.menu.main]]
-    name  = "Contact"
-    url   = "/en/contact/"
-    weight = 70
-
-  [languages.de]
-    contentDir = 'content/german'
-    languageName = 'Deutsch'
-    title = '#DasIstNichtUnserKrieg'
-   weight = 8
-    [languages.de.params]
-      author = "Polnische Anti-Kriegs-Bewegung"
-      site_description = "Polnische Anti-Kriegs-Bewegung"
-      recent_articles = "Neueste Beiträge"
-      menu_aside = "Kategorien"
-      read_more = "Mehr lesen"
-    [languages.de.menu]
-[[languages.de.menu.main]]
-    name  = "Über uns"
-    url   = "/de/post/about/"
-    weight = 10
-[[languages.de.menu.main]]
-    name  = "Erklärung"
-    url   = "/de/post/statement/"
-    weight = 20
-
-[[languages.de.menu.main]]
-    name  = "Initiativen"
-    url   = "/de/activities/"
-    weight = 30
-
-[[languages.de.menu.main]]
-    name  = "Logotypen zum Herunterladen"
-    url   = "/de/logotypes/"
-    weight = 40
-
-[[languages.de.menu.main]]
-    name  = "Grafiken zum Drucken"
-    url   = "/de/graphics/"
-    weight = 50
-
-[[languages.de.menu.main]]
-    name  = "Unterstützung"
-    url   = "/de/support/"
-    weight = 60
-    
-[[languages.de.menu.main]]
-    name  = "Kontakt"
-    url   = "/de/contact/"
-    weight = 70
-
   [languages.zh]
     contentDir = 'content/chinese'
     languageName = '简体中文'
@@ -206,6 +114,52 @@ enableRobotsTXT = true
     url   = "/zh/contact/"
     weight = 70
 
+  [languages.en]
+    contentDir = 'content/english'
+    languageName = 'English'
+    title = '#ThisIsNotOurWar'
+   weight = 3
+    [languages.en.params]
+      author = "Polish Anti-War Movement"
+      site_description = "Polish Anti-War Movement"
+      recent_articles = "Recent Posts"
+      menu_aside = "Categories"
+      read_more = "Read More"
+    [languages.en.menu]
+[[languages.en.menu.main]]
+    name  = "About"
+    url   = "/en/post/about/"
+    weight = 10
+[[languages.en.menu.main]]
+    name  = "Statement"
+    url   = "/en/post/statement/"
+    weight = 20
+
+[[languages.en.menu.main]]
+    name  = "Activities"
+    url   = "/en/activities/"
+    weight = 30
+
+[[languages.en.menu.main]]
+    name  = "Logotypes to download"
+    url   = "/en/logotypes/"
+    weight = 40
+
+[[languages.en.menu.main]]
+    name  = "Graphics to print"
+    url   = "/en/graphics/"
+    weight = 50
+
+[[languages.en.menu.main]]
+    name  = "Support"
+    url   = "/en/support/"
+    weight = 60
+    
+[[languages.en.menu.main]]
+    name  = "Contact"
+    url   = "/en/contact/"
+    weight = 70
+
   [languages.ru]
     contentDir = 'content/russian'
     languageName = 'Русский'
@@ -249,98 +203,6 @@ enableRobotsTXT = true
 [[languages.ru.menu.main]]
     name  = "Контакт"
     url   = "/ru/contact/"
-    weight = 70
-
-  [languages.tr]
-    contentDir = 'content/turkish'
-    languageName = 'Türkçe'
-    title = '#BuBizimSavaşımızDeğil'
-   weight = 7
-    [languages.tr.params]
-      author = "Polonya Savaş Karşıtı Hareketi"
-      site_description = "Polonya Savaş Karşıtı Hareketi"
-      recent_articles = "Son gönderiler"
-      menu_aside = "Kategoriler"
-      read_more = "Devamını oku"
-    [languages.tr.menu]
-[[languages.tr.menu.main]]
-    name  = "Hakkımızda"
-    url   = "/tr/post/about/"
-    weight = 10
-[[languages.tr.menu.main]]
-    name  = "Açıklama"
-    url   = "/tr/post/statement/"
-    weight = 20
-
-[[languages.tr.menu.main]]
-    name  = "Girişimler"
-    url   = "/tr/activities/"
-    weight = 30
-
-[[languages.tr.menu.main]]
-    name  = "İndirilecek logotipler"
-    url   = "/tr/logotypes/"
-    weight = 40
-
-[[languages.tr.menu.main]]
-    name  = "Yazdırılacak grafikler"
-    url   = "/tr/graphics/"
-    weight = 50
-
-[[languages.tr.menu.main]]
-    name  = "Destek"
-    url   = "/tr/support/"
-    weight = 60
-    
-[[languages.tr.menu.main]]
-    name  = "İletişim"
-    url   = "/tr/contact/"
-    weight = 70
-
-  [languages.sk]
-    contentDir = 'content/slovak'
-    languageName = 'Slovenská'
-    title = '#TotoNieJeNašaWojna'
-   weight = 6
-    [languages.sk.params]
-      author = "Poľské protivojnové hnutie"
-      site_description = "Poľské protivojnové hnutie"
-      recent_articles = "Najnovšie príspevky"
-      menu_aside = "Kategórie"
-      read_more = "Čítajte viac"
-    [languages.sk.menu]
-[[languages.sk.menu.main]]
-    name  = "O nás"
-    url   = "/sk/post/about/"
-    weight = 10
-[[languages.sk.menu.main]]
-    name  = "Vyhlásenie"
-    url   = "/sk/post/statement/"
-    weight = 20
-
-[[languages.sk.menu.main]]
-    name  = "Iniciatívy"
-    url   = "/sk/activities/"
-    weight = 30
-
-[[languages.sk.menu.main]]
-    name  = "Logá na stiahnutie"
-    url   = "/sk/logotypes/"
-    weight = 40
-
-[[languages.sk.menu.main]]
-    name  = "Grafika na tlač"
-    url   = "/sk/graphics/"
-    weight = 50
-
-[[languages.sk.menu.main]]
-    name  = "Podpora"
-    url   = "/sk/support/"
-    weight = 60
-    
-[[languages.sk.menu.main]]
-    name  = "Kontakt"
-    url   = "/sk/contact/"
     weight = 70
 
   [languages.hu]
@@ -389,6 +251,143 @@ enableRobotsTXT = true
     url   = "/hu/contact/"
     weight = 70
 
+  [languages.sk]
+    contentDir = 'content/slovak'
+    languageName = 'Slovenská'
+    title = '#TotoNieJeNašaWojna'
+   weight = 6
+    [languages.sk.params]
+      author = "Poľské protivojnové hnutie"
+      site_description = "Poľské protivojnové hnutie"
+      recent_articles = "Najnovšie príspevky"
+      menu_aside = "Kategórie"
+      read_more = "Čítajte viac"
+    [languages.sk.menu]
+[[languages.sk.menu.main]]
+    name  = "O nás"
+    url   = "/sk/post/about/"
+    weight = 10
+[[languages.sk.menu.main]]
+    name  = "Vyhlásenie"
+    url   = "/sk/post/statement/"
+    weight = 20
+
+[[languages.sk.menu.main]]
+    name  = "Iniciatívy"
+    url   = "/sk/activities/"
+    weight = 30
+
+[[languages.sk.menu.main]]
+    name  = "Logá na stiahnutie"
+    url   = "/sk/logotypes/"
+    weight = 40
+
+[[languages.sk.menu.main]]
+    name  = "Grafika na tlač"
+    url   = "/sk/graphics/"
+    weight = 50
+
+[[languages.sk.menu.main]]
+    name  = "Podpora"
+    url   = "/sk/support/"
+    weight = 60
+    
+[[languages.sk.menu.main]]
+    name  = "Kontakt"
+    url   = "/sk/contact/"
+    weight = 70
+
+  [languages.tr]
+    contentDir = 'content/turkish'
+    languageName = 'Türkçe'
+    title = '#BuBizimSavaşımızDeğil'
+   weight = 7
+    [languages.tr.params]
+      author = "Polonya Savaş Karşıtı Hareketi"
+      site_description = "Polonya Savaş Karşıtı Hareketi"
+      recent_articles = "Son gönderiler"
+      menu_aside = "Kategoriler"
+      read_more = "Devamını oku"
+    [languages.tr.menu]
+[[languages.tr.menu.main]]
+    name  = "Hakkımızda"
+    url   = "/tr/post/about/"
+    weight = 10
+[[languages.tr.menu.main]]
+    name  = "Açıklama"
+    url   = "/tr/post/statement/"
+    weight = 20
+
+[[languages.tr.menu.main]]
+    name  = "Girişimler"
+    url   = "/tr/activities/"
+    weight = 30
+
+[[languages.tr.menu.main]]
+    name  = "İndirilecek logotipler"
+    url   = "/tr/logotypes/"
+    weight = 40
+
+[[languages.tr.menu.main]]
+    name  = "Yazdırılacak grafikler"
+    url   = "/tr/graphics/"
+    weight = 50
+
+[[languages.tr.menu.main]]
+    name  = "Destek"
+    url   = "/tr/support/"
+    weight = 60
+    
+[[languages.tr.menu.main]]
+    name  = "İletişim"
+    url   = "/tr/contact/"
+    weight = 70
+
+  [languages.de]
+    contentDir = 'content/german'
+    languageName = 'Deutsch'
+    title = '#DasIstNichtUnserKrieg'
+   weight = 8
+    [languages.de.params]
+      author = "Polnische Anti-Kriegs-Bewegung"
+      site_description = "Polnische Anti-Kriegs-Bewegung"
+      recent_articles = "Neueste Beiträge"
+      menu_aside = "Kategorien"
+      read_more = "Mehr lesen"
+    [languages.de.menu]
+[[languages.de.menu.main]]
+    name  = "Über uns"
+    url   = "/de/post/about/"
+    weight = 10
+[[languages.de.menu.main]]
+    name  = "Erklärung"
+    url   = "/de/post/statement/"
+    weight = 20
+
+[[languages.de.menu.main]]
+    name  = "Initiativen"
+    url   = "/de/activities/"
+    weight = 30
+
+[[languages.de.menu.main]]
+    name  = "Logotypen zum Herunterladen"
+    url   = "/de/logotypes/"
+    weight = 40
+
+[[languages.de.menu.main]]
+    name  = "Grafiken zum Drucken"
+    url   = "/de/graphics/"
+    weight = 50
+
+[[languages.de.menu.main]]
+    name  = "Unterstützung"
+    url   = "/de/support/"
+    weight = 60
+    
+[[languages.de.menu.main]]
+    name  = "Kontakt"
+    url   = "/de/contact/"
+    weight = 70
 
 [[cascade]]
 
