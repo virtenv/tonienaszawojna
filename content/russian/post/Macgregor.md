@@ -4,7 +4,7 @@ date: "2023-02-11T11:21:18.373Z"
 author: Clayton Morris
 tags: [ "Интервью" ]
 #categories: [ "Интервью" ]
-banner: "banners/MacGREGOR.png"
+banner: "banners/Macgregor.png"
 noprevnext: true
 nodateline: true
 disable_comments: true
