@@ -1,5 +1,5 @@
 ---
-title: "Интервью перед зданием польского парламента с др. Лешеком Сыкульским"
+title: "Дуглас Макгрегор о политике польского правительства"
 date: "2023-02-11T11:21:18.373Z"
 author: Clayton Morris
 tags: [ "Интервью" ]
@@ -8,7 +8,7 @@ banner: "banners/MacGREGOR.png"
 noprevnext: true
 nodateline: true
 disable_comments: true
-description: "Интервью с др. Лешеком Сикульским для TVPolska.PL."
+description: "Дуглас Макгрегор о политике польского правительства."
 draft: false
 toc: false
 thumbnail: "logo.png"
