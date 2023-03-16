@@ -641,6 +641,7 @@ a.more-link:focus {
 .social-icons ul li.facebook a:hover,
 .social-icons ul li.facebook a:focus {
 	background: #3B5998;
+	font-size: smaller;
 }
 .social-icons ul li.twitter a:before {
 	content: '\f202';
@@ -648,6 +649,7 @@ a.more-link:focus {
 .social-icons ul li.twitter a:hover,
 .social-icons ul li.twitter a:focus {
 	background: #00aced;
+	font-size: smaller;
 }
 .social-icons ul li.google-plus a:before {
 	content: '\f218';
@@ -2225,4 +2227,5 @@ article {
 }
 ul#blog {
     list-style-type: none;
+	padding-top: 20px;
 }
