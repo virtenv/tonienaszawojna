@@ -9,9 +9,9 @@
     <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:type" content="article" />
-    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+  <!--  <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:image:alt" content=".Site.Params.site_description">
+    <meta name="twitter:image:alt" content=".Site.Params.site_description"> -->
     <meta property="fb:app_id" content="2231777543">
     <meta name="facebook-domain-verification" content="x6sdcc8b5ju3bh8nbm59eswogvg6t1">
     <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
@@ -22,10 +22,10 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="white">
     <meta content="333903271" property="al:ios:app_store_id" data-rh="true">
     <meta content="Polski Ruch Antywojenny" property="al:ios:app_name" data-rh="true">
-    <meta content="twitter://user?screen_name=RuchAntywojenny" property="al:android:url" data-rh="true">
-    <meta content="com.twitter.android" property="al:android:package" data-rh="true">
+  <!--  <meta content="twitter://user?screen_name=RuchAntywojenny" property="al:android:url" data-rh="true">
+    <meta content="com.twitter.android" property="al:android:package" data-rh="true"> -->
 
-    <meta name="twitter:description" content="{{ .Params.description }}" />
+  <!--  <meta name="twitter:description" content="{{ .Params.description }}" /> -->
     <meta name="description" content="{{ .Params.description }}" />
     <meta itemprop="description" content="{{ .Params.description }}" />
     <meta property="og:description" content="{{ .Params.description }}" />
@@ -33,7 +33,7 @@
     <base href="{{ .Permalink }}">
     <link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
     <meta name="url" content="{{ .Permalink }}" />
-    <meta name="twitter:url" content="https://twitter.com/RuchAntywojenny" /> 
+  <!--  <meta name="twitter:url" content="https://twitter.com/RuchAntywojenny" /> -->
     <meta property="og:url" content="{{ .Permalink }}" />
 
     <meta property="og:locale" content="{{ .Language.Lang }}">
@@ -45,13 +45,13 @@
     {{ with .Params.image }} 
     <meta itemprop="image" content="{{ . | absURL }}" />
     <meta property="og:image" content="{{ . | absURL }}" /> 
-    <meta name="twitter:image" content="{{ . | absURL }}" />
-    <meta name="twitter:image:src" content="{{ . | absURL }}" /> 
+ <!--   <meta name="twitter:image" content="{{ . | absURL }}" />
+    <meta name="twitter:image:src" content="{{ . | absURL }}" /> --> 
   {{ else }}
     <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
     <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> 
+  <!--  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> -->
   {{ end }}
 
     <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
@@ -74,8 +74,8 @@
     <meta name="robots" content="index,follow" /> 
     <meta name="googlebot" content="index,follow" />
 
-    <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
-    <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
+  <!--  <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+    <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" /> -->
     <meta property="fb:app_id" content="" />
     <meta property="fb:admins" content="" />
 
@@ -107,7 +107,7 @@
     {{ end }}
 
     {{ template "_internal/opengraph.html" . }}
-    <!-- {{ template "_internal/twitter_cards.html" . }} -->
+    {{ template "_internal/twitter_cards.html" . }}
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
     <script type="text/javascript">
