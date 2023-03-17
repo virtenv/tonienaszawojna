@@ -257,8 +257,8 @@ enableRobotsTXT = true
     title = '#TotoNieJeNašaWojna'
    weight = 6
     [languages.sk.params]
-      author = "Poľské protivojnové hnutie"
-      site_description = "Poľské protivojnové hnutie"
+      author = "Poľské Protivojnové Hnutie"
+      site_description = "Poľské Protivojnové Hnutie"
       recent_articles = "Najnovšie príspevky"
       menu_aside = "Kategórie"
       read_more = "Čítajte viac"

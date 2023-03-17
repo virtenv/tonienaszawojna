@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-Nižšie sú uvedené odkazy, kde si môžete stiahnuť celý balík grafiky (plagáty A4, nálepky, bannery, billboardy) vo formátoch JPG, PNG a PDF. Sprístupňujeme ich na voľné použitie (bez grafických úprav) len v duchu nášho hnutia (protivojnová kampaň) v súlade s platnými zákonmi. Poľské protivojnové hnutie nenesie zodpovednosť za prípadné nezákonné použitie grafík (napr. ich umiestnenie na nepovolených miestach).
+Nižšie sú uvedené odkazy, kde si môžete stiahnuť celý balík grafiky (plagáty A4, nálepky, bannery, billboardy) vo formátoch JPG, PNG a PDF. Sprístupňujeme ich na voľné použitie (bez grafických úprav) len v duchu nášho hnutia (protivojnová kampaň) v súlade s platnými zákonmi. Poľské Protivojnové Hnutie nenesie zodpovednosť za prípadné nezákonné použitie grafík (napr. ich umiestnenie na nepovolených miestach).
 
 
 [Grafika na Mediafire.com](https://www.mediafire.com/folder/e3mxmi645l5xt/PRA_Grafiki "Grafika na Mediafire.com")
