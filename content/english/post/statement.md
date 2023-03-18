@@ -35,4 +35,4 @@ We advocate peace and a peace policy aimed at good relations with all neighbors,
 There is no agreement on our part to support US hegemonic policies and the participation of the Polish Army in Washington's wars of aggression, which resulted in the deaths of nearly a million people after 2001.
 
 
-Częstochowa, 2023年2月3日。
+Częstochowa, February 3, 2023
