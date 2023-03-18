@@ -7,14 +7,14 @@ tags: [ "Statement" ]
 nodateline: true
 noprevnext: true
 banner: "banners/deklaracja.jpg"
-description: "Statement of the Polish Anti-War Movement."
+description: "Statement of the Polish Anti-War Movement"
 draft: false
 toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-##### Statement of the Polish Anti-War Movement.
+##### Statement of the Polish Anti-War Movement
 
 
 We, the undersigned, gathered at the inauguration of the Polish Anti-War Movement, express our deep disagreement with the foreign and security policy pursued by the governments in Warsaw after 1999, an adventurous policy aimed at aimed at confronting our neighbors and pursuing the strategic interests of Washington.

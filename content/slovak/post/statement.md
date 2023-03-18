@@ -8,7 +8,7 @@ banner: "banners/deklaracja.jpg"
 nodateline: true
 noprevnext: true
 disable_comments: true
-description: "Vyhlásenie Poľského Protivojnového Hnutia."
+description: "Vyhlásenie Poľského Protivojnového Hnutia"
 draft: false
 toc: false
 thumbnail: "logo.png"

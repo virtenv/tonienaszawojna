@@ -8,7 +8,7 @@ banner: "banners/deklaracja.jpg"
 nodateline: true
 noprevnext: true
 disable_comments: true
-description: "Polonya Savaş Karşıtı Hareketin Açıklaması."
+description: "Polonya Savaş Karşıtı Hareketin Açıklaması"
 draft: false
 toc: false
 thumbnail: "logo.png"

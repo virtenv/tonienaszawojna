@@ -8,7 +8,7 @@ banner: "banners/deklaracja.jpg"
 nodateline: true
 noprevnext: true
 disable_comments: true
-description: "A Lengyel Háborúellenes Mozgalom nyilatkozata."
+description: "A Lengyel Háborúellenes Mozgalom nyilatkozata"
 draft: false
 toc: false
 thumbnail: "logo.png"

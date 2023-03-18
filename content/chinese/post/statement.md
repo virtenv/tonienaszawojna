@@ -7,14 +7,14 @@ tags: [ "声明" ]
 nodateline: true
 noprevnext: true
 banner: "banners/deklaracja.jpg"
-description: "波兰反战运动的宣言。"
+description: "波兰反战运动的宣言"
 draft: false
 toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-##### 波兰反战运动的声明。
+##### 波兰反战运动的声明
 
 
 我们，以下签名者，聚集在波兰反战运动的开幕式上，表示我们对华沙政府在1999年后推行的外交和安全政策深表不满，这种冒险的政策旨在旨在对抗我们的邻国，追求华盛顿的战略利益。

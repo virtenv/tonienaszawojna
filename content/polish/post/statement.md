@@ -8,7 +8,7 @@ banner: "banners/deklaracja.jpg"
 nodateline: true
 noprevnext: true
 disable_comments: true
-description: "Oświadczenie Polskiego Ruchu Antywojennego."
+description: "Oświadczenie Polskiego Ruchu Antywojennego"
 draft: false
 toc: false
 thumbnail: "logo.png"
