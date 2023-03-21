@@ -1,5 +1,5 @@
 ---
-title: Vita Kielcé
+title: Vita Kielcében
 date: 2023-03-17T06:42:09.367Z
 author: Lengyel Háborúellenes Mozgalom
 tags:

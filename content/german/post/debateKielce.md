@@ -1,5 +1,5 @@
 ---
-title: Debatte Kielce
+title: Debatte in Kielce
 date: 2023-03-17T06:42:09.367Z
 author: Polnische Anti-Kriegs-Bewegung
 tags:
