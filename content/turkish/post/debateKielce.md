@@ -28,3 +28,5 @@ images:
 [Savaş tehlikesiyle karşı karşıya mıyız? Kielce'de büyük konferans [4/6]](https://www.youtube.com/watch?v=13lwYpm-uno "Savaş tehlikesiyle karşı karşıya mıyız? Kielce'de büyük konferans [4/6]")
 
 [Savaş tehlikesiyle karşı karşıya mıyız? Kielce'de büyük konferans [5/6]](https://www.youtube.com/watch?v=_7PMONnDBLE "Savaş tehlikesiyle karşı karşıya mıyız? Kielce'de büyük konferans [5/6]")
+
+[Savaş tehlikesiyle karşı karşıya mıyız? Kielce'de büyük konferans [6/6]](hhttps://www.youtube.com/watch?v=4V4MpXF36q0 "Savaş tehlikesiyle karşı karşıya mıyız? Kielce'de büyük konferans [6/6]")

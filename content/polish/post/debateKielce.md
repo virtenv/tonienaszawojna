@@ -28,3 +28,5 @@ W sobotę, 18 marca 2023 roku, w Kielcach o godzinie 15:00, wielka debata geopol
 [Czy grozi nam wojna? Wielka konferencja w Kielcach [4/6]](https://www.youtube.com/watch?v=13lwYpm-uno "Czy grozi nam wojna? Wielka konferencja w Kielcach [4/6]")
 
 [Czy grozi nam wojna? Wielka konferencja w Kielcach [5/6]](https://www.youtube.com/watch?v=_7PMONnDBLE "Czy grozi nam wojna? Wielka konferencja w Kielcach [5/6]")
+
+[Czy grozi nam wojna? Wielka konferencja w Kielcach [6/6]](https://www.youtube.com/watch?v=4V4MpXF36q0 "Czy grozi nam wojna? Wielka konferencja w Kielcach [6/6]")

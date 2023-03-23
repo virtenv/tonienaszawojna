@@ -28,3 +28,5 @@ Am Samstag, den 18. März 2023, findet in Kielce um 15:00 Uhr die große geopoli
 [Sind wir in Kriegsgefahr? Große Konferenz in Kielce [4/6]](https://www.youtube.com/watch?v=13lwYpm-uno "Sind wir in Kriegsgefahr? Große Konferenz in Kielce [4/6]")
 
 [Sind wir in Kriegsgefahr? Große Konferenz in Kielce [5/6]](https://www.youtube.com/watch?v=_7PMONnDBLE "Sind wir in Kriegsgefahr? Große Konferenz in Kielce [5/6]")
+
+[Sind wir in Kriegsgefahr? Große Konferenz in Kielce [6/6]](https://www.youtube.com/watch?v=4V4MpXF36q0 "Sind wir in Kriegsgefahr? Große Konferenz in Kielce [6/6]")

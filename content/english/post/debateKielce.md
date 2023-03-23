@@ -29,3 +29,5 @@ On Saturday, March 18, 2023, in Kielce at 3:00 pm, the great geopolitical debate
 [Are we in danger of war? Great conference in Kielce [4/6]](https://www.youtube.com/watch?v=13lwYpm-uno "Are we in danger of war? Great conference in Kielce [4/6]")
 
 [Are we in danger of war? Great conference in Kielce [5/6]](https://www.youtube.com/watch?v=_7PMONnDBLE "Are we in danger of war? Great conference in Kielce [5/6]")
+
+[Are we in danger of war? Great conference in Kielce [6/6]](https://www.youtube.com/watch?v=4V4MpXF36q0 "Are we in danger of war? Great conference in Kielce [6/6]")

@@ -28,3 +28,5 @@ V sobotu 18. marca 2023 sa v Kielcach o 15:00 hod. uskutoční veľká geopoliti
 [Hrozí nám vojna? Veľká konferencia v Kielcach [4/6]](https://www.youtube.com/watch?v=13lwYpm-uno "Hrozí nám vojna? Veľká konferencia v Kielcach [4/6]")
 
 [Hrozí nám vojna? Veľká konferencia v Kielcach [5/6]](https://www.youtube.com/watch?v=_7PMONnDBLE "Hrozí nám vojna? Veľká konferencia v Kielcach [5/6]")
+
+[Hrozí nám vojna? Veľká konferencia v Kielcach [6/6]](hhttps://www.youtube.com/watch?v=4V4MpXF36q0 "Hrozí nám vojna? Veľká konferencia v Kielcach [6/6]")

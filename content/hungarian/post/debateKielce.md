@@ -28,3 +28,5 @@ images:
 [Háborús veszély fenyeget minket? Nagyszerű konferencia Kielcében [4/6]](https://www.youtube.com/watch?v=13lwYpm-uno "Háborús veszély fenyeget minket? Nagyszerű konferencia Kielcében [4/6]")
 
 [Háborús veszély fenyeget minket? Nagyszerű konferencia Kielcében [5/6]](https://www.youtube.com/watch?v=_7PMONnDBLE "Háborús veszély fenyeget minket? Nagyszerű konferencia Kielcében [5/6]")
+
+[Háborús veszély fenyeget minket? Nagyszerű konferencia Kielcében [6/6]](https://www.youtube.com/watch?v=4V4MpXF36q0 "Háborús veszély fenyeget minket? Nagyszerű konferencia Kielcében [6/6]")
