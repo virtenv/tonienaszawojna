@@ -9,7 +9,7 @@ banner: banners/debataKielce.jpeg
 noprevnext: true
 nodateline: true
 disable_comments: true
-description: 在凯尔采举行的波兰反战运动辩论会.
+description: 在凯尔采举行的波兰反战运动辩论会。
 draft: false
 toc: false
 thumbnail: logo.png
