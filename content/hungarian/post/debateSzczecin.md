@@ -17,4 +17,4 @@ images:
   - Logo_Ruch.png
 ---
 
-Meghívás Szczecinbe a lengyel biztonságról szóló geopolitikai vitára. Kezdet 18.00 órakor Helyszín: Szalézi Iskolák, Ku Słońcu utca 124. A belépés ingyenes. Az előadók könyvei megvásárolhatók lesznek, pl. Lengyel geopolitikai gondolkodás" - ár 50 PLN és ,,A geopolitika alapjai". - ár 30 PLN.
+Meghívás Szczecinbe egy Lengyelország biztonságáról szóló geopolitikai vitára. Kezdődik 2023.03.24-én, pénteken, 18 órakor. Helyszín: Szalézi iskolák, Ku Słońcu utca 124. A belépés ingyenes. Az előadók könyvei megvásárolhatók lesznek, pl. ,,Lengyel geopolitikai gondolkodás" - ár 50 PLN és ,,A geopolitika alapjai". - ár 30 PLN.

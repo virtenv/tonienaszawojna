@@ -17,4 +17,4 @@ images:
   - Logo_Ruch.png
 ---
 
-Polonya'nın güvenliği üzerine jeopolitik bir tartışma için Szczecin'e davet. Saat 18:00'de başlayacaktır. Yer: Salesian Okulları, 124 Ku Słońcu Sokağı. Giriş ücretsizdir. Konuşmacıların kitapları satışa sunulacaktır, örneğin. Polonya jeopolitik düşüncesi" - fiyatı 50 PLN ve ,,Jeopolitiğin Temelleri". - fiyat 30 PLN.
+Polonya'nın güvenliği üzerine jeopolitik bir tartışma için Szczecin'e davet. Etkinlik 24.03.2023 Cuma günü saat 18:00'de başlayacaktır. Yer: Salesian Okulları, 124 Ku Słońcu Sokağı Giriş ücretsizdir. Konuşmacıların kitapları satışa sunulacaktır, örneğin. ,,Polonya jeopolitik düşüncesi" - fiyat 50 PLN ve ,,Jeopolitiğin Temelleri" - fiyat 30 PLN.

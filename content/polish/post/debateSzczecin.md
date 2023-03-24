@@ -17,4 +17,4 @@ images:
   - Logo_Ruch.png
 ---
 
-Zaproszenie do Szczecina na debatę geopolityczną o bezpieczeństwie Polski. Początek o godzinie 18:00. Miejsce: Szkoły Salezjańskie, ul. Ku Słońcu 124. Wstęp wolny. W sprzedaży będą książki prelegentów, np. ,,Polska myśl geopolityczna" - cena 50 zł i ,,Podstawy geopolityki" - cena 30 zł.
+Zaproszenie do Szczecina na debatę geopolityczną o bezpieczeństwie Polski. Początek w piątek, 24.03.2023 r., o godzinie 18:00. Miejsce: Szkoły Salezjańskie, ul. Ku Słońcu 124. Wstęp wolny. W sprzedaży będą książki prelegentów, np. ,,Polska myśl geopolityczna" - cena 50 zł i ,,Podstawy geopolityki" - cena 30 zł.

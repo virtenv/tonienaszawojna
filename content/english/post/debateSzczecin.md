@@ -17,4 +17,4 @@ images:
   - Logo_Ruch.png
 ---
 
-Invitation to Szczecin for a geopolitical debate on the security of Poland. Start at 18:00 Place: Salesian Schools, 124 Ku Słońcu St. Admission is free. Books by the speakers will be on sale, such as. , "Polish geopolitical thought" - price 50 zł and , "Basics of geopolitics". - price 30 zł.
+Invitation to Szczecin for a geopolitical debate on the security of Poland. Beginning on Friday, March 24, 2023, at 18:00 Place: Salesian Schools, 124 Ku Słońcu St. Free admission. Books of the speakers will be on sale, such as. , "Polish geopolitical thought" - price 50 zł and , "Basics of geopolitics". - price 30 zł.
