@@ -1,11 +1,11 @@
 ---
-title: Встреча Познань
+title: Встреча в Познани
 date: 2023-03-21T09:40:00.173Z
 author: Антивоенное Движение Польши
 tags:
   - Встреча
 #categories: [ "Встречи" ]
-banner: banners/debataPoznan.jpeg
+banner: banners/spotkaniePoznan.jpeg
 noprevnext: true
 nodateline: true
 disable_comments: true

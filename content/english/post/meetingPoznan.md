@@ -1,5 +1,5 @@
 ---
-title: Meeting Poznań
+title: Meeting in Poznań
 date: 2023-03-21T09:40:00.173Z
 author: Polish Anti-War Movement
 tags:
