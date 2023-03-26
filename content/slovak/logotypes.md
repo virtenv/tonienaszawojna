@@ -14,10 +14,10 @@ thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-![Logo Poľského Protivojnového Hnutia](/PRA.jpeg)
+![Logo Poľského Protivojnového Hnutia](/logPRA.png)
 
-![#ZastavteAmerikanizáciuPoľska](/SAP-1.jpeg)
+![#ZastavteAmerikanizáciuPoľska](/Logo1-450x450.png)
 
-![#ZastavteAmerikanizáciuPoľska](/SAP2.jpeg)
+![#ZastavteAmerikanizáciuPoľska](/Logo4-450x450.png)
 
-![#ZastavteAmerikanizáciuPoľska](/SAP3.jpeg)
+![#ZastavteAmerikanizáciuPoľska](/Logo_Ruch-768x768.png)

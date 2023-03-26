@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![Nasze inicjatywy](/SAP-1.jpeg)
+![Nasze inicjatywy](/Logo1-450x450.png)
 
 
 __Tworzymy film dokumentalny pt. ,,Stop amerykanizacji Polski''__.

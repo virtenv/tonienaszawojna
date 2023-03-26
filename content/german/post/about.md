@@ -37,7 +37,7 @@ Wir sind für den Frieden und eine Friedenspolitik, die auf gute Beziehungen zu 
 Polen wird als "strategischer Puffer" für die USA behandelt, womit wir nicht einverstanden sind. Der Betrieb eines geheimen CIA-Gefängnisses auf polnischem Gebiet zwischen 2003 und 2005, in dem Bürger anderer Länder unrechtmäßig festgehalten und gefoltert wurden (ohne Gerichtsurteil). Dies ist ein eklatanter Beweis für die nicht selbstverwaltete Politik des polnischen Staates. Wir sind nicht damit einverstanden, die Hegemonialpolitik der USA und die Beteiligung der polnischen Armee an den Angriffskriegen Washingtons zu unterstützen, die nach 2001 zum Tod von fast einer Million Menschen geführt haben.
 
 
-![#StopAmerykanizacjiPolski](/SAP-1.jpeg)
+![#StopAmerykanizacjiPolski](/Logo1-450x450.png)
 
 
 🇵🇱 **Wahrheit, Familie, Eigentum.**

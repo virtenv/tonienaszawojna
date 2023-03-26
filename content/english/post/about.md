@@ -36,7 +36,7 @@ We advocate peace and a peace policy aimed at good relations with all neighbors.
 Poland is treated as a "strategic bumper" of the US, to which we do not agree. The operation in 2003-2005 on Polish territory of a secret CIA prison, in which citizens of other countries were unlawfully (without a court ruling) detained and tortured. This is blatant proof of the dependence of Polish state policy. There is no agreement on our part to support the hegemonic policy of the US and the participation of the Polish Army in Washington's wars of aggression, which resulted in the deaths of nearly a million people after 2001.
 
 
-![#StopAmerykanizacjiPolski](/SAP-1.jpeg)
+![#StopAmerykanizacjiPolski](/Logo1-450x450.png)
 
 
 🇵🇱 **Truth, family, property.**

@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![Girişimlerimiz](/SAP-1.jpeg)
+![Girişimlerimiz](/Logo1-450x450.png)
 
 
 __başlıklı bir belgesel film yapıyoruz ''Polonya'nın Amerikanlaşmasını Durdurun''__.

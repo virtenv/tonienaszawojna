@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![我们的活动](/SAP-1.jpeg)
+![我们的活动](/Logo1-450x450.png)
 
 
 __我们正在制作一部名为《停止波兰的美国化》的纪录片。__.

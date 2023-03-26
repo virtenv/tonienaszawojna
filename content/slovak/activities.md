@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![Naše iniciatívy](/SAP-1.jpeg)
+![Naše iniciatívy](/Logo1-450x450.png)
 
 
 __Tvoríme dokumentárny film s názvom ,,Stop amerikanizácii Poľska"__..

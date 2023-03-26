@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![Our Activities](/SAP-1.jpeg)
+![Our Activities](/Logo1-450x450.png)
 
 
 __We are creating a documentary film called "Stop Americanization of Poland".__.

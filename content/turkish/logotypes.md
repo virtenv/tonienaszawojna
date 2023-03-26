@@ -14,10 +14,10 @@ thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-![Polonya Savaş Karşıtı Hareketin Logosu](/PRA.jpeg)
+![Polonya Savaş Karşıtı Hareketin Logosu](/logPRA.png)
 
-![#Polonya'nınAmerikanlaşmasınıDurdurun](/SAP-1.jpeg)
+![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo1-450x450.png)
 
-![#Polonya'nınAmerikanlaşmasınıDurdurun](/SAP2.jpeg)
+![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo4-450x450.png)
 
-![#Polonya'nınAmerikanlaşmasınıDurdurun](/SAP3.jpeg)
+![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo_Ruch-768x768.png)

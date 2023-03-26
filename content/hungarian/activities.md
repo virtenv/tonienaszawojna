@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![Kezdeményezéseink](/SAP-1.jpeg)
+![Kezdeményezéseink](/Logo1-450x450.png)
 
 
 __Készítünk egy dokumentumfilmet "Állítsuk meg Lengyelország amerikanizálását"__ címmel.

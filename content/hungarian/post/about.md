@@ -37,7 +37,7 @@ Mi a béke és az összes szomszédunkkal való jó kapcsolatokra irányuló bé
 Lengyelországot az USA "stratégiai pufferként" kezelik, amivel mi nem értünk egyet. 2003 és 2005 között egy titkos CIA-börtön működött lengyel területen, ahol más országok állampolgárait jogellenesen tartották fogva és kínozták (bírósági ítélet nélkül). Ez a lengyel állam önrendelkezést nélkülöző politikájának kirívó bizonyítéka. Részünkről nincs egyetértés az USA hegemón politikájának támogatásával és a lengyel hadsereg részvételével Washington agressziós háborúiban, amelyek 2001 után közel egymillió ember halálát okozták.
 
 
-![#ÁllítsukMegLengyelországAmerikanizálódását](/SAP-1.jpeg)
+![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo1-450x450.png)
 
 
 🇵🇱 **Igazság, család, tulajdon.**

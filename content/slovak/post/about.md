@@ -37,7 +37,7 @@ Sme za mier a mierovú politiku zameranú na dobré vzťahy so všetkými našim
 Poľsko sa považuje za "strategický nárazník" pre USA, s čím nesúhlasíme. Prevádzka tajnej väznice CIA na poľskom území v rokoch 2003 až 2005, kde boli nezákonne zadržiavaní a mučení občania iných krajín (bez rozhodnutia súdu). Je to očividný dôkaz nesamostatnej politiky poľského štátu. Z našej strany neexistuje súhlas s podporou hegemonistickej politiky USA a s účasťou poľskej armády na agresívnych vojnách Washingtonu, ktoré po roku 2001 viedli k smrti takmer milióna ľudí.
 
 
-![#ZastavteAmerikanizáciuPoľska](/SAP-1.jpeg)
+![#ZastavteAmerikanizáciuPoľska](/Logo1-450x450.png)
 
 
 🇵🇱 **Pravda, rodina, majetok.**

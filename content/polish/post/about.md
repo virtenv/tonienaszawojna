@@ -37,7 +37,7 @@ Opowiadamy się za pokojem i polityką pokojową, nastawioną na dobre relacje z
 Polska traktowana jest jako „zderzak strategiczny” USA, na co nie ma naszej zgody. Funkcjonowanie w latach 2003-2005 na terenie Polski tajnego więzienia CIA, w którym bezprawnie (be wyroku sądu) byli przetrzymywani i torturowani obywatele innych państw. To jest jawnym dowodem na niesamodzielność polityki państwa polskiego. Nie ma naszej zgody na popieranie polityki hegemonicznej USA i udział Wojska Polskiego w wojnach napastniczych Waszyngtonu, których efektem była śmierć blisko miliona ludzi po 2001 roku.
 
 
-![#StopAmerykanizacjiPolski](/SAP-1.jpeg)
+![#StopAmerykanizacjiPolski](/Logo1-450x450.png)
 
 
 🇵🇱 **Prawda, rodzina, własność.**

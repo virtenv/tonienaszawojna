@@ -37,7 +37,7 @@ Biz barıştan ve tüm komşularımızla iyi ilişkileri hedefleyen bir barış 
 Polonya'ya ABD için 'stratejik tampon' muamelesi yapılıyor ki biz bunu kabul etmiyoruz. 2003-2005 yılları arasında Polonya topraklarında, diğer ülke vatandaşlarının (mahkeme kararı olmaksızın) hukuka aykırı bir şekilde alıkonulduğu ve işkence gördüğü gizli bir CIA hapishanesinin işletilmesi. Bu, Polonya devletinin kendi kendini yönetmeme politikasının bariz bir kanıtıdır. ABD'nin hegemonik politikasını ve Polonya Ordusunun 2001'den sonra yaklaşık bir milyon insanın ölümüyle sonuçlanan Washington'un saldırganlık savaşlarına katılmasını destekleme konusunda hiçbir mutabakatımız yoktur.
 
 
-![#Polonya'nınAmerikanlaşmasınıDurdurun](/SAP-1.jpeg)
+![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo1-450x450.png)
 
 
 🇵🇱 **Gerçek, aile, mülk.**

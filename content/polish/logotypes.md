@@ -14,10 +14,10 @@ thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-![Logo Polskiego Ruchu Antywojennego](/PRA.jpeg)
+![Logo Polskiego Ruchu Antywojennego](/logPRA.png)
 
-![#StopAmerykanizacjiPolski](/SAP-1.jpeg)
+![#StopAmerykanizacjiPolski](/Logo1-450x450.png)
 
-![#StopAmerykanizacjiPolski](/SAP2.jpeg)
+![#StopAmerykanizacjiPolski](/Logo4-450x450.png)
 
-![#StopAmerykanizacjiPolski](/SAP3.jpeg)
+![#StopAmerykanizacjiPolski](/Logo_Ruch-768x768.png)

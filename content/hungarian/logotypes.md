@@ -14,10 +14,10 @@ thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-![A Lengyel Háborúellenes Mozgalom logója](/PRA.jpeg)
+![A Lengyel Háborúellenes Mozgalom logója](/logPRA.png)
 
-![#ÁllítsukMegLengyelországAmerikanizálódását](/SAP-1.jpeg)
+![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo1-450x450.png)
 
-![#ÁllítsukMegLengyelországAmerikanizálódását](/SAP2.jpeg)
+![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo4-450x450.png)
 
-![#ÁllítsukMegLengyelországAmerikanizálódását](/SAP3.jpeg)
+![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo_Ruch-768x768.png)

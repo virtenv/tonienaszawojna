@@ -14,10 +14,10 @@ thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-![波兰反战运动的标志](/PRA.jpeg)
+![波兰反战运动的标志](/logPRA.png)
 
-![#阻止波兰的美国化](/SAP-1.jpeg)
+![#阻止波兰的美国化](/Logo1-450x450.png)
 
-![#阻止波兰的美国化](/SAP2.jpeg)
+![#阻止波兰的美国化](/Logo4-450x450.png)
 
-![#阻止波兰的美国化](/SAP3.jpeg)
+![#阻止波兰的美国化](/Logo_Ruch-768x768.png)

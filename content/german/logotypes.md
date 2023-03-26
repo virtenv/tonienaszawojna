@@ -14,10 +14,10 @@ thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
 
-![Logo der polnischen Anti-Kriegs-Bewegung](/PRA.jpeg)
+![Logo der polnischen Anti-Kriegs-Bewegung](/logPRA.png)
 
-![#StoppDerAmerikanisierungPolens](/SAP-1.jpeg)
+![#StoppDerAmerikanisierungPolens](/Logo1-450x450.png)
 
-![#StoppDerAmerikanisierungPolens](/SAP2.jpeg)
+![#StoppDerAmerikanisierungPolens](/Logo4-450x450.png)
 
-![#StoppDerAmerikanisierungPolens](/SAP3.jpeg)
+![#StoppDerAmerikanisierungPolens](/Logo_Ruch-768x768.png)

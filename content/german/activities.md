@@ -13,7 +13,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-![Unsere Initiativen](/SAP-1.jpeg)
+![Unsere Initiativen](/Logo1-450x450.png)
 
 
 __Wir drehen einen Dokumentarfilm mit dem Titel: ''Stopp der Amerikanisierung Polens''.__.
