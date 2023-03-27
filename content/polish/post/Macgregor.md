@@ -14,7 +14,7 @@ toc: false
 thumbnail: "logo.png"
 images: ["Logo_Ruch.png"]
 ---
-Douglas Abbott Macgregor jest emerytowanym pułkownikiem armii amerykańskiej i urzędnikiem państwowym. Przyczynił się do powstania strategii USA podczas inwazji na Irak w 2003 roku. Po odejściu z wojska w 2004 roku, stał się bardziej aktywny politycznie. W 2020 roku Prezydent Donald Trump zaproponował Macgregor na Ambasadora USA w Niemczech, ale Senat zablokował tę nominację. 11 listopada 2020 roku rzecznik Pentagonu ogłosił, że Macgregor został zatrudniony na stanowisku starszego doradcy pełniącego obowiązku Sekretarza Obrony. Stanowisko to zajmował przez 3 miesiące. Trump powołał go także do zarządu Westpoint Academy.
+Douglas Abbott Macgregor jest emerytowanym pułkownikiem armii amerykańskiej i urzędnikiem państwowym. Przyczynił się do powstania strategii USA podczas inwazji na Irak w 2003 roku. Po odejściu z wojska w 2004 roku, stał się bardziej aktywny politycznie. W 2020 roku Prezydent Donald Trump zaproponował Macgregor na Ambasadora USA w Niemczech, ale Senat zablokował tę nominację. 11 listopada 2020 roku rzecznik Pentagonu ogłosił, że Macgregor został zatrudniony na stanowisku starszego doradcy pełniącego obowiązki Sekretarza Obrony. Stanowisko to zajmował przez 3 miesiące. Trump powołał go także do zarządu Westpoint Academy.
 
 
 -- Mamy do czynienia z takimi krajami, jak Polska, czy Portugalia, które przekazują czołgi Leopard z lat 70-tych mając na celu przypodobanie się Zachodowi mówiąc w ten sposób: ,,Panie Prezydencie Biden, mamy trochę muzealnego sprzętu, który chętnie oddamy, żeby Ci się przypodobać. Teraz Polska ma wysłać swoje F-16 i nowiutkie helikoptery Apache, które kupi od USA i też będzie je dalej. Czy chcą tym zadowolić USA? Czy taki jest cel?
