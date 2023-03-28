@@ -406,7 +406,7 @@ enableRobotsTXT = true
     ogimage = "https://tonienaszawojna.org/Logo_Ruch.png"
     # Format dates with Go's time formatting
     date_format = '2021-11-03T12:34:56+01:00'
-    description = "To nie nasza wojna,这不是我们的战争,This is not our war,Это не наша война,Das ist Nicht unser Krieg,Ez nem a mi háborúnk,Toto nie je naša vojna,Bu bizim savaşımız değil"
+    description = "To nie nasza wojna, 这不是我们的战争, This is not our war, Это не наша война, Das ist nicht unser Krieg, Ez nem a mi háborúnk, Toto nie je naša vojna, Bu bizim savaşımız değil"
     twitter_cards = true
     images = ["Logo_Ruch.png"]
     # Add custom assets with their paths relative to the static folder
