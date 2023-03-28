@@ -5,7 +5,7 @@ author: Polnische Anti-Kriegs-Bewegung
 tags:
   - Treffen
 #categories: [ "Treffen" ]
-banner: banners/spotkanieKoszalin.jpeg
+banner: banners/spotkanieBydgoszcz.jpeg
 noprevnext: true
 nodateline: true
 disable_comments: true

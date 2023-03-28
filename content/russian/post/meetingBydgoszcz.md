@@ -5,7 +5,7 @@ author: Антивоенное Движение Польши
 tags:
   - Встреча
 #categories: [ "Встречи" ]
-banner: banners/spotkanieB.jpeg
+banner: banners/spotkanieBydgoszcz.jpeg
 noprevnext: true
 nodateline: true
 disable_comments: true
