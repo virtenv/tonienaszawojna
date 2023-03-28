@@ -1,15 +1,15 @@
 ---
-title: Stretnutie v Bydgoszczi
+title: Treffpunkt Bydgoszcz
 date: 2023-03-28T11:48:50.685Z
-author: Poľské Protivojnové Hnutie
+author: Polnische Anti-Kriegs-Bewegung
 tags:
-  - Stretnutie
-#categories: [ "Stretnutia" ]
-banner: banners/spotkanieBydgoszcz.jpeg
+  - Treffen
+#categories: [ "Treffen" ]
+banner: banners/spotkanieKoszalin.jpeg
 noprevnext: true
 nodateline: true
 disable_comments: true
-description: Stretnutie Poľského Protivojnového Hnutia v Bydgoszczi.
+description: Treffen der polnischen Anti-Kriegs-Bewegung in Bydgoszcz.
 draft: false
 toc: false
 thumbnail: logo.png
