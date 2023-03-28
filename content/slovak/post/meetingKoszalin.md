@@ -1,15 +1,15 @@
 ---
-title: Stretnutie v Bydgoszczi
-date: 2023-03-28T11:48:50.685Z
+title: Stretnutie v Koszaline
+date: 2023-03-24T08:08:49.800Z
 author: Poľské Protivojnové Hnutie
 tags:
   - Stretnutie
 #categories: [ "Stretnutia" ]
-banner: banners/spotkanieBydgoszcz.jpeg
+banner: banners/spotkanieKoszalin.jpeg
 noprevnext: true
 nodateline: true
 disable_comments: true
-description: Stretnutie Poľského Protivojnového Hnutia v Bydgoszczi.
+description: Stretnutie Poľského Protivojnového Hnutia v Koszaline.
 draft: false
 toc: false
 thumbnail: logo.png
@@ -17,4 +17,4 @@ images:
   - Logo_Ruch.png
 ---
 
-Pozdravy! @KoronaBydgoszcz vás pozýva na otvorené stretnutie s Dr. Leszkom Sykulskim, ktoré sa uskutoční 14. apríla o 18:30 v priestoroch Kinotearu na ulici Toruńska 30 v Bydgoszczi. Odporúčame!
+Koszalin a okolie. V sobotu 25. marca o 15:45 sa stretneme pri pamätníku Jána Pavla II. pri katedrále. Srdečne vás pozývame na stretnutie s našimi hosťami. Dr. Leszek Sykulski, dr. Marcinom Sowińským, redaktorkou Ewou Marcinkowskou, Sławomirom Salom a špeciálnym hosťom spoza rieky Odry. 💪😎
