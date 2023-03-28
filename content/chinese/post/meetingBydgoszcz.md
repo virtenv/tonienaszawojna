@@ -1,6 +1,6 @@
 ---
 title: 在比得哥什开会
-date: 2023-03-24T08:08:49.800Z
+date: 2023-03-28T11:48:50.685Z
 author: 波兰反战运动
 tags:
   - 会议
@@ -16,3 +16,5 @@ thumbnail: logo.png
 images:
   - Logo_Ruch.png
 ---
+
+大家好! @KoronaBydgoszcz想邀请您参加与Leszek Sykulski博士的公开会议，会议将于4月14日下午6:30在比得哥什市Toruńska街30号的Kinotear举行。推荐!

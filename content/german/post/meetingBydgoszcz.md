@@ -17,4 +17,4 @@ images:
   - Logo_Ruch.png
 ---
 
-大家好! @KoronaBydgoszcz想邀请您参加与Leszek Sykulski博士的公开会议，会议将于4月14日下午6:30在比得哥什市Toruńska街30号的Kinotear举行。推荐!
+Grüß Gott! @KoronaBydgoszcz möchte Sie zu einem offenen Treffen mit Dr. Leszek Sykulski einladen, das am 14. April um 18:30 Uhr im Kinotear in der Toruńska-Straße 30 in Bydgoszcz stattfinden wird. Empfehlenswert!
