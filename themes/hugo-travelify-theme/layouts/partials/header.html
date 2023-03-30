@@ -15,6 +15,13 @@
     <meta property="og:type" content="article" />
     <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta name="twitter:card" content="player" />
+    <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    <meta name="twitter:player" content="" />
+    <meta name="twitter:player:width" content="" />
+    <meta name="twitter:player:height" content="" />
+    <meta name="twitter:text:player_width" content="" />
+    <meta name="twitter:text:player_height" content="" />
+    <meta name="twitter:secureurl:player_url" content="" />
     <meta name="twitter:image:alt" content=".Site.Params.site_description" />
     <meta property="fb:app_id" content="2231777543" />
     <meta name="facebook-domain-verification" content="x6sdcc8b5ju3bh8nbm59eswogvg6t1" />
@@ -49,8 +56,7 @@
   {{ else }}
     <meta itemprop="image" content="{{ .Site.Params.ogimage | absURL }}" />
     <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-  <!--  <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-    <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> -->
+  <!-- <meta name="twitter:image:src" content="{{ .Site.Params.ogimage | absURL }}" /> -->
   {{ end }}
 
     <meta property="og:updated_time" content={{ .Lastmod.Format "2006-01-02T15:04:05Z0700" | safeHTML }} />
