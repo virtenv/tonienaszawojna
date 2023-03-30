@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 18 Mart 2023 Cumartesi günü, Kielce'de saat 15:00'te, din değiştirmemişlerin büyük jeopolitik tartışması. Dr. Lucyna Kulińska, Prof Mirosław Piotrowski, Józef Białek, Piotr Korczarowski ve Sebastian Pitoń ile birlikte konuşma yapmaktan memnuniyet duyacağım. Saat 15:00'te 34 Solidarności Caddesi, Kongre Oteli önünde toplanılacaktır.

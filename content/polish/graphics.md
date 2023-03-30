@@ -11,7 +11,7 @@ description: "Grafiki Polskiego Ruchu Antywojennego."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Poniżej linki, z których można pobrać pełny pakiet grafik (plakaty A4, naklejki, banery, bilbordy) w formatach JPG, PNG i PDF. Udostępniamy do bezpłatnego wykorzystania (bez wprowadzania zmian graficznych) tylko w duchu naszego ruchu (kampania antywojenna), zgodzie z obowiązującym prawem. Polski Ruch Antywojenny nie ponosi odpowiedzialności za użycie grafik niezgodne z prawem (np. umieszczanie ich w miejscach niedozwolonych).
 

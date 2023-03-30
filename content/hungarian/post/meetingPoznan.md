@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Már 2023. március 22-én, Poznańban találkozó a lengyelországi béke kezdeményezőjével 🙂. Kérjük, csatlakozzon hozzánk 18:00 órakor a Sursum Corda könyvesboltban, Rynek Łazarski 1. szám alatt.

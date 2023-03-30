@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Koszalin a okolie. V sobotu 25. marca o 15:45 sa stretneme pri pamätníku Jána Pavla II. pri katedrále. Srdečne vás pozývame na stretnutie s našimi hosťami. Dr. Leszek Sykulski, dr. Marcinom Sowińským, redaktorkou Ewou Marcinkowskou, Sławomirom Salom a špeciálnym hosťom spoza rieky Odry. 💪😎

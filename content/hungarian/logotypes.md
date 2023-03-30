@@ -11,7 +11,7 @@ description: "A Lengyel Háborúellenes Mozgalom logói."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ![A Lengyel Háborúellenes Mozgalom logója](/logPRA.png)
@@ -20,4 +20,4 @@ images: ["Logo_Ruch.png"]
 
 ![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo4-450x450.png)
 
-![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo_Ruch-768x768.png)
+![#ÁllítsukMegLengyelországAmerikanizálódását](/Logo_Ruch-768x768-768x768.png)

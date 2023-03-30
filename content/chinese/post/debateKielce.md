@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 2023年3月18日（星期六）下午3点，在凯尔采，未被救赎的地缘政治大辩论。我将有幸与Lucyna Kulinska博士、Miroslaw Piotrowski教授、Jozef Bialek、Piotr Korczarowski和Sebastian Piton一起发言。我们将于15:00在Solidarności大道34号的国会酒店前集合。

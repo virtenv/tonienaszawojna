@@ -12,7 +12,7 @@ description: "Wywiad dr Leszka Sykulskiego dla telewizji TVPolska.PL."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- Publicyści, politycy mówią, że to jest szkodliwe dla Polski. Jakie jest Pana zdanie?

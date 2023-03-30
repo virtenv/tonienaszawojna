@@ -11,6 +11,6 @@ description: "对波兰反战运动的支持。"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [关于支持波兰反战运动的可能性的信息](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "波兰反战运动支持网站。")

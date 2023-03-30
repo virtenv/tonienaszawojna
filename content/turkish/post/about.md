@@ -11,7 +11,7 @@ description: "Polonya Savaş Karşıtı Hareketin Sunumu."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Girişim, Sebastian Piton ve Leszek Sykulski arasındaki ideolojik işbirliğinden ve 1999'dan sonra Varşova'daki hükümetler tarafından izlenen iç ve dış politikaya karşı derin bir anlaşmazlıktan doğdu. Komşularımızla yüzleşmeyi ve Washington'un stratejik çıkarlarını gözetmeyi amaçlayan maceracı bir politika. Bizler resmi yapılar olmaksızın aşağıdan yukarıya yaratılan bir taban hareketiyiz. Polonya ulusunun kültürel egemenliği ve Polonya'nın bağımsızlığı için organik çalışma faaliyetlerimizin özünü oluşturmaktadır.

@@ -11,7 +11,7 @@ description: "A lengyel háborúellenes mozgalom bemutatása."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 A kezdeményezés Sebastian Piton és Leszek Sykulski alulról jövő ideológiai együttműködéséből és a varsói kormányok által 1999 után folytatott bel- és külpolitikával való mélységes egyet nem értésből született. Egy kalandos politika, amelynek célja a szomszédainkkal való szembehelyezkedés és Washington stratégiai érdekeinek érvényesítése. Mi egy alulról jövő, formális struktúrák nélküli, alulról jövő mozgalom vagyunk. Tevékenységünk lényege a lengyel nemzet kulturális szuverenitásáért és a lengyel függetlenségért folytatott szerves munka.

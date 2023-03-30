@@ -11,7 +11,7 @@ description: "Polonya Savaş Karşıtı Hareketinin Girişimleri."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![Girişimlerimiz](/Logo1-450x450.png)
 

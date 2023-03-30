@@ -11,7 +11,7 @@ description: "波兰反战运动的活动。"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![我们的活动](/Logo1-450x450.png)
 

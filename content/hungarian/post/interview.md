@@ -12,7 +12,7 @@ description: "Dr. Leszek Sykulski interjúja a TVPolska.PL számára."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- A publicisták, politikusok szerint ez árt Lengyelországnak. Mi az Ön véleménye?

@@ -9,7 +9,7 @@ description: "Interview von Dr. Leszek Sykulski für TVPolska.PL."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- Publizisten und Politiker sagen, dies sei schädlich für Polen. Was ist Ihre Meinung?

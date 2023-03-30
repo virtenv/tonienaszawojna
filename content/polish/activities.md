@@ -11,7 +11,7 @@ description: "Inicjatywy Polskiego Ruchu Antywojennego."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![Nasze inicjatywy](/Logo1-450x450.png)
 

@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Koszalin und seine Umgebung. Am Samstag, den 25. März um 15:45 Uhr treffen wir uns am Johannes-Paul-II-Denkmal bei der Kathedrale. Sie sind herzlich eingeladen, unsere Gäste kennenzulernen. Dr. Leszek Sykulski, Dr. der Medizin Marcin Sowiński, die Redakteurin Ewa Marcinkowska, Sławomir Sala und ein besonderer Gast von der anderen Seite der Oder. 💪😎

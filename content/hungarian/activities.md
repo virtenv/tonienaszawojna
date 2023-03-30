@@ -11,7 +11,7 @@ description: "A Lengyel Háborúellenes Mozgalom kezdeményezései."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![Kezdeményezéseink](/Logo1-450x450.png)
 

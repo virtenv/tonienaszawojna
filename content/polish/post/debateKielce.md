@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 W sobotę, 18 marca 2023 roku, w Kielcach o godzinie 15:00, wielka debata geopolityczna niepokornych. Będę miał przyjemność wystąpić obok: dr Lucyny Kulińskiej, prof. Mirosława Piotrowskiego, Józefa Białka, Piotra Korczarowskiego i Sebastiana Pitonia. Zbiórka o 15:00 przed Hotelem Kongresowym, Aleja Solidarności 34.

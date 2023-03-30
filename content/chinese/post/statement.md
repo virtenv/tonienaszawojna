@@ -11,7 +11,7 @@ description: "波兰反战运动的宣言"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ##### 波兰反战运动的声明

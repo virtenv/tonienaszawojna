@@ -11,7 +11,7 @@ description: "波兰反战运动的标志"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ![波兰反战运动的标志](/logPRA.png)
@@ -20,4 +20,4 @@ images: ["Logo_Ruch.png"]
 
 ![#阻止波兰的美国化](/Logo4-450x450.png)
 
-![#阻止波兰的美国化](/Logo_Ruch-768x768.png)
+![#阻止波兰的美国化](/Logo_Ruch-768x768-768x768.png)

@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 已经在2023年3月22日，在波兹南，与波兰和平的煽动者会面 🙂。请于18:00在Rynek Łazarski 1的Sursum Corda书店加入我们。

@@ -11,7 +11,7 @@ description: "Logá Poľského Protivojnového Hnutia."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ![Logo Poľského Protivojnového Hnutia](/logPRA.png)
@@ -20,4 +20,4 @@ images: ["Logo_Ruch.png"]
 
 ![#ZastavteAmerikanizáciuPoľska](/Logo4-450x450.png)
 
-![#ZastavteAmerikanizáciuPoľska](/Logo_Ruch-768x768.png)
+![#ZastavteAmerikanizáciuPoľska](/Logo_Ruch-768x768-768x768.png)

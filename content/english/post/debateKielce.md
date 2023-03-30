@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 On Saturday, March 18, 2023, in Kielce at 3:00 pm, the great geopolitical debate of the unredeemed. I will have the pleasure of speaking alongside Dr. Lucyna Kulinska, Prof. Miroslaw Piotrowski, Jozef Bialek, Piotr Korczarowski and Sebastian Piton. We will gather at 15:00 in front of the Congress Hotel, 34 Solidarności Avenue.

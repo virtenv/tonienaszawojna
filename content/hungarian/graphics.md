@@ -11,7 +11,7 @@ description: "A lengyel háborúellenes mozgalom grafikái."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Az alábbi linkek segítségével letöltheti a teljes grafikai csomagot (A4-es plakátok, matricák, bannerek, hirdetőtáblák) JPG, PNG és PDF formátumban. Ezeket a grafikákat (grafikai módosítások nélkül) kizárólag mozgalmunk (háborúellenes kampány) szellemében, a hatályos törvényeknek megfelelően, szabad felhasználásra bocsátjuk. A Lengyel Háborúellenes Mozgalom nem vállal felelősséget a grafikák bármilyen illegális felhasználásáért (pl. a grafikák engedély nélküli helyeken való elhelyezéséért).
 

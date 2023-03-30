@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 2023\. március 18-án, szombaton 15:00 órakor Kielcében a meg nem tértek nagy geopolitikai vitája. Nekem lesz szerencsém beszélni Dr. Lucyna Kulińska, Prof. Mirosław Piotrowski, Józef Białek, Piotr Korczarowski és Sebastian Pitoń mellett. Gyülekező 15:00 órakor a Kongresszusi Szálló előtt, a Solidarności sugárút 34. szám alatt.

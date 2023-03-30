@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Już 22 marca 2023 roku, w Poznaniu, spotkanie z podżegaczem do pokoju w Polsce 🙂. Zapraszamy na godzinę 18:00 do księgarni Sursum Corda, Rynek Łazarski 1.

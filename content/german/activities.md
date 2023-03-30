@@ -11,7 +11,7 @@ description: "Initiativen der polnischen Anti-Kriegs-Bewegung."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![Unsere Initiativen](/Logo1-450x450.png)
 

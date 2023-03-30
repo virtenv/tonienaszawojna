@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Koszalin és környéke. Március 25-én, szombaton 15:45-kor találkozunk a II. János Pál emlékműnél a székesegyháznál. Szeretettel meghívjuk vendégeinket. Dr. Leszek Sykulski, orvosdoktor Marcin Sowiński, Ewa Marcinkowska szerkesztő, Sławomir Sala és egy különleges vendég az Odera túlpartjáról. 💪😎

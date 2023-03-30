@@ -11,7 +11,7 @@ description: "Logos der polnischen Anti-Kriegs-Bewegung."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ![Logo der polnischen Anti-Kriegs-Bewegung](/logPRA.png)
@@ -20,4 +20,4 @@ images: ["Logo_Ruch.png"]
 
 ![#StoppDerAmerikanisierungPolens](/Logo4-450x450.png)
 
-![#StoppDerAmerikanisierungPolens](/Logo_Ruch-768x768.png)
+![#StoppDerAmerikanisierungPolens](/Logo_Ruch-768x768-768x768.png)

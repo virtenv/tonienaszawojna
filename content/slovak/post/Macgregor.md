@@ -12,7 +12,7 @@ description: "Douglas Macgregor o politike poľskej vlády."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Douglas Abbott Macgregor je plukovník americkej armády vo výslužbe a verejný činiteľ. Podieľal sa na stratégii USA počas invázie do Iraku v roku 2003. Po odchode z armády v roku 2004 sa začal viac venovať politike. V roku 2020 prezident Donald Trump navrhol Macgregora za veľvyslanca USA v Nemecku, ale Senát nomináciu zablokoval. Hovorca Pentagónu 11. novembra 2020 oznámil, že Macgregor bol prijatý ako starší poradca úradujúceho ministra obrany. Túto funkciu zastával tri mesiace. Trump ho tiež vymenoval do správnej rady akadémie Westpoint.
 

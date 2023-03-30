@@ -12,7 +12,7 @@ description: "Dr Leszek Sykulski'nin TVPolska.P için verdiği röportajL."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- Yayıncılar, politikacılar bunun Polonya için zararlı olduğunu söylüyor. Sizin görüşünüz nedir?

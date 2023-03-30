@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 大家好! @KoronaBydgoszcz想邀请您参加与Leszek Sykulski博士的公开会议，会议将于4月14日下午6:30在比得哥什市Toruńska街30号的Kinotear举行。推荐!

@@ -11,7 +11,7 @@ description: "Polonya Savaş Karşıtı Hareketin Grafikleri."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Aşağıda grafik paketinin tamamını (A4 posterler, çıkartmalar, afişler, reklam panoları) JPG, PNG ve PDF formatlarında indirebileceğiniz bağlantılar yer almaktadır. Bunları yalnızca hareketimizin (savaş karşıtı kampanya) ruhuna uygun olarak, yürürlükteki yasalara uygun şekilde ücretsiz kullanım için (grafik değişiklikleri olmadan) kullanıma sunuyoruz. Polonya Savaş Karşıtı Hareketi, grafiklerin herhangi bir yasadışı kullanımından sorumlu değildir (örneğin, bunları yetkisiz yerlere yerleştirmek).
 

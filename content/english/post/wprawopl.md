@@ -11,7 +11,7 @@ description: "Portal wPrawoPL about Polish Anti-War Movement."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 The portal [wPrawo.PL](https://wprawo.pl/ "Portal wPrawo.PL") published a text entitled ["Our war or not our war?"](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portal wPrawo.PL"). It is worth reading.

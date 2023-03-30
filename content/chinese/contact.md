@@ -11,7 +11,7 @@ description: "与波兰反战运动的联系。"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 电子邮件: antywojna@protonmail.com
 

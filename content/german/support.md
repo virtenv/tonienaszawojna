@@ -11,6 +11,6 @@ description: "Unterstützung für die polnische Anti-Kriegs-Bewegung."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [Informationen über die Möglichkeit der Unterstützung der polnischen Anti-Kriegs-Bewegung](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "Unterstützungsseite der polnischen Anti-Kriegs-Bewegung")

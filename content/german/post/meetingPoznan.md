@@ -14,6 +14,6 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 Bereits am 22. März 2023 findet in Poznań ein Treffen mit dem Initiator des Friedens in Polen 🙂 statt. Bitte kommen Sie um 18:00 Uhr in die Buchhandlung Sursum Corda, Rynek Łazarski 1.

@@ -11,7 +11,7 @@ description: "Graphics of the Polish Anti-War Movement."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Below are the links from which you can download the full package of graphics (A4 posters, stickers, banners, billboards) in JPG, PNG and PDF formats. We make available for free use (without making graphic changes) only in the spirit of our movement (anti-war campaign), in accordance with the applicable law. The Polish Anti-War Movement is not responsible for the use of graphics in violation of the law (for example, placing them in unauthorized places).
 

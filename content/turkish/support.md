@@ -11,6 +11,6 @@ description: Polonya Savaş Karşıtı Hareketine Destek
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [Polonya Savaş Karşıtı Hareketini destekleme olasılığı hakkında bilgi](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "Polonya Savaş Karşıtı Hareketi destek sayfası")

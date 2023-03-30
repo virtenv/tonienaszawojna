@@ -12,7 +12,7 @@ description: "Rozhovor Dr. Leszka Sykulského pre TVPolska.PL."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- Publicisti a politici tvrdia, že to Poľsku škodí. Aký je váš názor?

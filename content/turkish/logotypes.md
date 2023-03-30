@@ -11,7 +11,7 @@ description: "Polonya Savaş Karşıtı Hareketin Logoları."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ![Polonya Savaş Karşıtı Hareketin Logosu](/logPRA.png)
@@ -20,4 +20,4 @@ images: ["Logo_Ruch.png"]
 
 ![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo4-450x450.png)
 
-![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo_Ruch-768x768.png)
+![#Polonya'nınAmerikanlaşmasınıDurdurun](/Logo_Ruch-768x768-768x768.png)

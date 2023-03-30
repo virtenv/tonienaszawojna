@@ -11,6 +11,6 @@ description: A Lengyel Háborúellenes Mozgalom támogatása
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [Tájékoztatás a lengyel háborúellenes mozgalom támogatásának lehetőségéről](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "A lengyel háborúellenes mozgalom támogató oldala")

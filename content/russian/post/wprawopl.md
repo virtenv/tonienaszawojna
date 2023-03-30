@@ -12,7 +12,7 @@ description: "Портал wPrawoPL о польском антивоенном �
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Портал [wPrawo.PL](https://wprawo.pl/ "Портал wPrawo.PL") опубликовал текст под названием [,,Наша война или не наша война?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Портал wPrawo.PL"). Стоит прочитать.

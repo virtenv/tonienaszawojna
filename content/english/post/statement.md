@@ -11,7 +11,7 @@ description: "Statement of the Polish Anti-War Movement"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ##### Statement of the Polish Anti-War Movement

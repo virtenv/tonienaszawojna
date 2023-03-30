@@ -11,7 +11,7 @@ description: "Инициативы Польского Антивоенного �
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![Наши инициативы](/Logo1-450x450.png)
 

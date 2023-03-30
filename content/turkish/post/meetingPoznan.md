@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 22 Mart 2023'te Poznan'da Polonya'da barışı teşvik eden kişi ile bir toplantı düzenliyoruz 🙂. Lütfen saat 18:00'de Rynek Łazarski 1 adresindeki Sursum Corda kitapçısında bize katılın.

@@ -12,7 +12,7 @@ description: "Douglas Macgregor a lengyel kormány politikájáról."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Douglas Abbott Macgregor az amerikai hadsereg nyugalmazott ezredese és közszolga. Közreműködött az Egyesült Államok stratégiájának kidolgozásában Irak 2003-as inváziója során. Miután 2004-ben visszavonult a hadseregtől, politikailag aktívabbá vált. Donald Trump elnök 2020-ban Macgregort javasolta az Egyesült Államok németországi nagykövetének, de a szenátus megakadályozta a jelölést. 2020. november 11-én a Pentagon szóvivője bejelentette, hogy Macgregort az ügyvezető védelmi miniszter főtanácsadójává nevezték ki. A pozíciót három hónapig töltötte be. Trump emellett kinevezte őt a Westpoint Academy igazgatótanácsába is.
 

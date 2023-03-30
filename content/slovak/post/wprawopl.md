@@ -12,7 +12,7 @@ description: "Portál wPrawoPL o poľskom protivojnovom hnutí."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Portál [wPrawo.PL](https://wprawo.pl/ "Portál wPrawo.PL") uverejnil text s názvom [,,Naša vojna, alebo nie naša vojna?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portál wPrawo.PL"). Stojí za prečítanie.

@@ -11,7 +11,7 @@ description: "Logotypy Polskiego Ruchu Antywojennego."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ![Logo of the Polish Anti-War Movement](/logPRA.png)
@@ -20,4 +20,4 @@ images: ["Logo_Ruch.png"]
 
 ![#StopAmericanizationofPoland](/Logo4-450x450.png)
 
-![#StopAmericanizationofPoland](/Logo_Ruch-768x768.png)
+![#StopAmericanizationofPoland](/Logo_Ruch-768x768-768x768.png)

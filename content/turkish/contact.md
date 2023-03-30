@@ -11,7 +11,7 @@ description: "Polonya Savaş Karşıtı Hareketiyle Temas."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 E-posta: antywojna@protonmail.com
 

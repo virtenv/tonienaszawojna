@@ -11,6 +11,6 @@ description: Wsparcie dla Polskiego Ruchu Antywojennego
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [Informacje o możliwości wsparcia Polskiego Ruchu Antywojennego](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "Srona wsparcia Polskiego Ruchu Antywojennego")

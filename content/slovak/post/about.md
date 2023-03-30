@@ -11,7 +11,7 @@ description: "Prezentácia Poľského Protivojnového Hnutia."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Iniciatíva sa zrodila z ideologickej spolupráce zdola medzi Sebastianom Pitonom a Leszekom Sykulskim a z hlbokého nesúhlasu s vnútornou a zahraničnou politikou, ktorú viedli vlády vo Varšave po roku 1999. Dobrodružná politika zameraná na konfrontáciu so susedmi a presadzovanie strategických záujmov Washingtonu. Sme hnutie zdola, vytvorené bez formálnych štruktúr. Podstatou našej činnosti je organická práca za kultúrnu suverenitu poľského národa a poľskú nezávislosť.

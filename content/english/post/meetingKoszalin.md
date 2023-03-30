@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Koszalin and surrounding areas. Already on Saturday, March 25 at 15:45, We will meet at the monument to John Paul II at the Cathedral. You are cordially invited to meet our guests. Dr. Leszek Sykulski, dr. of medicine Marcin Sowinski, editor Ewa Marcinkowska, Slawomir Sala and a special guest from across the Oder River. 💪😎

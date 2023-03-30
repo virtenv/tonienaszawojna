@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Selamlar! KoronaBydgoszcz sizi Dr. Leszek Sykulski ile 14 Nisan günü saat 18:30'da Bydgoszcz'daki Toruńska Caddesi 30 numarada bulunan Kinotear'da gerçekleştirilecek olan açık toplantıya davet ediyor. Tavsiye edilir!

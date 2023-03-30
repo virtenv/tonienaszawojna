@@ -11,7 +11,7 @@ description: "Activities of the Polish Anti-War Movement."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 ![Our Activities](/Logo1-450x450.png)
 

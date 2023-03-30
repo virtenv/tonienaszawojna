@@ -11,7 +11,7 @@ description: "Prezentacja Polskiego Ruchu Antywojennego."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Inicjatywa narodziła się oddolnie ze współpracy ideowej Sebastiana Pitonia i Leszka Sykulskiego i głębokiej niezgody na politykę wewnętrzną i zagraniczną prowadzoną przez rządy w Warszawie po 1999 r. Politykę awanturniczą, nastawioną na konfrontację z naszymi sąsiadami i realizację interesów strategicznych Waszyngtonu. Jesteśmy ruchem społecznych, tworzonym oddolnie, bez formalnych struktur. Istotną naszych działań jest praca organiczna na rzecz suwerenności kulturowej narodu polskiego i niepodległości Polski.

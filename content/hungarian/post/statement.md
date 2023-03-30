@@ -12,7 +12,7 @@ description: "A Lengyel Háborúellenes Mozgalom nyilatkozata"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ##### A Lengyel Háborúellenes Mozgalom nyilatkozata

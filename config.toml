@@ -403,12 +403,12 @@ enableRobotsTXT = true
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
     sitename = "Polski Ruch Antywojenny"
-    ogimage = "https://tonienaszawojna.org/Logo_Ruch.png"
+    ogimage = "https://tonienaszawojna.org/Logo_Ruch-768x768.png"
     # Format dates with Go's time formatting
     date_format = '2021-11-03T12:34:56+01:00'
     description = "To nie nasza wojna, 这不是我们的战争, This is not our war, Это не наша война, Das ist nicht unser Krieg, Ez nem a mi háborúnk, Toto nie je naša vojna, Bu bizim savaşımız değil"
     twitter_cards = true
-    images = ["Logo_Ruch.png"]
+    images = ["Logo_Ruch-768x768.png"]
     # Add custom assets with their paths relative to the static folder
     custom_css = []
     custom_js  = []

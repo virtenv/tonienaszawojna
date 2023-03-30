@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 科沙林和周边地区。3月25日（星期六）15:45，我们将在大教堂旁的约翰-保罗二世纪念碑前会面。我们诚挚地邀请您与我们的客人见面。Leszek Sykulski博士、医学博士 Marcin Sowiński，编辑Ewa Marcinkowska，Sławomir Sala和一位来自奥得河对岸的特别嘉宾。💪😎

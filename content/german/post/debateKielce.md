@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Am Samstag, den 18. März 2023, findet in Kielce um 15:00 Uhr die große geopolitische Debatte der Unbekehrten statt. Ich werde das Vergnügen haben, neben Dr. Lucyna Kulińska, Prof. Mirosław Piotrowski, Józef Białek, Piotr Korczarowski und Sebastian Pitoń zu sprechen. Treffpunkt ist um 15:00 Uhr vor dem Kongresshotel, Solidarności-Allee 34.

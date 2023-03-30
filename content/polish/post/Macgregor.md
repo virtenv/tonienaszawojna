@@ -12,7 +12,7 @@ description: "Douglas Macgregor o polityce polskiego rządu."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Douglas Abbott Macgregor jest emerytowanym pułkownikiem armii amerykańskiej i urzędnikiem państwowym. Przyczynił się do powstania strategii USA podczas inwazji na Irak w 2003 roku. Po odejściu z wojska w 2004 roku, stał się bardziej aktywny politycznie. W 2020 roku Prezydent Donald Trump zaproponował Macgregor na Ambasadora USA w Niemczech, ale Senat zablokował tę nominację. 11 listopada 2020 roku rzecznik Pentagonu ogłosił, że Macgregor został zatrudniony na stanowisku starszego doradcy pełniącego obowiązki Sekretarza Obrony. Stanowisko to zajmował przez 3 miesiące. Trump powołał go także do zarządu Westpoint Academy.
 

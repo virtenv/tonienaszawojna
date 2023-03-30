@@ -12,7 +12,7 @@ description: "Интервью с др. Лешеком Сикульским дл
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- Публицисты, политики говорят, что это вредит Польше. Каково Ваше мнение?

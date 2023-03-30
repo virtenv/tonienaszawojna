@@ -11,6 +11,6 @@ description: "Support for the Polish Anti-War Movement."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [Information about the possibility of supporting the Polish Anti-War Movement](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "Polish Anti-War Movement Support Site.")

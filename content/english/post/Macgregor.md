@@ -12,7 +12,7 @@ description: "Douglas Macgregor on Polish government policy."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Douglas Abbott Macgregor is a retired US Army colonel and government official. He contributed to the US strategy during the 2003 invasion of Iraq. After retiring from the military in 2004, he became more politically active. In 2020, President Donald Trump proposed Macgregor as US Ambassador to Germany, but the Senate blocked the nomination. On November 11, 2020, a Pentagon spokesman announced that Macgregor had been hired as a senior adviser to the acting Secretary of Defense. He held the position for three months. Trump also appointed him to the board of Westpoint Academy.
 

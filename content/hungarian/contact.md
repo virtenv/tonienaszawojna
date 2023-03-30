@@ -11,7 +11,7 @@ description: "Kapcsolat a lengyel háborúellenes mozgalommal."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 E-mail: antywojna@protonmail.com
 

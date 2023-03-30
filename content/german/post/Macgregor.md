@@ -12,7 +12,7 @@ description: "Douglas Macgregor über die Politik der polnischen Regierung."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Douglas Abbott Macgregor ist ein pensionierter Oberst der US-Armee und Staatsbeamter. Er trug zur US-Strategie während der Invasion des Irak 2003 bei. Nachdem er 2004 aus dem Militärdienst ausgeschieden war, wurde er politisch aktiver. Im Jahr 2020 schlug Präsident Donald Trump Macgregor als US-Botschafter in Deutschland vor, doch der Senat blockierte die Nominierung. Am 11. November 2020 gab ein Sprecher des Pentagons bekannt, dass Macgregor als Senior Advisor des amtierenden Verteidigungsministers eingestellt worden war. Er hatte diese Position drei Monate lang inne. Trump berief ihn auch in den Vorstand der Westpoint Academy.
 

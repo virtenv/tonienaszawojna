@@ -11,7 +11,7 @@ description: "Interview by Dr. Leszek Sykulski for TVPolska.PL television statio
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 -- Publicists, politicians say that this is harmful to Poland. What is your opinion?

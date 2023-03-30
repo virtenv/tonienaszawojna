@@ -12,7 +12,7 @@ description: "Portal wPrawoPL o Polskim Ruchu Antywojennym."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Na portalu [wPrawo.PL](https://wprawo.pl/ "Portal wPrawo.PL") ukazał się tekst pt. [,,Nasza wojna, czy nie nasza?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portal wPrawo.PL"). Warto przeczytać.

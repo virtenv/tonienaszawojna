@@ -12,7 +12,7 @@ description: "Polonya Savaş Karşıtı Hareketin Açıklaması"
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 ##### Polonya Savaş Karşıtı Hareketin Açıklaması

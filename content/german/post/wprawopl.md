@@ -9,7 +9,7 @@ description: "Portal wPrawoPL zur polnischen Anti-Kriegs-Bewegung."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Das Portal [wPrawo.PL](https://wprawo.pl/ "Portal wPrawo.PL") veröffentlichte einen Text mit dem Titel [,,Unser Krieg, oder nicht unser Krieg?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portal wPrawo.PL"). Lesenswert.

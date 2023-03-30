@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Už 22. marca 2023 sa v Poznani uskutočnilo stretnutie s iniciátorom mieru v Poľsku 🙂. Pridajte sa k nám o 18:00 v kníhkupectve Sursum Corda, Rynek Łazarski 1.

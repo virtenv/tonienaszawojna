@@ -12,7 +12,7 @@ description: "Douglas Macgregor Polonya hükümetinin politikası üzerine."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Douglas Abbott Macgregor emekli bir ABD Ordusu albayı ve kamu görevlisidir. Irak'ın 2003'teki işgali sırasında ABD stratejisine katkıda bulunmuştur. Ordudan 2004 yılında emekli olduktan sonra siyasi olarak daha aktif hale gelmiştir. Başkan Donald Trump 2020 yılında Macgregor'u ABD'nin Almanya Büyükelçisi olarak önerdi, ancak Senato adaylığı engelledi. 11 Kasım 2020'de bir Pentagon sözcüsü Macgregor'un Savunma Bakan Vekili Kıdemli Danışmanı olarak işe alındığını duyurdu. Macgregor bu görevi üç ay boyunca sürdürdü. Trump ayrıca kendisini Westpoint Akademisi'nin yönetim kuruluna atadı.
 

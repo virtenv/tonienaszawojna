@@ -11,7 +11,7 @@ description: "Контакт с Польским Антивоенным Движ
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Электронная почта: antywojna@protonmail.com
 

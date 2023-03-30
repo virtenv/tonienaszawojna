@@ -11,6 +11,6 @@ description: Podpora Poľského Protivojnového Hnutia
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 [Informácie o možnosti podpory Poľského Protivojnového Hnutia](https://polskiruchantywojenny.com/pokoj-i-wolnosc/wsparcie/ "Podporná stránka Poľského Protivojnového Hnutia")

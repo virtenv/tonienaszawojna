@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Coming up on March 22, 2023, in Poznan, a meeting with the instigator of peace in Poland 🙂. Please join us at 18:00 at the Sursum Corda bookstore, Rynek Lazarski 1.

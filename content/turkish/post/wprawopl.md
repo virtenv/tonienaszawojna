@@ -12,7 +12,7 @@ description: "Polonya Savaş Karşıtı Hareketi üzerine wPrawoPL Portalı."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 
 Portal [wPrawo.PL](https://wprawo.pl/ "Portal wPrawo.PL") şu başlıklı bir metin yayınladı [,,Bizim savaşımız mı, bizim savaşımız değil mi?''](https://wprawo.pl/katarzyna-ts-nasza-wojna-czy-nie-nasza/ "Portal wPrawo.PL"). Okumaya değer.

@@ -14,7 +14,7 @@ draft: false
 toc: false
 thumbnail: logo.png
 images:
-  - Logo_Ruch.png
+  - Logo_Ruch-768x768.png
 ---
 
 Koszalin ve çevresi. 25 Mart Cumartesi günü saat 15:45'te katedralin yanındaki John Paul II anıtında buluşacağız. Misafirlerimizle tanışmaya davetlisiniz. Dr. Leszek Sykulski, tıp doktoru Marcin Sowiński, editör Ewa Marcinkowska, Sławomir Sala ve Oder Nehri'nin ötesinden özel bir konuk. 💪😎

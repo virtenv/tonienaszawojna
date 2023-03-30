@@ -11,7 +11,7 @@ description: "Grafika poľského protivojnového hnutia."
 draft: false
 toc: false
 thumbnail: "logo.png"
-images: ["Logo_Ruch.png"]
+images: ["Logo_Ruch-768x768.png"]
 ---
 Nižšie sú uvedené odkazy, kde si môžete stiahnuť celý balík grafiky (plagáty A4, nálepky, bannery, billboardy) vo formátoch JPG, PNG a PDF. Sprístupňujeme ich na voľné použitie (bez grafických úprav) len v duchu nášho hnutia (protivojnová kampaň) v súlade s platnými zákonmi. Poľské Protivojnové Hnutie nenesie zodpovednosť za prípadné nezákonné použitie grafík (napr. ich umiestnenie na nepovolených miestach).
 
