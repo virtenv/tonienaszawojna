@@ -17,4 +17,4 @@ images:
   - Logo_Ruch-768x768.png
 ---
 
-Üdvözletem! A @KoronaBydgoszcz szeretettel meghívja Önöket egy nyílt találkozóra Dr. Leszek Sykulskival, amelyre április 14-én 18:30-kor kerül sor a Kinotearban, a Toruńska utca 30. szám alatt, Bydgoszczban. Ajánlott!
+Üdvözletem! A @KoronaBydgoszcz meghívja Önt egy nyílt találkozóra Dr. Leszek Sykulskival, amelyre május 23-án kerül sor Bydgoszczban. Gyülekező 18:00 órakor a Plac Kościeleckich templom felőli oldalán. 18.15-kor séta a találkozó helyszínére. Ajánlott!

@@ -17,4 +17,4 @@ images:
   - Logo_Ruch-768x768.png
 ---
 
-Pozdravy! @KoronaBydgoszcz vás pozýva na otvorené stretnutie s Dr. Leszkom Sykulskim, ktoré sa uskutoční 14. apríla o 18:30 v priestoroch Kinotearu na ulici Toruńska 30 v Bydgoszczi. Odporúčame!
+Pozdravy! @KoronaBydgoszcz vás pozýva na otvorené stretnutie s Dr. Leszkom Sykulskim, ktoré sa uskutoční 23. mája v Bydgoszczi. Zraz o 18:00 na námestí Plac Kościeleckich zo strany kostola. O 18.15 hod. peší presun na miesto stretnutia. Odporúčame!

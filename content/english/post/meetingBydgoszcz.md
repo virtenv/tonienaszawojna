@@ -17,4 +17,4 @@ images:
   - Logo_Ruch-768x768.png
 ---
 
-Greetings! @KoronaBydgoszcz would like to invite you to an open meeting with Dr. Leszek Sykulski, which will take place on April 14 at 6:30 pm at Kinotear, 30 Toruńska Street in Bydgoszcz. Recommended!
+Greetings! @KoronaBydgoszcz invites you to an open meeting with Dr. Leszek Sykulski, which will take place on May 23 in Bydgoszcz. Gathering at 18:00 on Koscieleckich Square from the side of the church. At 18:15 transition to the meeting place. Recommended!

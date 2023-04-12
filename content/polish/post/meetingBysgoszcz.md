@@ -17,4 +17,4 @@ images:
   - Logo_Ruch-768x768.png
 ---
 
-Szczęść Boże, @KoronaBydgoszcz zaprasza na spotkanie otwarte z dr Leszkiem Sykulskim, które odbędzie się 14 kwietnia o godz. 18:30 w kinotearze przy ul. Toruńskiej 30 w Bydgoszczy. Polecamy!
+Szczęść Boże, @KoronaBydgoszcz zaprasza na spotkanie otwarte z dr Leszkiem Sykulskim, które odbędzie się 23 maja w Bydgoszczy. Zbiórka o godz. 18:00 na Placu Kościeleckich od strony kościoła. O godz. 18:15 przejście do miejsca spotkania. Polecamy!

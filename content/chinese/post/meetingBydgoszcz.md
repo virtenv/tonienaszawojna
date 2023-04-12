@@ -17,4 +17,4 @@ images:
   - Logo_Ruch-768x768.png
 ---
 
-大家好! @KoronaBydgoszcz想邀请您参加与Leszek Sykulski博士的公开会议，会议将于4月14日下午6:30在比得哥什市Toruńska街30号的Kinotear举行。推荐!
+大家好! @KoronaBydgoszcz想邀请你参加与Leszek Sykulski博士的公开会议，会议将于5月23日在比得哥什举行。18:00在Plac Kościeleckich从教堂的一侧集合。下午6:15步行到会议地点。推荐!
