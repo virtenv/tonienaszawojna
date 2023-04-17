@@ -1,6 +1,6 @@
 ---
 title: Stretnutie v Bydgoszczi
-date: 2023-03-24T08:08:49.800Z
+date: 2023-03-28T08:08:49.800Z
 author: Poľské Protivojnové Hnutie
 tags:
   - Stretnutie

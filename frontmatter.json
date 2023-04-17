@@ -76,6 +76,24 @@
           "title": "image",
           "name": "image",
           "type": "string"
+        },
+        {
+          "title": "toc",
+          "name": "toc",
+          "type": "datetime"
+        },
+        {
+          "title": "thumbnail",
+          "name": "thumbnail",
+          "type": "string"
+        },
+        {
+          "title": "images",
+          "name": "images",
+          "type": "choice",
+          "choices": [
+            "Logo_Ruch-768x768.png"
+          ]
         }
       ]
     },
