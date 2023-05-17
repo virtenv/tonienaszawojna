@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: A Lengyel Háborúellenes Mozgalom találkozója Bydgoszczban.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

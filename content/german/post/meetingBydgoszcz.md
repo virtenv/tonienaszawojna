@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: Treffen der polnischen Anti-Kriegs-Bewegung in Bydgoszcz.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

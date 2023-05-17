@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: Stretnutie Poľského Protivojnového Hnutia v Bydgoszczi.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

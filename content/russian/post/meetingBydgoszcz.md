@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: Встреча Польского Антивоенного Движения в Быдгоще.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

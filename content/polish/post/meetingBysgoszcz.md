@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: Spotkanie Polskiego Ruchu Antywojennego w Bydgoszczy.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

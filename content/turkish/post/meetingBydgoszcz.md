@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: Bydgoszcz'de Polonya Savaş Karşıtı Hareketi Toplantısı.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

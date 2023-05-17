@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: 在比得哥什举行的波兰反战运动会议。
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:

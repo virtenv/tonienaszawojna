@@ -10,7 +10,7 @@ noprevnext: true
 nodateline: true
 disable_comments: true
 description: Meeting of the Polish Anti-War Movement in Bydgoszcz.
-draft: false
+draft: true
 toc: false
 thumbnail: logo.png
 images:
